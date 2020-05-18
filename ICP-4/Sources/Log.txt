@@ -1,0 +1,370 @@
+[cloudera@quickstart ~]$ /usr/lib/hive/bin/hive
+
+Logging initialized using configuration in file:/etc/hive/conf.dist/hive-log4j.properties
+WARNING: Hive CLI is deprecated and migration to Beeline is recommended.
+hive> CREATE TABLE petrol (distributer_id STRING, distributer_name STRING, amt_IN STRING, amy_OUT STRING, vol_IN INT, vol_OUT INT, year INT)  ROW  FORMAT DELIMITED FIELDS TERMINATED BY ',' STORED AS textfile;
+OK
+Time taken: 0.774 seconds
+hive> ALTER TABLE petrol SET TBLPROPERTIES ("skip.header.line.count"="1");
+OK
+Time taken: 0.245 seconds
+hive> LOAD DATA LOCAL INPATH './petrol.txt' INTO TABLE petrol;
+Loading data to table default.petrol
+Table default.petrol stats: [numFiles=1, numRows=0, totalSize=19215, rawDataSize=0]
+OK
+Time taken: 0.898 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Petrol/output1' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT distributer_name, SUM(vol_OUT) FROM petrol GROUP BY distributer_name;
+Query ID = cloudera_20200221172121_b7ec6d3d-226a-493e-948a-5f3ab959931a
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks not specified. Estimated from input data size: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Starting Job = job_1582330330415_0004, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0004/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0004
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 1
+2020-02-21 17:21:21,859 Stage-1 map = 0%,  reduce = 0%
+2020-02-21 17:21:33,574 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 1.37 sec
+2020-02-21 17:21:47,055 Stage-1 map = 100%,  reduce = 100%, Cumulative CPU 3.02 sec
+MapReduce Total cumulative CPU time: 3 seconds 20 msec
+Ended Job = job_1582330330415_0004
+Copying data to local directory ICP4/Petrol/output1
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1  Reduce: 1   Cumulative CPU: 3.02 sec   HDFS Read: 27310 HDFS Write: 56 SUCCESS
+Total MapReduce CPU Time Spent: 3 seconds 20 msec
+OK
+Time taken: 40.848 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Petrol/output2' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT distributer_id, vol_OUT FROM petrol ORDER BY vol_OUT DESC LIMIT 10;
+Query ID = cloudera_20200221172222_8f32adf7-6786-4f79-8f68-3890e797e75f
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks determined at compile time: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Starting Job = job_1582330330415_0005, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0005/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0005
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 1
+2020-02-21 17:22:47,199 Stage-1 map = 0%,  reduce = 0%
+2020-02-21 17:22:55,836 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 1.33 sec
+2020-02-21 17:23:06,657 Stage-1 map = 100%,  reduce = 100%, Cumulative CPU 2.94 sec
+MapReduce Total cumulative CPU time: 2 seconds 940 msec
+Ended Job = job_1582330330415_0005
+Copying data to local directory ICP4/Petrol/output2
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1  Reduce: 1   Cumulative CPU: 2.94 sec   HDFS Read: 26407 HDFS Write: 120 SUCCESS
+Total MapReduce CPU Time Spent: 2 seconds 940 msec
+OK
+Time taken: 31.228 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Petrol/output3' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT distributer_id, vol_OUT FROM petrol ORDER BY vol_OUT LIMIT 10;
+Query ID = cloudera_20200221172323_a18ad564-b0b0-4268-ac34-be8d7368a864
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks determined at compile time: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Starting Job = job_1582330330415_0006, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0006/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0006
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 1
+2020-02-21 17:23:32,810 Stage-1 map = 0%,  reduce = 0%
+2020-02-21 17:23:41,765 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 1.34 sec
+2020-02-21 17:23:52,485 Stage-1 map = 100%,  reduce = 100%, Cumulative CPU 3.02 sec
+MapReduce Total cumulative CPU time: 3 seconds 20 msec
+Ended Job = job_1582330330415_0006
+Copying data to local directory ICP4/Petrol/output3
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1  Reduce: 1   Cumulative CPU: 3.02 sec   HDFS Read: 26407 HDFS Write: 120 SUCCESS
+Total MapReduce CPU Time Spent: 3 seconds 20 msec
+OK
+Time taken: 31.291 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Petrol/output4' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT distributer_name, year, (vol_IN - vol_OUT) FROM petrol WHERE (vol_IN - vol_OUT) > 400;
+Query ID = cloudera_20200221172424_24e1633f-fdc6-4115-b38b-f6c103ecbf24
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks is set to 0 since there's no reduce operator
+Starting Job = job_1582330330415_0007, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0007/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0007
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 0
+2020-02-21 17:24:20,334 Stage-1 map = 0%,  reduce = 0%
+2020-02-21 17:24:30,059 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 1.79 sec
+MapReduce Total cumulative CPU time: 1 seconds 790 msec
+Ended Job = job_1582330330415_0007
+Copying data to local directory ICP4/Petrol/output4
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1   Cumulative CPU: 1.79 sec   HDFS Read: 24266 HDFS Write: 614 SUCCESS
+Total MapReduce CPU Time Spent: 1 seconds 790 msec
+OK
+Time taken: 20.513 seconds
+hive> CREATE TABLE olympic(athelete STRING, age INT, country STRING, year STRING, closing STRING, sport STRING, gold INT, silver INT, bronze INT, total INT) ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t' STORED AS textfile;
+OK
+Time taken: 0.152 seconds
+hive> LOAD DATA LOCAL INPATH './olympic_data.csv' INTO TABLE olympic;
+Loading data to table default.olympic
+Table default.olympic stats: [numFiles=1, totalSize=518669]
+OK
+Time taken: 0.426 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Olympic/output1' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT country, SUM(total) FROM olympic WHERE sport = 'Swimming' GROUP BY country;
+Query ID = cloudera_20200221173434_6eb9d56a-b030-445e-a03f-5fc9782631da
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks not specified. Estimated from input data size: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Starting Job = job_1582330330415_0008, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0008/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0008
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 1
+2020-02-21 17:34:30,539 Stage-1 map = 0%,  reduce = 0%
+2020-02-21 17:34:40,308 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 1.89 sec
+2020-02-21 17:34:56,290 Stage-1 map = 100%,  reduce = 100%, Cumulative CPU 3.56 sec
+MapReduce Total cumulative CPU time: 3 seconds 560 msec
+Ended Job = job_1582330330415_0008
+Copying data to local directory ICP4/Olympic/output1
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1  Reduce: 1   Cumulative CPU: 3.56 sec   HDFS Read: 527839 HDFS Write: 386 SUCCESS
+Total MapReduce CPU Time Spent: 3 seconds 560 msec
+OK
+Time taken: 37.141 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Olympic/output2' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT year, SUM(total) FROM olympic WHERE country='India' GROUP BY year;
+Query ID = cloudera_20200221174242_a01b612b-2b82-422c-9ead-367e8b8b6311
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks not specified. Estimated from input data size: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Starting Job = job_1582330330415_0009, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0009/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0009
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 1
+2020-02-21 17:42:26,704 Stage-1 map = 0%,  reduce = 0%
+2020-02-21 17:42:36,513 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 1.88 sec
+2020-02-21 17:42:48,315 Stage-1 map = 100%,  reduce = 100%, Cumulative CPU 3.49 sec
+MapReduce Total cumulative CPU time: 3 seconds 490 msec
+Ended Job = job_1582330330415_0009
+Copying data to local directory ICP4/Olympic/output2
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1  Reduce: 1   Cumulative CPU: 3.49 sec   HDFS Read: 527892 HDFS Write: 28 SUCCESS
+Total MapReduce CPU Time Spent: 3 seconds 490 msec
+OK
+Time taken: 34.32 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Olympic/output3' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT country, SUM(total) FROM olympic GROUP BY country;
+Query ID = cloudera_20200221174343_4d1251de-eb2d-4b69-ad6c-e966a05b5c3f
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks not specified. Estimated from input data size: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Starting Job = job_1582330330415_0010, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0010/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0010
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 1
+2020-02-21 17:43:37,508 Stage-1 map = 0%,  reduce = 0%
+2020-02-21 17:43:46,139 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 1.57 sec
+2020-02-21 17:43:56,894 Stage-1 map = 100%,  reduce = 100%, Cumulative CPU 3.19 sec
+MapReduce Total cumulative CPU time: 3 seconds 190 msec
+Ended Job = job_1582330330415_0010
+Copying data to local directory ICP4/Olympic/output3
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1  Reduce: 1   Cumulative CPU: 3.19 sec   HDFS Read: 526836 HDFS Write: 1315 SUCCESS
+Total MapReduce CPU Time Spent: 3 seconds 190 msec
+OK
+Time taken: 30.309 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Olympic/output4' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT country, SUM(gold) FROM olympic GROUP BY country;
+Query ID = cloudera_20200221174444_70d5486a-c63e-479d-a434-3715476da02c
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks not specified. Estimated from input data size: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Starting Job = job_1582330330415_0011, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0011/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0011
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 1
+2020-02-21 17:44:45,476 Stage-1 map = 0%,  reduce = 0%
+2020-02-21 17:44:54,124 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 1.59 sec
+2020-02-21 17:45:04,817 Stage-1 map = 100%,  reduce = 100%, Cumulative CPU 3.25 sec
+MapReduce Total cumulative CPU time: 3 seconds 250 msec
+Ended Job = job_1582330330415_0011
+Copying data to local directory ICP4/Olympic/output4
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1  Reduce: 1   Cumulative CPU: 3.25 sec   HDFS Read: 526834 HDFS Write: 1276 SUCCESS
+Total MapReduce CPU Time Spent: 3 seconds 250 msec
+OK
+Time taken: 31.351 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Olympic/output5' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT country, year, total FROM olympic WHERE sport='Shooting' GROUP BY year, country, total;
+Query ID = cloudera_20200221174646_3327c7eb-a8e4-44a9-88ed-3d0de1935ef3
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks not specified. Estimated from input data size: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Starting Job = job_1582330330415_0012, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0012/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0012
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 1
+2020-02-21 17:46:17,768 Stage-1 map = 0%,  reduce = 0%
+2020-02-21 17:46:27,501 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 1.8 sec
+2020-02-21 17:46:37,236 Stage-1 map = 100%,  reduce = 100%, Cumulative CPU 3.54 sec
+MapReduce Total cumulative CPU time: 3 seconds 540 msec
+Ended Job = job_1582330330415_0012
+Copying data to local directory ICP4/Olympic/output5
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1  Reduce: 1   Cumulative CPU: 3.54 sec   HDFS Read: 528140 HDFS Write: 1566 SUCCESS
+Total MapReduce CPU Time Spent: 3 seconds 540 msec
+OK
+Time taken: 29.961 seconds
+hive> CREATE TABLE movies(movieId INT, title STRING, genres ARRAY<STRING>) ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' COLLECTION ITEMS TERMINATED BY '|' STORED AS textfile;
+OK
+Time taken: 0.179 seconds
+hive> ALTER TABLE movies SET TBLPROPERTIES ("skip.header.line.count"="1");
+OK
+Time taken: 0.089 seconds
+hive> LOAD DATA LOCAL INPATH './MovieLens/movies.csv' INTO TABLE movies;
+Loading data to table default.movies
+Table default.movies stats: [numFiles=1, numRows=0, totalSize=494431, rawDataSize=0]
+OK
+Time taken: 0.31 seconds
+hive> CREATE TABLE ratings(userId INT, movieId INT, rating DECIMAL(2,1), timestamp STRING) ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' STORED AS textfile;
+OK
+Time taken: 0.064 seconds
+hive> ALTER TABLE ratings SET TBLPROPERTIES ("skip.header.line.count"="1");
+OK
+Time taken: 0.083 seconds
+hive> LOAD DATA LOCAL INPATH './MovieLens/ratings.csv' INTO TABLE ratings;
+Loading data to table default.ratings
+Table default.ratings stats: [numFiles=1, numRows=0, totalSize=2483723, rawDataSize=0]
+OK
+Time taken: 0.257 seconds
+hive> CREATE TABLE users(user_id INT, gender STRING, occupation1 INT, occupation2 INT, zip_code STRING) ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' STORED AS textfile;
+OK
+Time taken: 0.076 seconds
+hive> ALTER TABLE users SET TBLPROPERTIES ("skip.header.line.count"="1");
+OK
+Time taken: 0.092 seconds
+hive> LOAD DATA LOCAL INPATH './MovieLens/users.txt' INTO TABLE users;
+Loading data to table default.users
+Table default.users stats: [numFiles=1, numRows=0, totalSize=116295, rawDataSize=0]
+OK
+Time taken: 0.404 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Movies/output1' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT title, genres FROM movies WHERE array_contains(genres, 'Action') AND array_contains(genres, 'Drama');
+Query ID = cloudera_20200221175353_0fe32869-ebbf-449b-ab76-c6c4ed99fdd1
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks is set to 0 since there's no reduce operator
+Starting Job = job_1582330330415_0013, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0013/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0013
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 0
+2020-02-21 17:53:53,060 Stage-1 map = 0%,  reduce = 0%
+2020-02-21 17:54:02,797 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 2.17 sec
+MapReduce Total cumulative CPU time: 2 seconds 170 msec
+Ended Job = job_1582330330415_0013
+Copying data to local directory ICP4/Movies/output1
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1   Cumulative CPU: 2.17 sec   HDFS Read: 498686 HDFS Write: 21357 SUCCESS
+Total MapReduce CPU Time Spent: 2 seconds 170 msec
+OK
+Time taken: 21.397 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Movies/output2' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT movieId, rating FROM ratings WHERE rating = 5.0;
+Query ID = cloudera_20200221175656_89c83773-93f1-4efc-b495-6fafecce0142
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks is set to 0 since there's no reduce operator
+Starting Job = job_1582330330415_0014, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0014/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0014
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 0
+2020-02-21 17:56:28,076 Stage-1 map = 0%,  reduce = 0%
+2020-02-21 17:56:38,884 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 3.39 sec
+MapReduce Total cumulative CPU time: 3 seconds 390 msec
+Ended Job = job_1582330330415_0014
+Copying data to local directory ICP4/Movies/output2
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1   Cumulative CPU: 3.39 sec   HDFS Read: 2487942 HDFS Write: 91061 SUCCESS
+Total MapReduce CPU Time Spent: 3 seconds 390 msec
+OK
+Time taken: 22.112 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Movies/output3' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT title, rating, genres FROM movies JOIN ratings ON movies.movieId = ratings.movieId WHERE array_contains(genres, 'Action') ORDER BY rating DESC LIMIT 11;
+Query ID = cloudera_20200221175757_d1dcca14-c620-4cb8-8333-ccb0d333775c
+Total jobs = 1
+Execution log at: /tmp/cloudera/cloudera_20200221175757_d1dcca14-c620-4cb8-8333-ccb0d333775c.log
+2020-02-21 05:57:33	Starting to launch local task to process map join;	maximum memory = 1013645312
+2020-02-21 05:57:36	Dump the side-table for tag: 0 with group count: 1499 into file: file:/tmp/cloudera/f1f9d0f4-44de-49e5-9d79-e36822453247/hive_2020-02-21_17-57-24_745_4211090891014359303-1/-local-10003/HashTable-Stage-2/MapJoin-mapfile00--.hashtable
+2020-02-21 05:57:36	Uploaded 1 File to: file:/tmp/cloudera/f1f9d0f4-44de-49e5-9d79-e36822453247/hive_2020-02-21_17-57-24_745_4211090891014359303-1/-local-10003/HashTable-Stage-2/MapJoin-mapfile00--.hashtable (119045 bytes)
+2020-02-21 05:57:36	End of local task; Time Taken: 2.87 sec.
+Execution completed successfully
+MapredLocal task succeeded
+Launching Job 1 out of 1
+Number of reduce tasks determined at compile time: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Starting Job = job_1582330330415_0015, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0015/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0015
+Hadoop job information for Stage-2: number of mappers: 1; number of reducers: 1
+2020-02-21 17:57:48,398 Stage-2 map = 0%,  reduce = 0%
+2020-02-21 17:58:00,392 Stage-2 map = 100%,  reduce = 0%, Cumulative CPU 4.1 sec
+2020-02-21 17:58:13,180 Stage-2 map = 100%,  reduce = 100%, Cumulative CPU 6.35 sec
+MapReduce Total cumulative CPU time: 6 seconds 350 msec
+Ended Job = job_1582330330415_0015
+Copying data to local directory ICP4/Movies/output3
+MapReduce Jobs Launched: 
+Stage-Stage-2: Map: 1  Reduce: 1   Cumulative CPU: 6.35 sec   HDFS Read: 2495937 HDFS Write: 632 SUCCESS
+Total MapReduce CPU Time Spent: 6 seconds 350 msec
+OK
+Time taken: 49.633 seconds
+hive> INSERT OVERWRITE LOCAL DIRECTORY 'ICP4/Bonus/output1' ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' SELECT title, rating, gender, genres FROM movies JOIN ratings ON movies.movieId = ratings.movieId JOIN users ON ratings.userId = users.user_id WHERE (array_contains(genres, 'Action') OR array_contains(genres, 'Drama')) AND rating >= 4.4 AND rating <= 4.9 AND gender = 'M';
+Query ID = cloudera_20200221180101_b1fa85d5-0019-4402-aaa5-19ddcdc52aa8
+Total jobs = 1
+Execution log at: /tmp/cloudera/cloudera_20200221180101_b1fa85d5-0019-4402-aaa5-19ddcdc52aa8.log
+2020-02-21 06:01:36	Starting to launch local task to process map join;	maximum memory = 1013645312
+2020-02-21 06:01:39	Dump the side-table for tag: 1 with group count: 4331 into file: file:/tmp/cloudera/f1f9d0f4-44de-49e5-9d79-e36822453247/hive_2020-02-21_18-01-27_865_6121368049095426163-1/-local-10003/HashTable-Stage-5/MapJoin-mapfile11--.hashtable
+2020-02-21 06:01:39	Uploaded 1 File to: file:/tmp/cloudera/f1f9d0f4-44de-49e5-9d79-e36822453247/hive_2020-02-21_18-01-27_865_6121368049095426163-1/-local-10003/HashTable-Stage-5/MapJoin-mapfile11--.hashtable (87040 bytes)
+2020-02-21 06:01:39	Dump the side-table for tag: 0 with group count: 4382 into file: file:/tmp/cloudera/f1f9d0f4-44de-49e5-9d79-e36822453247/hive_2020-02-21_18-01-27_865_6121368049095426163-1/-local-10003/HashTable-Stage-5/MapJoin-mapfile20--.hashtable
+2020-02-21 06:01:39	Uploaded 1 File to: file:/tmp/cloudera/f1f9d0f4-44de-49e5-9d79-e36822453247/hive_2020-02-21_18-01-27_865_6121368049095426163-1/-local-10003/HashTable-Stage-5/MapJoin-mapfile20--.hashtable (310662 bytes)
+2020-02-21 06:01:39	End of local task; Time Taken: 3.217 sec.
+Execution completed successfully
+MapredLocal task succeeded
+Launching Job 1 out of 1
+Number of reduce tasks is set to 0 since there's no reduce operator
+Starting Job = job_1582330330415_0016, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582330330415_0016/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582330330415_0016
+Hadoop job information for Stage-5: number of mappers: 1; number of reducers: 0
+2020-02-21 18:01:50,529 Stage-5 map = 0%,  reduce = 0%
+2020-02-21 18:02:01,295 Stage-5 map = 100%,  reduce = 0%, Cumulative CPU 4.21 sec
+MapReduce Total cumulative CPU time: 4 seconds 210 msec
+Ended Job = job_1582330330415_0016
+Copying data to local directory ICP4/Bonus/output1
+MapReduce Jobs Launched: 
+Stage-Stage-5: Map: 1   Cumulative CPU: 4.21 sec   HDFS Read: 2492750 HDFS Write: 155145 SUCCESS
+Total MapReduce CPU Time Spent: 4 seconds 210 msec
+OK
+Time taken: 35.572 seconds
+hive> 

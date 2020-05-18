@@ -1,0 +1,179 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 1,
+    "params": {
+      "indent": "true",
+      "q": "name:2 AND (initial_release_date:2005~0.75 OR initial_release_date:2005^1.5)",
+      "_": "1583552056910",
+      "wt": "json",
+      "rows": "20"
+    }
+  },
+  "response": {
+    "numFound": 22,
+    "start": 0,
+    "docs": [
+      {
+        "name": "Art of the Devil 2",
+        "directed_by": "Pasith Buranajan|Seree Phongnithi|Yosapong Polsap|Putipong Saisikaew|Art Thamthrakul|Kongkiat Khomsiri|Isara Nadee",
+        "genre": "Horror|Slasher|Fantasy|Mystery",
+        "id": "/en/art_of_the_devil_2",
+        "initial_release_date": "2005-12-01",
+        "_version_": 1660102725863473200
+      },
+      {
+        "name": "Cheaper by the Dozen 2",
+        "directed_by": "Adam Shankman",
+        "genre": "Family|Adventure Film|Domestic Comedy|Comedy",
+        "id": "/en/cheaper_by_the_dozen_2",
+        "initial_release_date": "2005-12-21",
+        "_version_": 1660102726289195000
+      },
+      {
+        "name": "Day of the Dead 2: Contagium",
+        "directed_by": "Ana Clavell|James Glenn Dudelson",
+        "genre": "Horror|Zombie Film",
+        "id": "/en/day_of_the_dead_2_contagium",
+        "initial_release_date": "2005-10-18",
+        "_version_": 1660102726381469700
+      },
+      {
+        "name": "2 Fast 2 Furious",
+        "directed_by": "John Singleton",
+        "genre": "Thriller|Action Film|Crime Fiction",
+        "id": "/en/2_fast_2_furious",
+        "initial_release_date": "2003-06-03",
+        "_version_": 1660102725586649000
+      },
+      {
+        "name": "Brother 2",
+        "directed_by": "Aleksei Balabanov",
+        "genre": "Crime Fiction|Thriller|Action Film",
+        "id": "/en/brother_2",
+        "initial_release_date": "2000-05-11",
+        "_version_": 1660102726172803000
+      },
+      {
+        "name": "Dhoom 2",
+        "directed_by": "Sanjay Gadhvi",
+        "genre": "Crime Fiction|Action/Adventure|Musical|World cinema|Buddy cop film|Action Film|Thriller|Action Thriller|Musical comedy|Comedy",
+        "id": "/en/dhoom_2",
+        "initial_release_date": "2006-11-23",
+        "_version_": 1660102726422364200
+      },
+      {
+        "name": "Election 2",
+        "directed_by": "Johnnie To",
+        "genre": "Thriller|Crime Fiction|Drama",
+        "id": "/en/election_2",
+        "initial_release_date": "2006-04-04",
+        "_version_": 1660102726514638800
+      },
+      {
+        "name": "American Pie 2",
+        "directed_by": "James B. Rogers",
+        "genre": "Romance Film|Comedy",
+        "id": "/en/american_pie_2",
+        "initial_release_date": "2001-08-06",
+        "_version_": 1660102725823627300
+      },
+      {
+        "name": "Dr. Dolittle 2",
+        "directed_by": "Steve Carr",
+        "genre": "Family|Fantasy Comedy|Comedy|Romance Film",
+        "id": "/en/dr_dolittle_2",
+        "initial_release_date": "2001-06-19",
+        "_version_": 1660102726468501500
+      },
+      {
+        "name": "Crocodile 2: Death Swamp",
+        "directed_by": "Gary Jones",
+        "genre": "Horror|Natural horror film|B movie|Action/Adventure|Action Film|Thriller|Adventure Film|Action Thriller|Creature Film",
+        "id": "/en/crocodile_2_death_swamp",
+        "initial_release_date": "2002-08-01",
+        "_version_": 1660102726364692500
+      },
+      {
+        "name": "Cube 2: Hypercube",
+        "directed_by": "Andrzej Sekuła",
+        "genre": "Science Fiction|Horror|Psychological thriller|Thriller|Escape Film",
+        "id": "/en/cube_2_hypercube",
+        "initial_release_date": "2002-04-15",
+        "_version_": 1660102726368886800
+      },
+      {
+        "name": "Cradle 2 the Grave",
+        "directed_by": "Andrzej Bartkowiak",
+        "genre": "Martial Arts Film|Thriller|Action Film|Crime Fiction|Buddy film|Action Thriller|Adventure Film|Crime",
+        "id": "/en/cradle_2_the_grave",
+        "initial_release_date": "2003-02-28",
+        "_version_": 1660102726361546800
+      },
+      {
+        "name": "Final Destination 2",
+        "directed_by": "David R. Ellis",
+        "genre": "Slasher|Teen film|Supernatural|Horror|Cult film|Thriller",
+        "id": "/en/final_destination_2",
+        "initial_release_date": "2003-01-30",
+        "_version_": 1660102726648856600
+      },
+      {
+        "name": "Ginger Snaps 2: Unleashed",
+        "directed_by": "Brett Sullivan",
+        "genre": "Thriller|Horror|Teen film|Creature Film|Feminist Film|Horror comedy|Comedy",
+        "id": "/en/ginger_snaps_2_unleashed",
+        "initial_release_date": "2004-01-30",
+        "_version_": 1660102726800900000
+      },
+      {
+        "name": "Basic Instinct 2",
+        "directed_by": "Michael Caton-Jones",
+        "genre": "Thriller|Erotic thriller|Psychological thriller|Mystery|Crime Fiction|Horror",
+        "id": "/en/basic_instinct_2",
+        "initial_release_date": "2006-03-31",
+        "_version_": 1660102725925339100
+      },
+      {
+        "name": "Big Momma's House 2",
+        "directed_by": "John Whitesell",
+        "genre": "Crime Fiction|Slapstick|Action Film|Action/Adventure|Thriller|Farce|Comedy",
+        "id": "/en/big_mommas_house_2",
+        "initial_release_date": "2006-01-26",
+        "_version_": 1660102725981962200
+      },
+      {
+        "name": "Brother Bear 2",
+        "directed_by": "Ben Gluck",
+        "genre": "Family|Animated cartoon|Fantasy|Adventure Film|Animation",
+        "id": "/en/brother_bear_2",
+        "initial_release_date": "2006-08-29",
+        "_version_": 1660102726172803000
+      },
+      {
+        "name": "George of the Jungle 2",
+        "directed_by": "David Grossman",
+        "genre": "Parody|Slapstick|Family|Jungle Film|Comedy",
+        "id": "/en/george_of_the_jungle_2",
+        "initial_release_date": "2003-08-18",
+        "_version_": 1660102726753714200
+      },
+      {
+        "name": "Book of Shadows: Blair Witch 2",
+        "directed_by": "Joe Berlinger",
+        "genre": "Horror|Supernatural|Mystery|Psychological thriller|Slasher|Thriller|Ensemble Film|Crime Fiction",
+        "id": "/en/book_of_shadows_blair_witch_2",
+        "initial_release_date": "2000-10-27",
+        "_version_": 1660102726085771300
+      },
+      {
+        "name": "Agent Cody Banks 2: Destination London",
+        "directed_by": "Kevin Allen",
+        "genre": "Adventure Film|Action Film|Family|Action/Adventure|Spy film|Children's/Family|Family-Oriented Adventure|Comedy",
+        "id": "/en/agent_cody_banks_2_destination_london",
+        "initial_release_date": "2004-03-12",
+        "_version_": 1660102725762809900
+      }
+    ]
+  }
+}

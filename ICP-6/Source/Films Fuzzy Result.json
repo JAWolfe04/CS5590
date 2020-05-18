@@ -1,0 +1,179 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 163,
+    "params": {
+      "indent": "true",
+      "q": "initial_release_date:2005~0.75",
+      "_": "1583551881608",
+      "wt": "json",
+      "rows": "20"
+    }
+  },
+  "response": {
+    "numFound": 981,
+    "start": 0,
+    "docs": [
+      {
+        "name": "Ant-Man",
+        "directed_by": "Peyton Reed",
+        "genre": "Thriller|Science Fiction|Action/Adventure|Superhero movie|Comedy",
+        "id": "/en/ant_man",
+        "initial_release_date": "2015-07-17",
+        "_version_": 1660102725849841700
+      },
+      {
+        "name": "American Cowslip",
+        "directed_by": "Mark David",
+        "genre": "Black comedy|Indie film|Comedy",
+        "id": "/en/american_cowslip",
+        "initial_release_date": "2009-07-24",
+        "_version_": 1660102725816287200
+      },
+      {
+        "name": "Angels & Demons",
+        "directed_by": "Ron Howard",
+        "genre": "Thriller|Mystery|Crime Fiction",
+        "id": "/en/angels_and_demons_2008",
+        "initial_release_date": "2009-05-04",
+        "_version_": 1660102725842501600
+      },
+      {
+        "name": "Avatar",
+        "directed_by": "James Cameron",
+        "genre": "Science Fiction|Adventure Film|Fantasy|Action Film",
+        "id": "/en/avatar_2009",
+        "initial_release_date": "2009-12-10",
+        "_version_": 1660102725892833300
+      },
+      {
+        "name": "Fantastic Mr. Fox",
+        "directed_by": "Wes Anderson",
+        "genre": "Animation|Adventure Film|Comedy|Family",
+        "id": "/en/fantastic_mr_fox_2007",
+        "initial_release_date": "2009-10-14",
+        "_version_": 1660102726639419400
+      },
+      {
+        "name": "Harry Potter and the Half-Blood Prince",
+        "directed_by": "David Yates",
+        "genre": "Adventure Film|Fantasy|Mystery|Action Film|Family|Romance Film|Children's Fantasy|Children's/Family|Fantasy Adventure|Fiction",
+        "id": "/en/harry_potter_and_the_half_blood_prince_2008",
+        "initial_release_date": "2009-07-06",
+        "_version_": 1660102726934069200
+      },
+      {
+        "name": "Adam Resurrected",
+        "directed_by": "Paul Schrader",
+        "genre": "Historical period drama|Film adaptation|War film|Drama",
+        "id": "/en/adam_resurrected",
+        "initial_release_date": "2008-08-30",
+        "_version_": 1660102725741838300
+      },
+      {
+        "name": "Aakasha Gopuram",
+        "directed_by": "K.P.Kumaran",
+        "genre": "Romance Film|Drama|Malayalam Cinema|World cinema",
+        "id": "/en/aakasha_gopuram",
+        "initial_release_date": "2008-08-22",
+        "_version_": 1660102725769101300
+      },
+      {
+        "name": "Jodhaa Akbar",
+        "directed_by": "Ashutosh Gowariker",
+        "genre": "Biographical film|Romance Film|Musical|World cinema|Adventure Film|Action Film|Historical fiction|Musical Drama|Drama",
+        "id": "/en/akbar-jodha",
+        "initial_release_date": "2008-02-13",
+        "_version_": 1660102725774344200
+      },
+      {
+        "name": "Bolt",
+        "directed_by": "Chris Williams|Byron Howard",
+        "genre": "Family|Adventure Film|Animation|Comedy",
+        "id": "/en/american_dog",
+        "initial_release_date": "2008-11-17",
+        "_version_": 1660102725817335800
+      },
+      {
+        "name": "Be Kind Rewind",
+        "directed_by": "Michel Gondry",
+        "genre": "Farce|Comedy of Errors|Comedy|Drama",
+        "id": "/en/be_kind_rewind",
+        "initial_release_date": "2008-01-20",
+        "_version_": 1660102725936873500
+      },
+      {
+        "name": "Bheemaa",
+        "directed_by": "N. Lingusamy",
+        "genre": "Action Film|Tamil cinema|World cinema",
+        "id": "/en/bheema",
+        "initial_release_date": "2008-01-14",
+        "_version_": 1660102725975670800
+      },
+      {
+        "name": "Dasavathaaram",
+        "directed_by": "K. S. Ravikumar",
+        "genre": "Science Fiction|Disaster Film|Tamil cinema",
+        "id": "/en/dasavatharam",
+        "initial_release_date": "2008-06-12",
+        "_version_": 1660102726378324000
+      },
+      {
+        "name": "Day of the Dead",
+        "directed_by": "Steve Miner",
+        "genre": "Splatter film|Doomsday film|Horror|Thriller|Cult film|Zombie Film",
+        "id": "/en/day_of_the_dead_2007",
+        "initial_release_date": "2008-04-08",
+        "_version_": 1660102726380421000
+      },
+      {
+        "name": "Death Walks the Streets",
+        "directed_by": "James Zahn",
+        "genre": "Indie film|Horror|Crime Fiction",
+        "id": "/en/death_walks_the_streets",
+        "initial_release_date": "2008-06-26",
+        "_version_": 1660102726398247000
+      },
+      {
+        "name": "Doomsday",
+        "directed_by": "Neil Marshall",
+        "genre": "Science Fiction|Action Film",
+        "id": "/en/doomsday_2008",
+        "initial_release_date": "2008-03-14",
+        "_version_": 1660102726461161500
+      },
+      {
+        "name": "Dragonlance: Dragons of Autumn Twilight",
+        "directed_by": "Will Meugniot",
+        "genre": "Animation|Sword and sorcery|Fantasy|Adventure Film|Science Fiction",
+        "id": "/en/dragonlance_dragons_of_autumn_twilight",
+        "initial_release_date": "2008-01-15",
+        "_version_": 1660102726473744400
+      },
+      {
+        "name": "Far Cry",
+        "directed_by": "Uwe Boll",
+        "genre": "Action Film|Science Fiction|Thriller|Adventure Film",
+        "id": "/en/far_cry_2008",
+        "initial_release_date": "2008-10-02",
+        "_version_": 1660102726639419400
+      },
+      {
+        "name": "Che: Part Two",
+        "directed_by": "Steven Soderbergh",
+        "genre": "Biographical film|War film|Historical drama|Drama",
+        "id": "/en/che_part_two",
+        "initial_release_date": "2008-05-21",
+        "_version_": 1660102726886883300
+      },
+      {
+        "name": "88 Minutes",
+        "directed_by": "Jon Avnet",
+        "genre": "Thriller|Psychological thriller|Mystery|Drama",
+        "id": "/en/88_minutes",
+        "initial_release_date": "2007-02-14",
+        "_version_": 1660102725619155000
+      }
+    ]
+  }
+}

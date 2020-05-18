@@ -1,0 +1,227 @@
+[cloudera@quickstart ~]$ sqoop import --connect jdbc:mysql://localhost/db1 --username root --password cloudera --columns line --table shakespeare --target-dir /user/hive/warehouse --hive-import --create-hive-table --hive-table shakespeare
+Warning: /usr/lib/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+20/02/28 23:36:03 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.13.0
+20/02/28 23:36:03 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+20/02/28 23:36:03 INFO tool.BaseSqoopTool: Using Hive-specific delimiters for output. You can override
+20/02/28 23:36:03 INFO tool.BaseSqoopTool: delimiters with --fields-terminated-by, etc.
+20/02/28 23:36:03 WARN tool.BaseSqoopTool: It seems that you're doing hive import directly into default
+20/02/28 23:36:03 WARN tool.BaseSqoopTool: hive warehouse directory which is not supported. Sqoop is
+20/02/28 23:36:03 WARN tool.BaseSqoopTool: firstly importing data into separate directory and then
+20/02/28 23:36:03 WARN tool.BaseSqoopTool: inserting data into hive. Please consider removing
+20/02/28 23:36:03 WARN tool.BaseSqoopTool: --target-dir or --warehouse-dir into /user/hive/warehouse in
+20/02/28 23:36:03 WARN tool.BaseSqoopTool: case that you will detect any issues.
+20/02/28 23:36:03 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+20/02/28 23:36:03 INFO tool.CodeGenTool: Beginning code generation
+20/02/28 23:36:04 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `shakespeare` AS t LIMIT 1
+20/02/28 23:36:04 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `shakespeare` AS t LIMIT 1
+20/02/28 23:36:04 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /usr/lib/hadoop-mapreduce
+Note: /tmp/sqoop-cloudera/compile/3aa08ba47b68d299102c52bddfd523ef/shakespeare.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+20/02/28 23:36:07 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-cloudera/compile/3aa08ba47b68d299102c52bddfd523ef/shakespeare.jar
+20/02/28 23:36:07 WARN manager.MySQLManager: It looks like you are importing from mysql.
+20/02/28 23:36:07 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+20/02/28 23:36:07 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+20/02/28 23:36:07 INFO manager.MySQLManager: Setting zero DATETIME behavior to convertToNull (mysql)
+20/02/28 23:36:07 ERROR tool.ImportTool: Import failed: No primary key could be found for table shakespeare. Please specify one with --split-by or perform a sequential import with '-m 1'.
+[cloudera@quickstart ~]$ sqoop import --connect jdbc:mysql://localhost/db1 --username root --password cloudera --columns line --table shakespeare --target-dir /user/hive/warehouse --hive-import --create-hive-table --hive-table shakespeare -m 1
+Warning: /usr/lib/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+20/02/28 23:36:31 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.13.0
+20/02/28 23:36:31 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+20/02/28 23:36:31 INFO tool.BaseSqoopTool: Using Hive-specific delimiters for output. You can override
+20/02/28 23:36:31 INFO tool.BaseSqoopTool: delimiters with --fields-terminated-by, etc.
+20/02/28 23:36:31 WARN tool.BaseSqoopTool: It seems that you're doing hive import directly into default
+20/02/28 23:36:31 WARN tool.BaseSqoopTool: hive warehouse directory which is not supported. Sqoop is
+20/02/28 23:36:31 WARN tool.BaseSqoopTool: firstly importing data into separate directory and then
+20/02/28 23:36:31 WARN tool.BaseSqoopTool: inserting data into hive. Please consider removing
+20/02/28 23:36:31 WARN tool.BaseSqoopTool: --target-dir or --warehouse-dir into /user/hive/warehouse in
+20/02/28 23:36:31 WARN tool.BaseSqoopTool: case that you will detect any issues.
+20/02/28 23:36:31 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+20/02/28 23:36:31 INFO tool.CodeGenTool: Beginning code generation
+20/02/28 23:36:32 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `shakespeare` AS t LIMIT 1
+20/02/28 23:36:32 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `shakespeare` AS t LIMIT 1
+20/02/28 23:36:32 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /usr/lib/hadoop-mapreduce
+Note: /tmp/sqoop-cloudera/compile/9d31f71720aae96094f9fa10f9769059/shakespeare.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+20/02/28 23:36:35 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-cloudera/compile/9d31f71720aae96094f9fa10f9769059/shakespeare.jar
+20/02/28 23:36:35 WARN manager.MySQLManager: It looks like you are importing from mysql.
+20/02/28 23:36:35 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+20/02/28 23:36:35 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+20/02/28 23:36:35 INFO manager.MySQLManager: Setting zero DATETIME behavior to convertToNull (mysql)
+20/02/28 23:36:35 INFO mapreduce.ImportJobBase: Beginning import of shakespeare
+20/02/28 23:36:35 INFO Configuration.deprecation: mapred.job.tracker is deprecated. Instead, use mapreduce.jobtracker.address
+20/02/28 23:36:36 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+20/02/28 23:36:37 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+20/02/28 23:36:37 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+20/02/28 23:36:38 WARN security.UserGroupInformation: PriviledgedActionException as:cloudera (auth:SIMPLE) cause:org.apache.hadoop.mapred.FileAlreadyExistsException: Output directory hdfs://quickstart.cloudera:8020/user/hive/warehouse already exists
+20/02/28 23:36:38 ERROR tool.ImportTool: Import failed: org.apache.hadoop.mapred.FileAlreadyExistsException: Output directory hdfs://quickstart.cloudera:8020/user/hive/warehouse already exists
+	at org.apache.hadoop.mapreduce.lib.output.FileOutputFormat.checkOutputSpecs(FileOutputFormat.java:146)
+	at org.apache.hadoop.mapreduce.JobSubmitter.checkSpecs(JobSubmitter.java:270)
+	at org.apache.hadoop.mapreduce.JobSubmitter.submitJobInternal(JobSubmitter.java:143)
+	at org.apache.hadoop.mapreduce.Job$10.run(Job.java:1307)
+	at org.apache.hadoop.mapreduce.Job$10.run(Job.java:1304)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at javax.security.auth.Subject.doAs(Subject.java:415)
+	at org.apache.hadoop.security.UserGroupInformation.doAs(UserGroupInformation.java:1917)
+	at org.apache.hadoop.mapreduce.Job.submit(Job.java:1304)
+	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1325)
+	at org.apache.sqoop.mapreduce.ImportJobBase.doSubmitJob(ImportJobBase.java:203)
+	at org.apache.sqoop.mapreduce.ImportJobBase.runJob(ImportJobBase.java:176)
+	at org.apache.sqoop.mapreduce.ImportJobBase.runImport(ImportJobBase.java:273)
+	at org.apache.sqoop.manager.SqlManager.importTable(SqlManager.java:692)
+	at org.apache.sqoop.manager.MySQLManager.importTable(MySQLManager.java:127)
+	at org.apache.sqoop.tool.ImportTool.importTable(ImportTool.java:513)
+	at org.apache.sqoop.tool.ImportTool.run(ImportTool.java:621)
+	at org.apache.sqoop.Sqoop.run(Sqoop.java:147)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:70)
+	at org.apache.sqoop.Sqoop.runSqoop(Sqoop.java:183)
+	at org.apache.sqoop.Sqoop.runTool(Sqoop.java:234)
+	at org.apache.sqoop.Sqoop.runTool(Sqoop.java:243)
+	at org.apache.sqoop.Sqoop.main(Sqoop.java:252)
+
+[cloudera@quickstart ~]$ sqoop import --connect jdbc:mysql://localhost/db1 --username root --password cloudera --columns line --table shakespeare --target-dir /user/hive/warehouse/shakespeare --hive-import --create-hive-table --hive-table shakespeare -m 1
+Warning: /usr/lib/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+20/02/28 23:37:09 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.13.0
+20/02/28 23:37:09 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+20/02/28 23:37:09 INFO tool.BaseSqoopTool: Using Hive-specific delimiters for output. You can override
+20/02/28 23:37:09 INFO tool.BaseSqoopTool: delimiters with --fields-terminated-by, etc.
+20/02/28 23:37:09 WARN tool.BaseSqoopTool: It seems that you're doing hive import directly into default
+20/02/28 23:37:09 WARN tool.BaseSqoopTool: hive warehouse directory which is not supported. Sqoop is
+20/02/28 23:37:09 WARN tool.BaseSqoopTool: firstly importing data into separate directory and then
+20/02/28 23:37:09 WARN tool.BaseSqoopTool: inserting data into hive. Please consider removing
+20/02/28 23:37:09 WARN tool.BaseSqoopTool: --target-dir or --warehouse-dir into /user/hive/warehouse in
+20/02/28 23:37:09 WARN tool.BaseSqoopTool: case that you will detect any issues.
+20/02/28 23:37:09 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+20/02/28 23:37:09 INFO tool.CodeGenTool: Beginning code generation
+20/02/28 23:37:10 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `shakespeare` AS t LIMIT 1
+20/02/28 23:37:10 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `shakespeare` AS t LIMIT 1
+20/02/28 23:37:10 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /usr/lib/hadoop-mapreduce
+Note: /tmp/sqoop-cloudera/compile/cb3c544a126efa85492332155b487153/shakespeare.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+20/02/28 23:37:13 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-cloudera/compile/cb3c544a126efa85492332155b487153/shakespeare.jar
+20/02/28 23:37:13 WARN manager.MySQLManager: It looks like you are importing from mysql.
+20/02/28 23:37:13 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+20/02/28 23:37:13 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+20/02/28 23:37:13 INFO manager.MySQLManager: Setting zero DATETIME behavior to convertToNull (mysql)
+20/02/28 23:37:13 INFO mapreduce.ImportJobBase: Beginning import of shakespeare
+20/02/28 23:37:13 INFO Configuration.deprecation: mapred.job.tracker is deprecated. Instead, use mapreduce.jobtracker.address
+20/02/28 23:37:14 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+20/02/28 23:37:15 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+20/02/28 23:37:15 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+20/02/28 23:37:17 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1281)
+	at java.lang.Thread.join(Thread.java:1355)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:967)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:705)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:894)
+20/02/28 23:37:17 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1281)
+	at java.lang.Thread.join(Thread.java:1355)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:967)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:705)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:894)
+20/02/28 23:37:17 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1281)
+	at java.lang.Thread.join(Thread.java:1355)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:967)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:705)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:894)
+20/02/28 23:37:17 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1281)
+	at java.lang.Thread.join(Thread.java:1355)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:967)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:705)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:894)
+20/02/28 23:37:17 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1281)
+	at java.lang.Thread.join(Thread.java:1355)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:967)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:705)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:894)
+20/02/28 23:37:18 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1281)
+	at java.lang.Thread.join(Thread.java:1355)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:967)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:705)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:894)
+20/02/28 23:37:18 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1281)
+	at java.lang.Thread.join(Thread.java:1355)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:967)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:705)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:894)
+20/02/28 23:37:19 INFO db.DBInputFormat: Using read commited transaction isolation
+20/02/28 23:37:19 INFO mapreduce.JobSubmitter: number of splits:1
+20/02/28 23:37:19 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1582959577954_0001
+20/02/28 23:37:20 INFO impl.YarnClientImpl: Submitted application application_1582959577954_0001
+20/02/28 23:37:20 INFO mapreduce.Job: The url to track the job: http://quickstart.cloudera:8088/proxy/application_1582959577954_0001/
+20/02/28 23:37:20 INFO mapreduce.Job: Running job: job_1582959577954_0001
+20/02/28 23:37:32 INFO mapreduce.Job: Job job_1582959577954_0001 running in uber mode : false
+20/02/28 23:37:32 INFO mapreduce.Job:  map 0% reduce 0%
+20/02/28 23:37:43 INFO mapreduce.Job:  map 100% reduce 0%
+20/02/28 23:37:44 INFO mapreduce.Job: Job job_1582959577954_0001 completed successfully
+20/02/28 23:37:44 INFO mapreduce.Job: Counters: 30
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=171458
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=87
+		HDFS: Number of bytes written=733191
+		HDFS: Number of read operations=4
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Launched map tasks=1
+		Other local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=8064
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=8064
+		Total vcore-milliseconds taken by all map tasks=8064
+		Total megabyte-milliseconds taken by all map tasks=8257536
+	Map-Reduce Framework
+		Map input records=175376
+		Map output records=175376
+		Input split bytes=87
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=113
+		CPU time spent (ms)=2290
+		Physical memory (bytes) snapshot=146317312
+		Virtual memory (bytes) snapshot=1511243776
+		Total committed heap usage (bytes)=60751872
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=733191
+20/02/28 23:37:44 INFO mapreduce.ImportJobBase: Transferred 716.0068 KB in 28.6251 seconds (25.0133 KB/sec)
+20/02/28 23:37:44 INFO mapreduce.ImportJobBase: Retrieved 175376 records.
+20/02/28 23:37:44 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `shakespeare` AS t LIMIT 1
+20/02/28 23:37:44 INFO hive.HiveImport: Loading uploaded data into Hive
+
+Logging initialized using configuration in jar:file:/usr/lib/hive/lib/hive-common-1.1.0-cdh5.13.0.jar!/hive-log4j.properties
+OK
+Time taken: 2.899 seconds
+Loading data to table default.shakespeare
+Table default.shakespeare stats: [numFiles=1, numRows=0, totalSize=733191, rawDataSize=0]
+OK
+Time taken: 0.66 seconds
+[cloudera@quickstart ~]$ sqoop import --connect jdbc:mysql://localhost/db1 --username root --password cloudera --columns line --table shakespeare --target-dir /user/hive/warehouse/shakespeare --hive-import --create-hive-table --hive-table shakespeare -m 1

@@ -1,0 +1,30 @@
+[cloudera@quickstart ~]$ hive
+
+Logging initialized using configuration in file:/etc/hive/conf.dist/hive-log4j.properties
+WARNING: Hive CLI is deprecated and migration to Beeline is recommended.
+hive> Select Count(line) from shakespeare where line like '% she %' and line like '% he %';
+Query ID = cloudera_20200229002525_1899ee5c-9660-46d7-a5e7-26ee96763c02
+Total jobs = 1
+Launching Job 1 out of 1
+Number of reduce tasks determined at compile time: 1
+In order to change the average load for a reducer (in bytes):
+  set hive.exec.reducers.bytes.per.reducer=<number>
+In order to limit the maximum number of reducers:
+  set hive.exec.reducers.max=<number>
+In order to set a constant number of reducers:
+  set mapreduce.job.reduces=<number>
+Starting Job = job_1582959577954_0011, Tracking URL = http://quickstart.cloudera:8088/proxy/application_1582959577954_0011/
+Kill Command = /usr/lib/hadoop/bin/hadoop job  -kill job_1582959577954_0011
+Hadoop job information for Stage-1: number of mappers: 1; number of reducers: 1
+2020-02-29 00:25:20,878 Stage-1 map = 0%,  reduce = 0%
+2020-02-29 00:25:30,820 Stage-1 map = 100%,  reduce = 0%, Cumulative CPU 2.23 sec
+2020-02-29 00:25:40,891 Stage-1 map = 100%,  reduce = 100%, Cumulative CPU 3.82 sec
+MapReduce Total cumulative CPU time: 3 seconds 820 msec
+Ended Job = job_1582959577954_0011
+MapReduce Jobs Launched: 
+Stage-Stage-1: Map: 1  Reduce: 1   Cumulative CPU: 3.82 sec   HDFS Read: 741102 HDFS Write: 3 SUCCESS
+Total MapReduce CPU Time Spent: 3 seconds 820 msec
+OK
+12
+Time taken: 34.233 seconds, Fetched: 1 row(s)
+hive> 

@@ -1,0 +1,176 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 52,
+    "params": {
+      "indent": "true",
+      "q": "name:\"the of\"~20",
+      "_": "1583551824522",
+      "wt": "json",
+      "rows": "20"
+    }
+  },
+  "response": {
+    "numFound": 43,
+    "start": 0,
+    "docs": [
+      {
+        "name": "The Crime of Father Amaro",
+        "directed_by": "Carlos Carrera",
+        "genre": "Romance Film|Drama",
+        "id": "/en/el_crimen_del_padre_amaro",
+        "initial_release_date": "2002-08-16",
+        "_version_": 1660102726511493000
+      },
+      {
+        "name": "Aliens of the Deep",
+        "directed_by": "James Cameron|Steven Quale|Steven Quale",
+        "genre": "Documentary film|Travel|Education|Biological Sciences",
+        "id": "/en/aliens_of_the_deep",
+        "initial_release_date": "2005-01-28",
+        "_version_": 1660102725802655700
+      },
+      {
+        "name": "Belly of the Beast",
+        "directed_by": "Ching Siu-tung",
+        "genre": "Action Film|Thriller|Political thriller|Martial Arts Film|Action/Adventure|Crime Thriller|Action Thriller|Chinese Movies",
+        "id": "/en/belly_of_the_beast",
+        "initial_release_date": "2003-12-30",
+        "_version_": 1660102725953650700
+      },
+      {
+        "name": "Brotherhood of the Wolf",
+        "directed_by": "Christophe Gans",
+        "genre": "Martial Arts Film|Adventure Film|Mystery|Science Fiction|Historical fiction|Thriller|Action Film",
+        "id": "/en/brotherhood_of_the_wolf",
+        "initial_release_date": "2001-01-31",
+        "_version_": 1660102726178046000
+      },
+      {
+        "name": "Brothers of the Head",
+        "directed_by": "Keith Fulton|Louis Pepe",
+        "genre": "Indie film|Musical|Film adaptation|Music|Mockumentary|Comedy-drama|Historical period drama|Musical Drama|Drama",
+        "id": "/en/brothers_of_the_head",
+        "initial_release_date": "2005-09-10",
+        "_version_": 1660102726179094500
+      },
+      {
+        "name": "Dawn of the Dead",
+        "directed_by": "Zack Snyder",
+        "genre": "Horror|Action Film|Thriller|Science Fiction|Drama",
+        "id": "/en/dawn_of_the_dead_2004",
+        "initial_release_date": "2004-03-10",
+        "_version_": 1660102726380421000
+      },
+      {
+        "name": "Day of the Dead",
+        "directed_by": "Steve Miner",
+        "genre": "Splatter film|Doomsday film|Horror|Thriller|Cult film|Zombie Film",
+        "id": "/en/day_of_the_dead_2007",
+        "initial_release_date": "2008-04-08",
+        "_version_": 1660102726380421000
+      },
+      {
+        "name": "Employee of the Month",
+        "directed_by": "Mitch Rouse",
+        "genre": "Black comedy|Indie film|Heist film|Comedy",
+        "id": "/en/employee_of_the_month_2004",
+        "initial_release_date": "2004-01-17",
+        "_version_": 1660102726526173200
+      },
+      {
+        "name": "Employee of the Month",
+        "directed_by": "Greg Coolidge",
+        "genre": "Romantic comedy|Romance Film|Comedy",
+        "id": "/en/employee_of_the_month",
+        "initial_release_date": "2006-10-06",
+        "_version_": 1660102726526173200
+      },
+      {
+        "name": "End of the Spear",
+        "directed_by": "Jim Hanon",
+        "genre": "Docudrama|Christian film|Indie film|Adventure Film|Historical period drama|Action/Adventure|Inspirational Drama|Drama",
+        "id": "/en/end_of_the_spear",
+        "_version_": 1660102726540853200
+      },
+      {
+        "name": "Farce of the Penguins",
+        "directed_by": "Bob Saget",
+        "genre": "Parody|Mockumentary|Adventure Comedy|Comedy",
+        "id": "/en/farce_of_the_penguins",
+        "_version_": 1660102726640468000
+      },
+      {
+        "name": "Fear of the Dark",
+        "directed_by": "Glen Baisley",
+        "genre": "Horror|Mystery|Psychological thriller|Thriller|Drama",
+        "id": "/en/fear_of_the_dark_2006",
+        "initial_release_date": "2001-10-06",
+        "_version_": 1660102726643613700
+      },
+      {
+        "name": "Flight of the Phoenix",
+        "directed_by": "John Moore",
+        "genre": "Airplanes and airports|Disaster Film|Action Film|Adventure Film|Action/Adventure|Film adaptation|Drama",
+        "id": "/en/flight_of_the_phoenix",
+        "initial_release_date": "2004-12-17",
+        "_version_": 1660102726679265300
+      },
+      {
+        "name": "Forest of the Gods",
+        "directed_by": "Algimantas Puipa",
+        "genre": "War film|Drama",
+        "id": "/en/diev_mi_kas",
+        "initial_release_date": "2005-09-23",
+        "_version_": 1660102726688702500
+      },
+      {
+        "name": "An American Tail: The Mystery of the Night Monster",
+        "directed_by": "Larry Latham",
+        "genre": "Fantasy|Animated cartoon|Animation|Music|Family|Adventure Film|Children's Fantasy|Children's/Family|Family-Oriented Adventure",
+        "id": "/en/an_american_tail_the_mystery_of_the_night_monster",
+        "initial_release_date": "2000-07-25",
+        "_version_": 1660102725829918700
+      },
+      {
+        "name": "The Best of The Bloodiest Brawls, Vol. 1",
+        "genre": "Sports",
+        "id": "/en/the_best_of_the_bloodiest_brawls_vol_1",
+        "initial_release_date": "2006-03-14",
+        "_version_": 1660102725958893600
+      },
+      {
+        "name": "H. G. Wells' The War of the Worlds",
+        "directed_by": "Timothy Hines",
+        "genre": "Indie film|Steampunk|Science Fiction|Thriller",
+        "id": "/en/h_g_wells_the_war_of_the_worlds",
+        "initial_release_date": "2005-06-14",
+        "_version_": 1660102726896320500
+      },
+      {
+        "name": "Harry Potter and the Order of the Phoenix",
+        "directed_by": "David Yates",
+        "genre": "Family|Mystery|Adventure Film|Fantasy|Fantasy Adventure|Fiction",
+        "id": "/en/harry_potter_and_the_order_of_the_phoenix_2007",
+        "initial_release_date": "2007-06-28",
+        "_version_": 1660102726934069200
+      },
+      {
+        "name": "Anchorman: The Legend of Ron Burgundy",
+        "directed_by": "Adam McKay",
+        "genre": "Comedy",
+        "id": "/en/anchorman_the_legend_of_ron_burgundy",
+        "initial_release_date": "2004-06-28",
+        "_version_": 1660102725838307300
+      },
+      {
+        "name": "Bridget Jones: The Edge of Reason",
+        "directed_by": "Beeban Kidron",
+        "genre": "Romantic comedy|Romance Film|Comedy",
+        "id": "/en/bridget_jones_the_edge_of_reason",
+        "initial_release_date": "2004-11-08",
+        "_version_": 1660102726147637200
+      }
+    ]
+  }
+}

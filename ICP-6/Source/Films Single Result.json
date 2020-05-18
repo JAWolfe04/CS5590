@@ -1,0 +1,179 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 116,
+    "params": {
+      "indent": "true",
+      "q": "initial_release_date:2005",
+      "_": "1583551679094",
+      "wt": "json",
+      "rows": "20"
+    }
+  },
+  "response": {
+    "numFound": 167,
+    "start": 0,
+    "docs": [
+      {
+        "name": "9",
+        "directed_by": "Shane Acker",
+        "genre": "Computer Animation|Animation|Apocalyptic and post-apocalyptic fiction|Science Fiction|Short Film|Thriller|Fantasy",
+        "id": "/en/9_2005",
+        "initial_release_date": "2005-04-21",
+        "_version_": 1660102725578260500
+      },
+      {
+        "name": "15 Park Avenue",
+        "directed_by": "Aparna Sen",
+        "genre": "Art film|Romance Film|Musical|Drama|Musical Drama",
+        "id": "/en/15_park_avenue",
+        "initial_release_date": "2005-10-27",
+        "_version_": 1660102725585600500
+      },
+      {
+        "name": "7 Seconds",
+        "directed_by": "Simon Fellows",
+        "genre": "Thriller|Action Film|Crime Fiction",
+        "id": "/en/7_seconds_2005",
+        "initial_release_date": "2005-06-28",
+        "_version_": 1660102725601329200
+      },
+      {
+        "name": "The 9th Company",
+        "directed_by": "Fedor Bondarchuk",
+        "genre": "War film|Action Film|Historical fiction|Drama",
+        "id": "/en/9th_company",
+        "initial_release_date": "2005-09-29",
+        "_version_": 1660102725603426300
+      },
+      {
+        "name": "500 Years Later",
+        "directed_by": "Owen 'Alik Shahadah",
+        "genre": "Indie film|Documentary film|History",
+        "id": "/en/500_years_later",
+        "initial_release_date": "2005-10-11",
+        "_version_": 1660102725620203500
+      },
+      {
+        "name": "7½ Phere",
+        "directed_by": "Ishaan Trivedi",
+        "genre": "Bollywood|Comedy|Drama",
+        "id": "/en/7_phere",
+        "initial_release_date": "2005-07-29",
+        "_version_": 1660102725626495000
+      },
+      {
+        "name": "A Cock and Bull Story",
+        "directed_by": "Michael Winterbottom",
+        "genre": "Mockumentary|Indie film|Comedy|Drama",
+        "id": "/en/a_cock_and_bull_story",
+        "initial_release_date": "2005-07-17",
+        "_version_": 1660102725629640700
+      },
+      {
+        "name": "A Duo Occasion",
+        "directed_by": "Pierre Lamoureux",
+        "genre": "Music video",
+        "id": "/en/a_duo_occasion",
+        "initial_release_date": "2005-11-22",
+        "_version_": 1660102725636980700
+      },
+      {
+        "name": "A History of Violence",
+        "directed_by": "David Cronenberg",
+        "genre": "Thriller|Psychological thriller|Crime Fiction|Drama",
+        "id": "/en/a_history_of_violence_2005",
+        "initial_release_date": "2005-05-16",
+        "_version_": 1660102725641175000
+      },
+      {
+        "name": "A Little Trip to Heaven",
+        "directed_by": "Baltasar Kormákur",
+        "genre": "Thriller|Crime Fiction|Black comedy|Indie film|Comedy-drama|Detective fiction|Ensemble Film|Drama",
+        "id": "/en/a_little_trip_to_heaven",
+        "initial_release_date": "2005-12-26",
+        "_version_": 1660102725650612200
+      },
+      {
+        "name": "A Lot like Love",
+        "directed_by": "Nigel Cole",
+        "genre": "Romantic comedy|Romance Film|Comedy-drama|Comedy|Drama",
+        "id": "/en/a_lot_like_love",
+        "initial_release_date": "2005-04-21",
+        "_version_": 1660102725653758000
+      },
+      {
+        "name": "A Sound of Thunder",
+        "directed_by": "Peter Hyams",
+        "genre": "Science Fiction|Adventure Film|Thriller|Action Film|Apocalyptic and post-apocalyptic fiction|Time travel",
+        "id": "/en/a_sound_of_thunder_2005",
+        "initial_release_date": "2005-05-15",
+        "_version_": 1660102725685215200
+      },
+      {
+        "name": "A State of Mind",
+        "directed_by": "Daniel Gordon",
+        "genre": "Documentary film|Political cinema|Sports",
+        "id": "/en/a_state_of_mind",
+        "initial_release_date": "2005-08-10",
+        "_version_": 1660102725686263800
+      },
+      {
+        "name": "Aaru",
+        "directed_by": "Hari",
+        "genre": "Thriller|Action Film|Drama|Tamil cinema|World cinema",
+        "id": "/en/aaru_2005",
+        "initial_release_date": "2005-12-09",
+        "_version_": 1660102725716672500
+      },
+      {
+        "name": "Adam & Steve",
+        "directed_by": "Craig Chester",
+        "genre": "Romance Film|Romantic comedy|LGBT|Gay Themed|Indie film|Gay|Gay Interest|Comedy",
+        "id": "/en/adam_steve",
+        "initial_release_date": "2005-04-24",
+        "_version_": 1660102725740789800
+      },
+      {
+        "name": "Mother of Mine",
+        "directed_by": "Klaus Härö",
+        "genre": "War film|Drama",
+        "id": "/en/aideista_parhain",
+        "initial_release_date": "2005-08-25",
+        "_version_": 1660102725763858400
+      },
+      {
+        "name": "Air",
+        "directed_by": "Osamu Dezaki",
+        "genre": "Fantasy|Anime|Animation|Japanese Movies|Drama",
+        "id": "/en/air_2005",
+        "initial_release_date": "2005-02-05",
+        "_version_": 1660102725765955600
+      },
+      {
+        "name": "Aliens of the Deep",
+        "directed_by": "James Cameron|Steven Quale|Steven Quale",
+        "genre": "Documentary film|Travel|Education|Biological Sciences",
+        "id": "/en/aliens_of_the_deep",
+        "initial_release_date": "2005-01-28",
+        "_version_": 1660102725802655700
+      },
+      {
+        "name": "All Souls Day",
+        "directed_by": "Jeremy Kasten|Mark A. Altman",
+        "genre": "Horror|Supernatural|Zombie Film",
+        "id": "/en/all_souls_day_2005",
+        "initial_release_date": "2005-01-25",
+        "_version_": 1660102725806850000
+      },
+      {
+        "name": "Allari Pidugu",
+        "directed_by": "Jayant Paranji",
+        "genre": "Drama|Tollywood|World cinema",
+        "id": "/en/allari_pidugu",
+        "initial_release_date": "2005-10-05",
+        "_version_": 1660102725808947200
+      }
+    ]
+  }
+}

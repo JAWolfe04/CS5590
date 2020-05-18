@@ -1,0 +1,179 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 1,
+    "params": {
+      "indent": "true",
+      "q": "inStock:true^5 OR inStock:false^1",
+      "_": "1583550723352",
+      "wt": "json",
+      "rows": "20"
+    }
+  },
+  "response": {
+    "numFound": 10,
+    "start": 0,
+    "docs": [
+      {
+        "id": "0553573403",
+        "cat": [
+          "book"
+        ],
+        "name": "A Game of Thrones",
+        "price": 7.99,
+        "price_c": "7.99,USD",
+        "inStock": true,
+        "author": "George R.R. Martin",
+        "author_s": "George R.R. Martin",
+        "series_t": "A Song of Ice and Fire",
+        "sequence_i": 1,
+        "genre_s": "fantasy",
+        "_version_": 1660107346633818000
+      },
+      {
+        "id": "0553579908",
+        "cat": [
+          "book"
+        ],
+        "name": "A Clash of Kings",
+        "price": 7.99,
+        "price_c": "7.99,USD",
+        "inStock": true,
+        "author": "George R.R. Martin",
+        "author_s": "George R.R. Martin",
+        "series_t": "A Song of Ice and Fire",
+        "sequence_i": 2,
+        "genre_s": "fantasy",
+        "_version_": 1660107346712461300
+      },
+      {
+        "id": "055357342X",
+        "cat": [
+          "book"
+        ],
+        "name": "A Storm of Swords",
+        "price": 7.99,
+        "price_c": "7.99,USD",
+        "inStock": true,
+        "author": "George R.R. Martin",
+        "author_s": "George R.R. Martin",
+        "series_t": "A Song of Ice and Fire",
+        "sequence_i": 3,
+        "genre_s": "fantasy",
+        "_version_": 1660107346713510000
+      },
+      {
+        "id": "0553293354",
+        "cat": [
+          "book"
+        ],
+        "name": "Foundation",
+        "price": 7.99,
+        "price_c": "7.99,USD",
+        "inStock": true,
+        "author": "Isaac Asimov",
+        "author_s": "Isaac Asimov",
+        "series_t": "Foundation Novels",
+        "sequence_i": 1,
+        "genre_s": "scifi",
+        "_version_": 1660107346713510000
+      },
+      {
+        "id": "0812550706",
+        "cat": [
+          "book"
+        ],
+        "name": "Ender's Game",
+        "price": 6.99,
+        "price_c": "6.99,USD",
+        "inStock": true,
+        "author": "Orson Scott Card",
+        "author_s": "Orson Scott Card",
+        "series_t": "Ender",
+        "sequence_i": 1,
+        "genre_s": "scifi",
+        "_version_": 1660107346716655600
+      },
+      {
+        "id": "0380014300",
+        "cat": [
+          "book"
+        ],
+        "name": "Nine Princes In Amber",
+        "price": 6.99,
+        "price_c": "6.99,USD",
+        "inStock": true,
+        "author": "Roger Zelazny",
+        "author_s": "Roger Zelazny",
+        "series_t": "the Chronicles of Amber",
+        "sequence_i": 1,
+        "genre_s": "fantasy",
+        "_version_": 1660107346723995600
+      },
+      {
+        "id": "0805080481",
+        "cat": [
+          "book"
+        ],
+        "name": "The Book of Three",
+        "price": 5.99,
+        "price_c": "5.99,USD",
+        "inStock": true,
+        "author": "Lloyd Alexander",
+        "author_s": "Lloyd Alexander",
+        "series_t": "The Chronicles of Prydain",
+        "sequence_i": 1,
+        "genre_s": "fantasy",
+        "_version_": 1660107346725044200
+      },
+      {
+        "id": "080508049X",
+        "cat": [
+          "book"
+        ],
+        "name": "The Black Cauldron",
+        "price": 5.99,
+        "price_c": "5.99,USD",
+        "inStock": true,
+        "author": "Lloyd Alexander",
+        "author_s": "Lloyd Alexander",
+        "series_t": "The Chronicles of Prydain",
+        "sequence_i": 2,
+        "genre_s": "fantasy",
+        "_version_": 1660107346728190000
+      },
+      {
+        "id": "0812521390",
+        "cat": [
+          "book"
+        ],
+        "name": "The Black Company",
+        "price": 6.99,
+        "price_c": "6.99,USD",
+        "inStock": false,
+        "author": "Glen Cook",
+        "author_s": "Glen Cook",
+        "series_t": "The Chronicles of The Black Company",
+        "sequence_i": 1,
+        "genre_s": "fantasy",
+        "_version_": 1660107346715607000
+      },
+      {
+        "id": "0441385532",
+        "cat": [
+          "book"
+        ],
+        "name": "Jhereg",
+        "price": 7.95,
+        "price_c": "7.95,USD",
+        "inStock": false,
+        "author": "Steven Brust",
+        "author_s": "Steven Brust",
+        "series_t": "Vlad Taltos",
+        "sequence_i": 1,
+        "genre_s": "fantasy",
+        "_version_": 1660107346719801300
+      }
+    ]
+  }
+}

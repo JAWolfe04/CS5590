@@ -1,0 +1,97 @@
+Australia,2000,1
+Azerbaijan,2000,1
+Belarus,2000,1
+Belarus,2000,2
+Bulgaria,2000,1
+China,2000,1
+China,2000,2
+Czech Republic,2000,1
+Denmark,2000,1
+Finland,2000,1
+France,2000,1
+Great Britain,2000,1
+Hungary,2000,1
+Italy,2000,1
+Kuwait,2000,1
+Lithuania,2000,1
+Moldova,2000,1
+Norway,2000,1
+Poland,2000,1
+Romania,2000,1
+Russia,2000,1
+Serbia and Montenegro,2000,1
+Slovenia,2000,1
+South Korea,2000,1
+Sweden,2000,1
+Switzerland,2000,1
+Ukraine,2000,1
+United States,2000,1
+Australia,2004,1
+Austria,2004,1
+Azerbaijan,2004,1
+Belarus,2004,1
+Bulgaria,2004,2
+China,2004,1
+Cuba,2004,1
+Czech Republic,2004,1
+Finland,2004,1
+Germany,2004,1
+Hungary,2004,1
+India,2004,1
+Italy,2004,1
+North Korea,2004,1
+Russia,2004,1
+Russia,2004,2
+Serbia and Montenegro,2004,1
+Slovakia,2004,1
+South Korea,2004,1
+South Korea,2004,2
+Spain,2004,1
+Ukraine,2004,1
+United Arab Emirates,2004,1
+United States,2004,1
+Australia,2008,1
+China,2008,1
+Croatia,2008,1
+Cuba,2008,1
+Czech Republic,2008,1
+Czech Republic,2008,2
+Finland,2008,1
+France,2008,1
+Georgia,2008,1
+Germany,2008,1
+India,2008,1
+Italy,2008,1
+Mongolia,2008,1
+Norway,2008,1
+Russia,2008,1
+Slovakia,2008,1
+Slovenia,2008,1
+South Korea,2008,2
+Ukraine,2008,1
+United States,2008,1
+Belarus,2012,1
+Belgium,2012,1
+China,2012,1
+Croatia,2012,1
+Cuba,2012,1
+Czech Republic,2012,1
+Denmark,2012,1
+France,2012,1
+Great Britain,2012,1
+India,2012,1
+Italy,2012,1
+Italy,2012,2
+Kuwait,2012,1
+Poland,2012,1
+Qatar,2012,1
+Romania,2012,1
+Russia,2012,1
+Serbia,2012,1
+Slovakia,2012,1
+Slovenia,2012,1
+South Korea,2012,1
+South Korea,2012,2
+Sweden,2012,1
+Ukraine,2012,2
+United States,2012,1

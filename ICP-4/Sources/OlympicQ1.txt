@@ -1,0 +1,34 @@
+Argentina,1
+Australia,163
+Austria,3
+Belarus,2
+Brazil,8
+Canada,5
+China,35
+Costa Rica,2
+Croatia,1
+Denmark,1
+France,39
+Germany,32
+Great Britain,11
+Hungary,9
+Italy,16
+Japan,43
+Lithuania,1
+Netherlands,46
+Norway,2
+Poland,3
+Romania,6
+Russia,20
+Serbia,1
+Slovakia,2
+Slovenia,1
+South Africa,11
+South Korea,4
+Spain,3
+Sweden,9
+Trinidad and Tobago,1
+Tunisia,3
+Ukraine,7
+United States,267
+Zimbabwe,7

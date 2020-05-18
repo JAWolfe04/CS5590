@@ -1,0 +1,104 @@
+[cloudera@quickstart ~]$ sqoop import --connect jdbc:mysql://localhost/db1 --username root --password cloudera --table acad --m 1
+Warning: /usr/lib/sqoop/../accumulo does not exist! Accumulo imports will fail.
+Please set $ACCUMULO_HOME to the root of your Accumulo installation.
+20/02/28 20:37:45 INFO sqoop.Sqoop: Running Sqoop version: 1.4.6-cdh5.13.0
+20/02/28 20:37:45 WARN tool.BaseSqoopTool: Setting your password on the command-line is insecure. Consider using -P instead.
+20/02/28 20:37:46 INFO manager.MySQLManager: Preparing to use a MySQL streaming resultset.
+20/02/28 20:37:46 INFO tool.CodeGenTool: Beginning code generation
+20/02/28 20:37:47 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `acad` AS t LIMIT 1
+20/02/28 20:37:47 INFO manager.SqlManager: Executing SQL statement: SELECT t.* FROM `acad` AS t LIMIT 1
+20/02/28 20:37:47 INFO orm.CompilationManager: HADOOP_MAPRED_HOME is /usr/lib/hadoop-mapreduce
+Note: /tmp/sqoop-cloudera/compile/2be8e231a36afe04325668e97113634c/acad.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+20/02/28 20:37:51 INFO orm.CompilationManager: Writing jar file: /tmp/sqoop-cloudera/compile/2be8e231a36afe04325668e97113634c/acad.jar
+20/02/28 20:37:51 WARN manager.MySQLManager: It looks like you are importing from mysql.
+20/02/28 20:37:51 WARN manager.MySQLManager: This transfer can be faster! Use the --direct
+20/02/28 20:37:51 WARN manager.MySQLManager: option to exercise a MySQL-specific fast path.
+20/02/28 20:37:51 INFO manager.MySQLManager: Setting zero DATETIME behavior to convertToNull (mysql)
+20/02/28 20:37:51 INFO mapreduce.ImportJobBase: Beginning import of acad
+20/02/28 20:37:51 INFO Configuration.deprecation: mapred.job.tracker is deprecated. Instead, use mapreduce.jobtracker.address
+20/02/28 20:37:51 INFO Configuration.deprecation: mapred.jar is deprecated. Instead, use mapreduce.job.jar
+20/02/28 20:37:52 INFO Configuration.deprecation: mapred.map.tasks is deprecated. Instead, use mapreduce.job.maps
+20/02/28 20:37:53 INFO client.RMProxy: Connecting to ResourceManager at /0.0.0.0:8032
+20/02/28 20:37:55 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1281)
+	at java.lang.Thread.join(Thread.java:1355)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:967)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:705)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:894)
+20/02/28 20:37:55 INFO db.DBInputFormat: Using read commited transaction isolation
+20/02/28 20:37:55 WARN hdfs.DFSClient: Caught exception 
+java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at java.lang.Thread.join(Thread.java:1281)
+	at java.lang.Thread.join(Thread.java:1355)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.closeResponder(DFSOutputStream.java:967)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.endBlock(DFSOutputStream.java:705)
+	at org.apache.hadoop.hdfs.DFSOutputStream$DataStreamer.run(DFSOutputStream.java:894)
+20/02/28 20:37:55 INFO mapreduce.JobSubmitter: number of splits:1
+20/02/28 20:37:56 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1582950133197_0001
+20/02/28 20:37:56 INFO impl.YarnClientImpl: Submitted application application_1582950133197_0001
+20/02/28 20:37:57 INFO mapreduce.Job: The url to track the job: http://quickstart.cloudera:8088/proxy/application_1582950133197_0001/
+20/02/28 20:37:57 INFO mapreduce.Job: Running job: job_1582950133197_0001
+20/02/28 20:38:09 INFO mapreduce.Job: Job job_1582950133197_0001 running in uber mode : false
+20/02/28 20:38:09 INFO mapreduce.Job:  map 0% reduce 0%
+20/02/28 20:38:18 INFO mapreduce.Job:  map 100% reduce 0%
+20/02/28 20:38:18 INFO mapreduce.Job: Job job_1582950133197_0001 completed successfully
+20/02/28 20:38:18 INFO mapreduce.Job: Counters: 30
+	File System Counters
+		FILE: Number of bytes read=0
+		FILE: Number of bytes written=171102
+		FILE: Number of read operations=0
+		FILE: Number of large read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=87
+		HDFS: Number of bytes written=38
+		HDFS: Number of read operations=4
+		HDFS: Number of large read operations=0
+		HDFS: Number of write operations=2
+	Job Counters 
+		Launched map tasks=1
+		Other local map tasks=1
+		Total time spent by all maps in occupied slots (ms)=6015
+		Total time spent by all reduces in occupied slots (ms)=0
+		Total time spent by all map tasks (ms)=6015
+		Total vcore-milliseconds taken by all map tasks=6015
+		Total megabyte-milliseconds taken by all map tasks=6159360
+	Map-Reduce Framework
+		Map input records=3
+		Map output records=3
+		Input split bytes=87
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=91
+		CPU time spent (ms)=940
+		Physical memory (bytes) snapshot=139272192
+		Virtual memory (bytes) snapshot=1510182912
+		Total committed heap usage (bytes)=60751872
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=38
+20/02/28 20:38:18 INFO mapreduce.ImportJobBase: Transferred 38 bytes in 25.593 seconds (1.4848 bytes/sec)
+20/02/28 20:38:18 INFO mapreduce.ImportJobBase: Retrieved 3 records.
+[cloudera@quickstart ~]$ hadoop fs -ls
+Found 8 items
+drwxrwxr-x   - cloudera cloudera          0 2020-02-17 13:55 ICP4
+-rw-r--r--   1 cloudera cloudera   11213958 2020-01-29 16:11 Mashup.txt
+drwxr-xr-x   - cloudera cloudera          0 2020-02-14 13:23 MatrixManip
+drwxr-xr-x   - cloudera cloudera          0 2020-02-20 13:25 Twitter
+drwxr-xr-x   - cloudera cloudera          0 2020-02-28 20:38 acad
+-rw-r--r--   1 cloudera cloudera    5606979 2020-01-29 14:58 shakespeare.txt
+drwxr-xr-x   - cloudera cloudera          0 2020-02-03 17:41 wordcount
+drwxr-xr-x   - cloudera cloudera          0 2020-02-03 17:53 wordcountas
+[cloudera@quickstart ~]$ hadoop fs -ls acad/*
+-rw-r--r--   1 cloudera cloudera          0 2020-02-28 20:38 acad/_SUCCESS
+-rw-r--r--   1 cloudera cloudera         38 2020-02-28 20:38 acad/part-m-00000
+[cloudera@quickstart ~]$ hadoop fs -cat acad/part-m-00000
+5,sam,50000
+6,bill,60000
+7,sara,70000
+[cloudera@quickstart ~]$ 

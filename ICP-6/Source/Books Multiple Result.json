@@ -1,0 +1,83 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 31,
+    "params": {
+      "indent": "true",
+      "q": "inStock:true AND price:[* TO 7]",
+      "_": "1583551448112",
+      "wt": "json",
+      "rows": "20"
+    }
+  },
+  "response": {
+    "numFound": 4,
+    "start": 0,
+    "docs": [
+      {
+        "id": "0812550706",
+        "cat": [
+          "book"
+        ],
+        "name": "Ender's Game",
+        "price": 6.99,
+        "price_c": "6.99,USD",
+        "inStock": true,
+        "author": "Orson Scott Card",
+        "author_s": "Orson Scott Card",
+        "series_t": "Ender",
+        "sequence_i": 1,
+        "genre_s": "scifi",
+        "_version_": 1660107346716655600
+      },
+      {
+        "id": "0380014300",
+        "cat": [
+          "book"
+        ],
+        "name": "Nine Princes In Amber",
+        "price": 6.99,
+        "price_c": "6.99,USD",
+        "inStock": true,
+        "author": "Roger Zelazny",
+        "author_s": "Roger Zelazny",
+        "series_t": "the Chronicles of Amber",
+        "sequence_i": 1,
+        "genre_s": "fantasy",
+        "_version_": 1660107346723995600
+      },
+      {
+        "id": "0805080481",
+        "cat": [
+          "book"
+        ],
+        "name": "The Book of Three",
+        "price": 5.99,
+        "price_c": "5.99,USD",
+        "inStock": true,
+        "author": "Lloyd Alexander",
+        "author_s": "Lloyd Alexander",
+        "series_t": "The Chronicles of Prydain",
+        "sequence_i": 1,
+        "genre_s": "fantasy",
+        "_version_": 1660107346725044200
+      },
+      {
+        "id": "080508049X",
+        "cat": [
+          "book"
+        ],
+        "name": "The Black Cauldron",
+        "price": 5.99,
+        "price_c": "5.99,USD",
+        "inStock": true,
+        "author": "Lloyd Alexander",
+        "author_s": "Lloyd Alexander",
+        "series_t": "The Chronicles of Prydain",
+        "sequence_i": 2,
+        "genre_s": "fantasy",
+        "_version_": 1660107346728190000
+      }
+    ]
+  }
+}

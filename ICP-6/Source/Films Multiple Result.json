@@ -1,0 +1,43 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 144,
+    "params": {
+      "indent": "true",
+      "q": "name:2 AND initial_release_date:2005",
+      "_": "1583551757063",
+      "wt": "json",
+      "rows": "20"
+    }
+  },
+  "response": {
+    "numFound": 3,
+    "start": 0,
+    "docs": [
+      {
+        "name": "Art of the Devil 2",
+        "directed_by": "Pasith Buranajan|Seree Phongnithi|Yosapong Polsap|Putipong Saisikaew|Art Thamthrakul|Kongkiat Khomsiri|Isara Nadee",
+        "genre": "Horror|Slasher|Fantasy|Mystery",
+        "id": "/en/art_of_the_devil_2",
+        "initial_release_date": "2005-12-01",
+        "_version_": 1660102725863473200
+      },
+      {
+        "name": "Cheaper by the Dozen 2",
+        "directed_by": "Adam Shankman",
+        "genre": "Family|Adventure Film|Domestic Comedy|Comedy",
+        "id": "/en/cheaper_by_the_dozen_2",
+        "initial_release_date": "2005-12-21",
+        "_version_": 1660102726289195000
+      },
+      {
+        "name": "Day of the Dead 2: Contagium",
+        "directed_by": "Ana Clavell|James Glenn Dudelson",
+        "genre": "Horror|Zombie Film",
+        "id": "/en/day_of_the_dead_2_contagium",
+        "initial_release_date": "2005-10-18",
+        "_version_": 1660102726381469700
+      }
+    ]
+  }
+}

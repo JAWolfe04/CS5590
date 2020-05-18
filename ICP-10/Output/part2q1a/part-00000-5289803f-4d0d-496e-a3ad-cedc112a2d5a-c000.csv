@@ -1,0 +1,1260 @@
+treatment,work_interfere,no_employees,Timestamp,Age,state,wellness_program,seek_help,anonymity
+Yes,Often,6-25,2014-08-27 11:29:31,37,IL,No,Yes,Yes
+No,Rarely,More than 1000,2014-08-27 11:29:37,44,IN,Don't know,Don't know,Don't know
+No,Rarely,6-25,2014-08-27 11:29:44,32,NA,No,No,Don't know
+Yes,Often,26-100,2014-08-27 11:29:46,31,NA,No,No,No
+No,Never,100-500,2014-08-27 11:30:22,31,TX,Don't know,Don't know,Don't know
+No,Sometimes,6-25,2014-08-27 11:31:22,33,TN,No,Don't know,Don't know
+Yes,Sometimes,1-5,2014-08-27 11:31:50,35,MI,No,No,No
+No,Never,1-5,2014-08-27 11:32:05,39,NA,No,No,Yes
+Yes,Sometimes,100-500,2014-08-27 11:32:39,42,IL,No,No,No
+No,Never,26-100,2014-08-27 11:32:43,23,NA,Don't know,Don't know,Don't know
+Yes,Sometimes,6-25,2014-08-27 11:32:44,31,OH,No,No,Don't know
+No,Never,100-500,2014-08-27 11:32:49,29,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 11:33:23,42,CA,No,No,Don't know
+No,Never,500-1000,2014-08-27 11:33:26,36,CT,No,Don't know,Don't know
+No,Never,6-25,2014-08-27 11:33:57,27,NA,Don't know,Don't know,Don't know
+Yes,Rarely,26-100,2014-08-27 11:34:00,29,IL,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 11:34:20,23,NA,Don't know,Don't know,Don't know
+Yes,Sometimes,6-25,2014-08-27 11:34:37,32,TN,No,Don't know,Don't know
+No,Sometimes,1-5,2014-08-27 11:34:53,46,MD,Yes,Don't know,Yes
+No,NA,6-25,2014-08-27 11:35:08,36,NA,Yes,No,Yes
+Yes,Sometimes,100-500,2014-08-27 11:35:12,29,NY,No,No,No
+No,Never,1-5,2014-08-27 11:35:24,31,NC,No,No,Yes
+Yes,Often,26-100,2014-08-27 11:35:48,46,MA,No,No,Don't know
+Yes,Never,More than 1000,2014-08-27 11:36:24,41,IA,No,Don't know,Don't know
+Yes,Rarely,26-100,2014-08-27 11:36:48,33,CA,Don't know,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-27 11:37:08,35,TN,No,Don't know,No
+No,NA,1-5,2014-08-27 11:37:23,33,TN,No,Don't know,Don't know
+Yes,Rarely,6-25,2014-08-27 11:37:59,35,CA,Don't know,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-27 11:38:12,34,OH,No,Don't know,Don't know
+No,Sometimes,6-25,2014-08-27 11:38:18,37,NA,No,No,Don't know
+No,Never,6-25,2014-08-27 11:39:03,32,NA,No,No,Don't know
+No,Rarely,1-5,2014-08-27 11:38:55,31,PA,No,No,Don't know
+Yes,Sometimes,500-1000,2014-08-27 11:39:31,30,NA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-27 11:39:36,42,WA,Yes,Yes,Yes
+Yes,Sometimes,1-5,2014-08-27 11:40:51,40,WI,No,No,Don't know
+Yes,Rarely,6-25,2014-08-27 11:41:17,27,NY,No,No,Don't know
+No,Rarely,1-5,2014-08-27 11:41:37,29,NA,No,No,Don't know
+No,NA,100-500,2014-08-27 11:41:50,38,NA,No,No,Don't know
+No,NA,100-500,2014-08-27 11:42:08,50,IN,No,Don't know,Don't know
+Yes,Rarely,More than 1000,2014-08-27 11:42:15,35,TX,No,Yes,Yes
+Yes,Sometimes,6-25,2014-08-27 11:42:25,24,NA,No,No,Don't know
+No,NA,More than 1000,2014-08-27 11:42:31,35,MI,Don't know,Yes,Don't know
+Yes,Sometimes,1-5,2014-08-27 11:43:07,27,NA,No,No,Yes
+No,Often,6-25,2014-08-27 11:43:10,18,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 11:43:22,30,IN,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 11:43:36,38,TX,No,Yes,Yes
+No,NA,26-100,2014-08-27 11:43:45,28,NA,No,No,Don't know
+No,NA,6-25,2014-08-27 11:43:48,34,TN,No,No,Don't know
+No,Sometimes,1-5,2014-08-27 11:43:56,26,NA,Yes,No,Don't know
+Yes,Rarely,26-100,2014-08-27 11:44:43,30,IL,No,Don't know,Don't know
+Yes,Often,6-25,2014-08-27 11:44:55,22,TX,No,No,Yes
+No,NA,100-500,2014-08-27 11:45:32,33,UT,Don't know,Don't know,Don't know
+No,NA,100-500,2014-08-27 11:45:33,31,NA,Don't know,Don't know,Don't know
+No,Never,1-5,2014-08-27 11:45:51,32,TN,No,No,Don't know
+No,NA,100-500,2014-08-27 11:46:36,28,NA,No,No,Don't know
+Yes,Rarely,26-100,2014-08-27 11:46:49,27,NY,No,No,Yes
+No,NA,6-25,2014-08-27 11:46:55,32,TN,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 11:47:10,24,NY,No,No,Don't know
+No,NA,26-100,2014-08-27 11:47:33,26,TN,No,No,Yes
+Yes,Often,6-25,2014-08-27 11:47:56,33,NA,No,No,No
+Yes,Sometimes,More than 1000,2014-08-27 11:48:57,44,IA,No,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-27 11:49:51,26,NA,Yes,Yes,Yes
+No,Never,100-500,2014-08-27 11:50:27,27,NA,No,Yes,Don't know
+No,NA,26-100,2014-08-27 11:50:28,26,NA,No,No,Don't know
+No,Sometimes,6-25,2014-08-27 11:50:46,35,NA,No,No,Don't know
+No,Sometimes,More than 1000,2014-08-27 11:51:07,40,CA,Yes,Yes,Don't know
+Yes,Often,1-5,2014-08-27 11:51:34,23,NA,No,No,Don't know
+No,Sometimes,100-500,2014-08-27 11:52:07,36,TX,Don't know,Yes,Don't know
+No,NA,26-100,2014-08-27 11:52:41,31,NM,Don't know,Don't know,Don't know
+No,Rarely,1-5,2014-08-27 11:52:44,34,NY,No,No,Don't know
+No,Never,26-100,2014-08-27 11:53:05,28,NA,No,No,Don't know
+No,Never,6-25,2014-08-27 11:53:25,34,NA,Don't know,Don't know,Don't know
+No,Rarely,More than 1000,2014-08-27 11:54:27,23,MA,No,No,Yes
+No,NA,26-100,2014-08-27 11:56:17,38,NA,No,Don't know,Yes
+No,Never,More than 1000,2014-08-27 11:56:29,33,CA,Yes,Don't know,Don't know
+No,NA,1-5,2014-08-27 11:57:30,19,NA,No,No,No
+No,NA,More than 1000,2014-08-27 11:57:33,25,WA,Yes,Yes,Don't know
+No,Sometimes,1-5,2014-08-27 11:57:54,31,WA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-27 11:59:31,32,UT,No,No,Don't know
+No,Never,6-25,2014-08-27 12:00:02,28,NA,Don't know,Don't know,Don't know
+No,Sometimes,100-500,2014-08-27 12:01:50,38,NY,No,Yes,Don't know
+No,Never,26-100,2014-08-27 12:02:40,23,NA,Yes,Don't know,Don't know
+No,Never,26-100,2014-08-27 12:02:52,30,NA,No,No,Don't know
+Yes,Often,1-5,2014-08-27 12:03:30,27,NY,Yes,Yes,Yes
+No,Never,More than 1000,2014-08-27 12:05:13,33,CA,No,No,Don't know
+No,NA,26-100,2014-08-27 12:05:37,31,TX,No,No,Don't know
+Yes,Often,6-25,2014-08-27 12:07:08,39,NA,No,No,Don't know
+Yes,Rarely,500-1000,2014-08-27 12:10:43,34,OR,No,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-27 12:11:00,29,FL,No,No,Don't know
+No,NA,500-1000,2014-08-27 12:11:07,32,IL,No,Don't know,Don't know
+No,Never,500-1000,2014-08-27 12:12:47,31,NY,Yes,Yes,Yes
+Yes,Sometimes,26-100,2014-08-27 12:13:30,40,TX,No,No,Yes
+No,NA,26-100,2014-08-27 12:14:13,34,OH,No,No,Don't know
+No,NA,26-100,2014-08-27 12:15:11,18,NA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-27 12:15:19,25,NA,No,Don't know,Don't know
+No,Never,26-100,2014-08-27 12:15:30,29,MN,No,Don't know,Don't know
+No,Rarely,26-100,2014-08-27 12:16:21,24,MO,No,Don't know,Don't know
+Yes,Sometimes,6-25,2014-08-27 12:17:01,31,NA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 12:18:02,33,AZ,No,No,Don't know
+Yes,Often,1-5,2014-08-27 12:18:04,30,IN,No,No,Yes
+Yes,Sometimes,26-100,2014-08-27 12:18:14,26,NA,No,No,No
+No,Never,100-500,2014-08-27 12:18:38,44,MA,Don't know,Don't know,Don't know
+No,NA,26-100,2014-08-27 12:19:52,25,NY,Don't know,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-27 12:20:10,33,WI,Yes,Yes,Yes
+No,Never,More than 1000,2014-08-27 12:22:55,29,NY,Yes,Don't know,Don't know
+No,Rarely,6-25,2014-08-27 12:23:48,35,MO,No,No,Yes
+Yes,Sometimes,26-100,2014-08-27 12:23:59,35,OR,No,No,Don't know
+Yes,Rarely,6-25,2014-08-27 12:25:09,28,NA,No,No,No
+No,Never,6-25,2014-08-27 12:28:12,34,TN,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 12:28:16,32,WA,Yes,Yes,Yes
+Yes,Sometimes,500-1000,2014-08-27 12:29:25,22,NY,No,Don't know,Yes
+Yes,Sometimes,26-100,2014-08-27 12:31:02,28,CA,Yes,Yes,Yes
+Yes,Rarely,6-25,2014-08-27 12:31:03,45,MO,No,Yes,Yes
+No,Never,100-500,2014-08-27 12:31:14,32,NY,No,Don't know,Don't know
+No,NA,More than 1000,2014-08-27 12:31:28,28,TX,No,Don't know,Don't know
+No,Never,6-25,2014-08-27 12:31:34,26,NA,No,Don't know,Don't know
+No,Often,1-5,2014-08-27 12:31:41,21,NA,No,No,Yes
+No,Rarely,6-25,2014-08-27 12:31:41,27,NA,Yes,Yes,Yes
+Yes,Rarely,1-5,2014-08-27 12:31:43,18,CT,No,No,Yes
+No,NA,26-100,2014-08-27 12:32:24,35,CO,No,Don't know,Don't know
+No,Never,More than 1000,2014-08-27 12:32:59,29,GA,No,Yes,Don't know
+No,NA,26-100,2014-08-27 12:33:00,25,DC,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 12:33:23,33,MN,Don't know,Don't know,Yes
+No,Often,6-25,2014-08-27 12:33:36,36,WA,No,No,Yes
+Yes,Never,100-500,2014-08-27 12:33:56,27,NA,No,No,Don't know
+No,Never,500-1000,2014-08-27 12:34:11,27,WA,Yes,Yes,Yes
+No,NA,6-25,2014-08-27 12:34:13,27,NA,No,No,Don't know
+Yes,Rarely,100-500,2014-08-27 12:34:35,32,OR,No,Yes,Yes
+No,Sometimes,6-25,2014-08-27 12:34:48,31,NA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 12:34:51,19,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 12:34:57,33,IL,No,No,Don't know
+No,Rarely,1-5,2014-08-27 12:35:23,32,CA,No,No,Don't know
+No,Never,26-100,2014-08-27 12:36:03,27,NE,Don't know,Don't know,Don't know
+No,NA,26-100,2014-08-27 12:36:18,38,NA,No,No,Yes
+Yes,Never,26-100,2014-08-27 12:36:53,24,NA,No,No,Don't know
+No,Never,26-100,2014-08-27 12:37:09,39,NA,No,No,Don't know
+No,Never,6-25,2014-08-27 12:37:26,28,NA,No,No,Yes
+Yes,Often,More than 1000,2014-08-27 12:37:31,39,IA,No,No,Don't know
+No,NA,6-25,2014-08-27 12:37:50,29,MD,No,Don't know,Don't know
+No,NA,6-25,2014-08-27 12:37:50,22,NA,Don't know,No,Don't know
+Yes,Sometimes,100-500,2014-08-27 12:38:11,38,OR,Don't know,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 12:38:18,37,NA,Yes,Yes,Yes
+No,Never,26-100,2014-08-27 12:38:25,35,TX,Don't know,Don't know,Don't know
+No,NA,More than 1000,2014-08-27 12:39:14,-29,MN,Don't know,Yes,Don't know
+No,NA,More than 1000,2014-08-27 12:39:18,30,PA,No,Don't know,Don't know
+Yes,Rarely,100-500,2014-08-27 12:39:21,37,IN,Yes,Yes,Don't know
+No,Never,6-25,2014-08-27 12:39:48,24,NA,No,No,Yes
+No,Sometimes,6-25,2014-08-27 12:39:57,23,WV,No,No,No
+Yes,Rarely,100-500,2014-08-27 12:40:03,30,NA,Yes,Yes,Don't know
+No,NA,100-500,2014-08-27 12:40:06,29,MI,No,Don't know,Don't know
+No,NA,1-5,2014-08-27 12:40:36,19,NA,No,Yes,Yes
+No,Never,26-100,2014-08-27 12:40:53,32,CA,No,No,Don't know
+No,Rarely,6-25,2014-08-27 12:41:04,28,NA,No,No,Don't know
+No,Never,6-25,2014-08-27 12:41:20,36,IL,Don't know,Don't know,Don't know
+Yes,Rarely,More than 1000,2014-08-27 12:41:59,37,NA,Yes,Yes,Yes
+Yes,Sometimes,26-100,2014-08-27 12:42:24,25,IL,No,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 12:42:52,27,CA,No,Don't know,Don't know
+No,Often,26-100,2014-08-27 12:43:28,26,OK,No,No,Don't know
+Yes,Rarely,26-100,2014-08-27 12:43:28,27,UT,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 12:43:40,25,IL,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 12:43:53,36,NA,Yes,Yes,Yes
+Yes,Sometimes,500-1000,2014-08-27 12:44:51,25,NY,No,No,Don't know
+No,Never,More than 1000,2014-08-27 12:44:51,31,CA,No,Yes,Don't know
+No,Rarely,6-25,2014-08-27 12:45:44,26,MA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-27 12:46:03,33,WA,Yes,Yes,Yes
+No,NA,1-5,2014-08-27 12:47:25,27,NA,No,No,Yes
+No,Never,26-100,2014-08-27 12:48:06,34,MN,No,No,Don't know
+No,NA,6-25,2014-08-27 12:48:29,42,CA,No,No,Don't know
+No,Sometimes,1-5,2014-08-27 12:48:37,23,NA,No,No,Don't know
+No,Rarely,100-500,2014-08-27 12:48:39,24,NA,Yes,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 12:48:40,26,NA,Don't know,Don't know,Yes
+Yes,Often,6-25,2014-08-27 12:48:51,31,NA,No,No,Don't know
+Yes,Never,More than 1000,2014-08-27 12:49:21,22,NA,No,No,Don't know
+No,NA,6-25,2014-08-27 12:49:27,23,NC,No,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 12:49:30,34,NA,Yes,No,Don't know
+No,Never,26-100,2014-08-27 12:49:39,31,MO,No,Don't know,Don't know
+No,NA,100-500,2014-08-27 12:50:36,28,NA,No,Yes,Yes
+Yes,Often,6-25,2014-08-27 12:50:57,32,MA,Don't know,Don't know,Yes
+Yes,Sometimes,1-5,2014-08-27 12:51:25,45,CA,No,No,Yes
+No,NA,6-25,2014-08-27 12:51:36,33,TX,No,No,Don't know
+No,Never,6-25,2014-08-27 12:51:42,29,NA,No,No,No
+No,Sometimes,6-25,2014-08-27 12:51:50,26,NA,No,No,Don't know
+No,Never,26-100,2014-08-27 12:51:51,28,NA,No,Don't know,Yes
+Yes,Sometimes,More than 1000,2014-08-27 12:51:55,45,CA,Don't know,Don't know,Don't know
+Yes,Often,More than 1000,2014-08-27 12:52:08,43,WA,No,Don't know,Don't know
+No,NA,500-1000,2014-08-27 12:52:46,37,MA,No,No,Don't know
+No,Sometimes,6-25,2014-08-27 12:52:49,24,NA,No,Don't know,Don't know
+No,NA,6-25,2014-08-27 12:53:00,26,NA,No,No,Don't know
+No,NA,1-5,2014-08-27 12:53:05,23,NA,No,No,Don't know
+Yes,Never,More than 1000,2014-08-27 12:53:13,35,CA,Don't know,No,Yes
+Yes,Often,1-5,2014-08-27 12:53:15,38,NA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-27 12:53:40,28,MI,No,No,Don't know
+No,Sometimes,26-100,2014-08-27 12:54:11,28,NA,No,No,Don't know
+Yes,Rarely,6-25,2014-08-27 12:54:11,35,CA,No,No,Yes
+No,Sometimes,100-500,2014-08-27 12:54:30,32,NA,No,No,Don't know
+No,Never,6-25,2014-08-27 12:54:47,31,NA,No,No,Don't know
+No,Never,500-1000,2014-08-27 12:55:01,35,NY,No,No,Don't know
+No,Rarely,More than 1000,2014-08-27 12:55:38,26,CA,No,No,Yes
+No,NA,6-25,2014-08-27 12:56:13,27,TN,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 12:56:56,28,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 12:57:38,27,OR,No,No,Don't know
+Yes,Sometimes,500-1000,2014-08-27 12:57:52,34,MN,Yes,Yes,Yes
+Yes,Often,6-25,2014-08-27 12:58:10,41,FL,No,No,Don't know
+No,Sometimes,1-5,2014-08-27 12:58:42,37,NA,No,No,Don't know
+No,NA,100-500,2014-08-27 13:00:38,34,NA,Don't know,Don't know,Don't know
+Yes,Sometimes,100-500,2014-08-27 13:02:14,32,NA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 13:03:05,21,NA,No,No,Don't know
+Yes,Often,26-100,2014-08-27 13:04:18,30,MA,No,No,Yes
+No,Never,26-100,2014-08-27 13:04:45,24,KS,No,Don't know,Don't know
+No,NA,100-500,2014-08-27 13:05:45,26,NA,No,No,No
+No,NA,26-100,2014-08-27 13:06:00,40,DC,Yes,Yes,Yes
+No,Sometimes,26-100,2014-08-27 13:06:12,37,NA,No,No,Don't know
+Yes,Often,1-5,2014-08-27 13:07:24,26,NA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 13:07:40,32,TX,No,No,No
+Yes,Sometimes,100-500,2014-08-27 13:07:42,32,MA,Don't know,Don't know,Yes
+Yes,Sometimes,1-5,2014-08-27 13:07:46,27,MI,Don't know,Don't know,Don't know
+Yes,Often,6-25,2014-08-27 13:08:17,30,NA,No,No,Yes
+No,NA,6-25,2014-08-27 13:09:24,31,NA,No,Don't know,Yes
+Yes,Never,500-1000,2014-08-27 13:09:37,29,NY,No,Don't know,Don't know
+No,NA,26-100,2014-08-27 13:09:39,41,VA,No,No,Don't know
+No,NA,6-25,2014-08-27 13:12:31,34,WA,No,No,Don't know
+No,NA,26-100,2014-08-27 13:12:43,33,NA,No,No,Don't know
+No,Rarely,6-25,2014-08-27 13:14:53,28,PA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 13:15:19,28,MI,No,No,Yes
+No,Never,26-100,2014-08-27 13:15:25,23,PA,Don't know,Don't know,Don't know
+No,NA,1-5,2014-08-27 13:18:18,24,OR,Don't know,No,Yes
+No,Rarely,1-5,2014-08-27 13:18:44,32,WA,No,No,Don't know
+No,Sometimes,1-5,2014-08-27 13:19:40,34,NA,Yes,Yes,Don't know
+No,Never,6-25,2014-08-27 13:21:00,24,PA,No,Don't know,Don't know
+Yes,Sometimes,1-5,2014-08-27 13:22:42,26,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 13:22:49,36,OH,No,Yes,Don't know
+Yes,Rarely,500-1000,2014-08-27 13:23:38,41,TX,No,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 13:24:34,38,NA,Don't know,Don't know,Don't know
+No,Sometimes,26-100,2014-08-27 13:24:57,38,NH,No,Don't know,Don't know
+No,NA,26-100,2014-08-27 13:26:35,30,NA,Don't know,Don't know,Yes
+No,Never,26-100,2014-08-27 13:26:54,25,NA,No,No,Don't know
+Yes,Often,26-100,2014-08-27 13:27:18,37,NA,No,Don't know,Don't know
+No,NA,6-25,2014-08-27 13:29:45,34,NA,No,No,Yes
+Yes,Sometimes,More than 1000,2014-08-27 13:29:57,37,NC,Yes,Yes,Yes
+Yes,Sometimes,6-25,2014-08-27 13:31:03,28,NA,Yes,Yes,Yes
+No,NA,6-25,2014-08-27 13:31:35,22,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-27 13:32:31,34,FL,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 13:32:48,33,CA,Yes,Yes,Yes
+No,NA,6-25,2014-08-27 13:33:32,25,NA,No,No,Yes
+No,Never,More than 1000,2014-08-27 13:34:03,27,GA,Don't know,Don't know,Yes
+Yes,Sometimes,More than 1000,2014-08-27 13:35:23,40,OH,Yes,Yes,Yes
+Yes,Often,6-25,2014-08-27 13:35:40,21,KY,No,Don't know,Don't know
+No,NA,6-25,2014-08-27 13:37:18,29,NA,No,No,Yes
+Yes,Sometimes,1-5,2014-08-27 13:37:47,32,NC,No,No,Don't know
+Yes,Rarely,500-1000,2014-08-27 13:38:17,29,NY,Yes,Don't know,Yes
+Yes,Sometimes,26-100,2014-08-27 13:39:00,23,AL,No,Don't know,Yes
+No,NA,100-500,2014-08-27 13:40:58,28,GA,No,Don't know,Yes
+Yes,Rarely,100-500,2014-08-27 13:42:38,31,CA,Yes,Don't know,Yes
+No,NA,100-500,2014-08-27 13:44:05,27,NA,Don't know,Don't know,No
+No,Sometimes,6-25,2014-08-27 13:44:47,24,VA,Don't know,Don't know,Don't know
+No,Often,6-25,2014-08-27 13:46:03,29,NA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 13:47:05,23,NA,Don't know,Don't know,Don't know
+No,Never,6-25,2014-08-27 13:47:27,42,WA,No,Yes,Don't know
+No,NA,1-5,2014-08-27 13:48:01,24,NA,No,No,Don't know
+Yes,Often,6-25,2014-08-27 13:49:15,25,NA,No,No,No
+Yes,Rarely,6-25,2014-08-27 13:49:32,27,TX,No,No,Yes
+No,Sometimes,6-25,2014-08-27 13:52:05,27,NA,No,No,No
+Yes,Sometimes,100-500,2014-08-27 13:52:57,30,FL,No,Yes,Yes
+Yes,Rarely,6-25,2014-08-27 13:53:21,29,NA,No,No,Yes
+No,NA,6-25,2014-08-27 13:53:44,43,NA,No,No,Don't know
+No,NA,6-25,2014-08-27 13:53:51,32,NV,No,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-27 13:54:00,41,AL,Don't know,No,Don't know
+Yes,Sometimes,1-5,2014-08-27 13:54:24,32,NA,Don't know,Don't know,Don't know
+Yes,Often,26-100,2014-08-27 13:55:16,37,CA,No,No,Yes
+No,Never,6-25,2014-08-27 13:55:22,32,CO,No,No,Don't know
+No,Sometimes,1-5,2014-08-27 13:55:38,30,NA,No,No,Don't know
+Yes,Never,100-500,2014-08-27 13:56:27,23,MN,Don't know,Don't know,Yes
+No,NA,More than 1000,2014-08-27 13:56:35,30,NJ,Yes,Yes,Yes
+No,Sometimes,26-100,2014-08-27 13:59:24,34,NA,No,No,Don't know
+Yes,Rarely,26-100,2014-08-27 13:59:35,38,PA,No,No,Don't know
+No,NA,100-500,2014-08-27 14:01:25,33,NA,Yes,Yes,Yes
+No,NA,26-100,2014-08-27 14:01:35,34,MO,No,No,Don't know
+No,Sometimes,6-25,2014-08-27 14:01:54,28,NA,No,No,Don't know
+Yes,Rarely,100-500,2014-08-27 14:03:16,28,MN,Yes,Don't know,Don't know
+No,Sometimes,100-500,2014-08-27 14:03:54,23,PA,No,Don't know,Don't know
+Yes,Sometimes,6-25,2014-08-27 14:03:59,22,NA,Yes,Yes,Don't know
+No,Never,6-25,2014-08-27 14:06:26,27,NA,No,No,Yes
+Yes,Sometimes,6-25,2014-08-27 14:10:15,18,TX,No,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-27 14:10:47,35,NY,No,No,Yes
+No,NA,100-500,2014-08-27 14:10:53,25,NA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 14:11:46,27,NA,No,No,Yes
+Yes,Rarely,More than 1000,2014-08-27 14:11:52,26,WA,Don't know,Don't know,Don't know
+No,Never,26-100,2014-08-27 14:11:55,18,WA,Don't know,Don't know,Don't know
+Yes,Sometimes,1-5,2014-08-27 14:13:02,38,TX,No,No,Don't know
+Yes,Rarely,More than 1000,2014-08-27 14:13:16,26,TX,Yes,Don't know,Don't know
+No,Never,1-5,2014-08-27 14:13:24,30,NA,No,No,No
+No,Never,More than 1000,2014-08-27 14:14:52,35,CA,No,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 14:15:13,45,NY,Don't know,Don't know,Yes
+No,Never,More than 1000,2014-08-27 14:15:21,32,CA,No,Don't know,Don't know
+Yes,Never,More than 1000,2014-08-27 14:15:57,56,NA,Don't know,Don't know,Don't know
+No,NA,500-1000,2014-08-27 14:16:00,24,CA,No,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-27 14:18:20,30,SC,Yes,Don't know,Don't know
+No,NA,More than 1000,2014-08-27 14:18:41,60,CA,Don't know,Yes,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 14:18:44,33,CA,Yes,Yes,Don't know
+No,Never,More than 1000,2014-08-27 14:19:08,37,NY,Yes,Yes,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 14:19:12,23,NY,Yes,Yes,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 14:20:08,31,CA,Don't know,Don't know,Yes
+No,Rarely,100-500,2014-08-27 14:20:43,26,MA,No,Don't know,Don't know
+Yes,Often,100-500,2014-08-27 14:21:37,28,WA,Yes,Yes,Yes
+Yes,Rarely,More than 1000,2014-08-27 14:21:42,37,CA,Don't know,Yes,Don't know
+Yes,Often,6-25,2014-08-27 14:22:00,26,NA,No,Don't know,Don't know
+Yes,Rarely,26-100,2014-08-27 14:22:36,30,IL,No,No,Don't know
+No,NA,26-100,2014-08-27 14:22:43,26,IN,No,No,Don't know
+No,NA,26-100,2014-08-27 14:22:43,25,OR,No,Don't know,Don't know
+No,Sometimes,100-500,2014-08-27 14:23:51,27,TN,Yes,Yes,Don't know
+Yes,Often,6-25,2014-08-27 14:23:53,25,NA,No,Don't know,Don't know
+Yes,Rarely,100-500,2014-08-27 14:24:15,35,OR,Don't know,Yes,Don't know
+Yes,Never,1-5,2014-08-27 14:25:41,36,WA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 14:25:54,26,CA,No,Don't know,Don't know
+No,NA,More than 1000,2014-08-27 14:26:32,27,CA,Don't know,Don't know,Don't know
+No,NA,6-25,2014-08-27 14:27:20,30,VT,No,Don't know,Don't know
+No,NA,100-500,2014-08-27 14:27:27,29,NY,No,Don't know,Don't know
+No,Never,More than 1000,2014-08-27 14:27:28,25,UT,Yes,Yes,Yes
+Yes,Often,More than 1000,2014-08-27 14:27:51,22,NY,Yes,Yes,Yes
+No,NA,26-100,2014-08-27 14:28:28,29,NY,No,No,Don't know
+Yes,Rarely,100-500,2014-08-27 14:28:41,41,SD,Don't know,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-27 14:28:43,29,CA,No,Don't know,Don't know
+No,Never,500-1000,2014-08-27 14:28:49,32,OR,Don't know,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-27 14:28:51,24,CA,No,Yes,Yes
+Yes,Rarely,6-25,2014-08-27 14:29:19,25,CA,Don't know,No,Don't know
+No,NA,More than 1000,2014-08-27 14:30:33,25,CA,Don't know,Don't know,Don't know
+No,Never,More than 1000,2014-08-27 14:31:06,30,CO,Yes,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-27 14:31:28,25,CA,Don't know,Yes,Don't know
+No,Never,1-5,2014-08-27 14:31:44,30,OH,No,No,Don't know
+Yes,Rarely,1-5,2014-08-27 14:32:22,33,NA,No,No,Don't know
+No,NA,26-100,2014-08-27 14:32:46,24,WA,Yes,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-27 14:33:44,25,NA,No,Don't know,Don't know
+No,NA,100-500,2014-08-27 14:34:47,31,OH,No,No,Yes
+Yes,Often,1-5,2014-08-27 14:37:33,45,NA,No,No,Don't know
+No,NA,6-25,2014-08-27 14:37:35,29,NA,No,No,Don't know
+No,Never,26-100,2014-08-27 14:37:46,46,WA,Yes,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-27 14:38:06,30,NA,No,Don't know,Don't know
+No,Sometimes,More than 1000,2014-08-27 14:38:13,29,CA,Don't know,No,Don't know
+No,NA,More than 1000,2014-08-27 14:38:26,24,MA,Don't know,Don't know,Yes
+No,NA,26-100,2014-08-27 14:38:49,29,WA,Yes,Yes,Yes
+No,NA,26-100,2014-08-27 14:38:54,35,MI,No,Don't know,Don't know
+No,Sometimes,26-100,2014-08-27 14:39:07,33,WA,No,No,Don't know
+No,Sometimes,More than 1000,2014-08-27 14:39:20,27,CA,Don't know,Don't know,Don't know
+No,NA,More than 1000,2014-08-27 14:41:09,36,IA,Don't know,Don't know,Don't know
+No,Rarely,1-5,2014-08-27 14:41:16,33,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 14:44:29,25,WA,No,No,Yes
+Yes,Sometimes,100-500,2014-08-27 14:45:12,23,AL,No,No,Don't know
+Yes,Never,More than 1000,2014-08-27 14:45:45,54,CA,Yes,Yes,Don't know
+No,Sometimes,More than 1000,2014-08-27 14:47:10,22,CA,Don't know,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 14:47:28,25,CA,Don't know,Don't know,Don't know
+No,Often,6-25,2014-08-27 14:49:08,29,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 14:49:30,27,MA,Yes,Yes,Yes
+No,Never,6-25,2014-08-27 14:51:29,30,NA,No,Don't know,Don't know
+Yes,Often,More than 1000,2014-08-27 14:52:44,26,CA,Don't know,Yes,Don't know
+No,Sometimes,6-25,2014-08-27 14:52:53,25,NA,Yes,No,Don't know
+Yes,Sometimes,500-1000,2014-08-27 14:53:11,31,CA,No,Don't know,Yes
+Yes,Sometimes,26-100,2014-08-27 14:54:23,33,IN,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 14:54:56,34,WA,Don't know,Yes,Yes
+Yes,Sometimes,100-500,2014-08-27 14:57:46,34,WA,No,No,Don't know
+No,NA,1-5,2014-08-27 14:58:01,29,IN,No,No,Yes
+No,NA,6-25,2014-08-27 14:59:59,33,WA,No,No,Don't know
+Yes,Rarely,26-100,2014-08-27 15:03:56,34,NA,No,Don't know,Don't know
+Yes,Rarely,100-500,2014-08-27 15:04:41,26,OK,No,Don't know,No
+Yes,Rarely,More than 1000,2014-08-27 15:05:00,32,MI,Yes,Yes,Yes
+Yes,Often,6-25,2014-08-27 15:05:21,329,OH,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 15:09:58,28,GA,No,Don't know,Don't know
+No,NA,More than 1000,2014-08-27 15:11:30,35,CA,Yes,Yes,Yes
+Yes,Often,100-500,2014-08-27 15:13:33,36,NA,No,No,Yes
+Yes,Rarely,100-500,2014-08-27 15:14:50,21,IN,No,Don't know,Yes
+Yes,Sometimes,6-25,2014-08-27 15:15:29,21,NA,No,No,No
+No,NA,More than 1000,2014-08-27 15:15:42,22,WA,Yes,Yes,Yes
+Yes,Often,More than 1000,2014-08-27 15:20:53,41,WA,Yes,Yes,Don't know
+Yes,Rarely,More than 1000,2014-08-27 15:21:59,55,PA,Yes,Yes,Yes
+Yes,Sometimes,26-100,2014-08-27 15:22:20,32,WA,Yes,Yes,Yes
+Yes,Rarely,26-100,2014-08-27 15:22:26,21,CA,Don't know,No,Don't know
+Yes,Never,26-100,2014-08-27 15:22:43,45,MA,Don't know,Don't know,Don't know
+Yes,Rarely,More than 1000,2014-08-27 15:22:45,27,WA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-27 15:22:50,25,WA,No,No,Don't know
+Yes,Rarely,More than 1000,2014-08-27 15:22:52,34,NY,Yes,Yes,Yes
+Yes,Never,More than 1000,2014-08-27 15:23:06,26,CA,No,Yes,Yes
+Yes,Never,500-1000,2014-08-27 15:23:07,41,NA,No,Don't know,Don't know
+Yes,Rarely,More than 1000,2014-08-27 15:23:19,27,CA,Yes,Yes,Yes
+Yes,Sometimes,26-100,2014-08-27 15:23:30,31,IN,No,No,Don't know
+Yes,Often,26-100,2014-08-27 15:23:33,25,NA,No,No,Yes
+Yes,Sometimes,6-25,2014-08-27 15:23:51,26,NV,No,No,Don't know
+Yes,Rarely,More than 1000,2014-08-27 15:23:51,27,CO,No,Don't know,Don't know
+No,Never,500-1000,2014-08-27 15:23:54,42,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-27 15:24:22,29,CA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 15:24:27,25,CA,No,No,Don't know
+Yes,Rarely,More than 1000,2014-08-27 15:24:28,33,NA,No,Yes,Yes
+Yes,Often,1-5,2014-08-27 15:24:47,99999999999,NA,No,No,No
+Yes,Rarely,More than 1000,2014-08-27 15:24:47,40,PA,Don't know,Don't know,Don't know
+No,Never,More than 1000,2014-08-27 15:24:49,31,SC,No,Don't know,Don't know
+Yes,Often,26-100,2014-08-27 15:24:55,26,NA,Don't know,Don't know,Don't know
+No,NA,500-1000,2014-08-27 15:24:56,24,TX,No,No,No
+No,Never,More than 1000,2014-08-27 15:25:03,29,TX,No,Don't know,Don't know
+No,NA,26-100,2014-08-27 15:25:09,48,NA,No,No,Don't know
+No,Sometimes,6-25,2014-08-27 15:25:16,35,NA,No,No,Don't know
+No,Never,100-500,2014-08-27 15:25:41,32,AL,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-27 15:25:47,29,NA,Don't know,Don't know,Yes
+Yes,Often,6-25,2014-08-27 15:26:05,26,OR,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 15:26:37,28,NJ,No,No,Don't know
+No,NA,More than 1000,2014-08-27 15:26:40,23,CA,No,Don't know,Don't know
+Yes,Sometimes,100-500,2014-08-27 15:26:57,35,CA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 15:27:25,29,NA,No,No,Don't know
+No,NA,6-25,2014-08-27 15:27:31,26,CA,No,Yes,Yes
+Yes,Never,26-100,2014-08-27 15:27:38,33,NH,Yes,Yes,Don't know
+No,NA,More than 1000,2014-08-27 15:27:39,33,CA,Don't know,Don't know,Don't know
+No,Never,6-25,2014-08-27 15:28:34,22,NA,No,No,Don't know
+No,NA,500-1000,2014-08-27 15:28:50,30,NA,No,No,Don't know
+Yes,Often,More than 1000,2014-08-27 15:29:03,33,OH,No,No,Don't know
+Yes,Rarely,More than 1000,2014-08-27 15:29:07,31,OH,No,Don't know,Don't know
+No,Never,More than 1000,2014-08-27 15:29:23,21,MA,Don't know,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 15:30:51,31,NA,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-27 15:31:10,26,OK,Don't know,Don't know,Don't know
+No,Often,6-25,2014-08-27 15:31:18,30,CA,No,Don't know,Don't know
+Yes,Sometimes,100-500,2014-08-27 15:31:20,30,NA,No,No,Don't know
+No,NA,6-25,2014-08-27 15:31:31,23,NA,No,No,Don't know
+No,Never,6-25,2014-08-27 15:31:38,34,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-27 15:31:40,55,ID,No,Don't know,Don't know
+Yes,Rarely,1-5,2014-08-27 15:32:09,28,NA,No,No,Yes
+No,NA,26-100,2014-08-27 15:32:19,26,NA,Don't know,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 15:32:43,28,NA,Yes,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 15:34:23,32,NA,No,Don't know,Don't know
+Yes,Rarely,More than 1000,2014-08-27 15:34:31,28,NY,No,Don't know,Don't know
+No,Sometimes,6-25,2014-08-27 15:34:32,21,CA,No,Yes,Yes
+Yes,Sometimes,100-500,2014-08-27 15:35:21,24,TX,No,No,Don't know
+No,NA,More than 1000,2014-08-27 15:35:37,26,MD,Yes,Don't know,Don't know
+No,NA,More than 1000,2014-08-27 15:35:50,23,IN,No,No,Don't know
+No,NA,More than 1000,2014-08-27 15:36:13,24,OR,Yes,Yes,Yes
+No,Never,100-500,2014-08-27 15:36:41,28,NA,No,No,Don't know
+Yes,Rarely,6-25,2014-08-27 15:38:07,24,NY,No,No,Don't know
+Yes,Often,1-5,2014-08-27 15:38:27,33,MS,No,No,Yes
+No,Sometimes,26-100,2014-08-27 15:38:31,34,NJ,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 15:38:32,27,CA,No,No,Don't know
+No,Never,6-25,2014-08-27 15:38:37,28,TN,No,Don't know,Don't know
+No,NA,More than 1000,2014-08-27 15:39:31,26,WA,Don't know,Don't know,Don't know
+No,NA,100-500,2014-08-27 15:40:03,20,NA,Don't know,Don't know,Yes
+Yes,Sometimes,26-100,2014-08-27 15:43:17,23,MA,No,Don't know,Don't know
+Yes,Rarely,1-5,2014-08-27 15:43:27,29,PA,Yes,Yes,Yes
+No,Sometimes,6-25,2014-08-27 15:43:30,26,NA,No,No,Don't know
+No,Rarely,More than 1000,2014-08-27 15:43:45,36,KY,Yes,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 15:44:16,41,PA,Yes,Yes,Yes
+No,NA,100-500,2014-08-27 15:44:20,33,MA,Don't know,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 15:46:12,23,NA,No,No,Yes
+No,Often,More than 1000,2014-08-27 15:46:39,39,CA,No,Don't know,Don't know
+No,NA,More than 1000,2014-08-27 15:47:26,34,VT,Don't know,Don't know,Don't know
+Yes,Sometimes,100-500,2014-08-27 15:47:33,26,CA,No,No,Don't know
+Yes,Rarely,26-100,2014-08-27 15:50:26,24,AZ,Yes,No,Don't know
+Yes,Rarely,More than 1000,2014-08-27 15:51:36,37,NA,Yes,Yes,Don't know
+Yes,Often,6-25,2014-08-27 15:53:39,43,MA,No,No,Yes
+No,Never,More than 1000,2014-08-27 15:53:59,40,VA,Yes,Don't know,Yes
+Yes,Often,More than 1000,2014-08-27 15:54:45,30,WA,Yes,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 15:55:07,34,CA,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-27 15:55:07,27,OR,No,Don't know,Don't know
+No,Sometimes,More than 1000,2014-08-27 15:55:08,36,MI,No,No,Yes
+No,Rarely,6-25,2014-08-27 15:56:37,27,NA,No,No,Don't know
+No,Never,100-500,2014-08-27 15:58:23,35,NA,No,No,Yes
+No,Never,6-25,2014-08-27 15:59:41,32,NA,No,No,Don't know
+No,NA,500-1000,2014-08-27 15:59:47,37,OR,No,No,Don't know
+No,NA,26-100,2014-08-27 16:00:16,29,NA,Don't know,Don't know,Don't know
+No,Never,500-1000,2014-08-27 16:01:39,33,CA,Yes,Yes,Don't know
+No,Sometimes,6-25,2014-08-27 16:01:52,28,UT,No,No,Don't know
+No,Never,26-100,2014-08-27 16:02:16,26,CA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 16:03:20,27,TX,Yes,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-27 16:04:01,38,NA,No,No,Yes
+Yes,Rarely,More than 1000,2014-08-27 16:06:46,57,CA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 16:07:32,28,NA,No,No,No
+No,Never,6-25,2014-08-27 16:10:10,26,NA,No,No,Don't know
+Yes,Rarely,100-500,2014-08-27 16:11:36,42,NA,No,No,Yes
+Yes,Sometimes,100-500,2014-08-27 16:13:31,31,OR,Yes,Yes,Yes
+Yes,Rarely,More than 1000,2014-08-27 16:13:40,58,CA,Yes,Yes,Yes
+No,Sometimes,6-25,2014-08-27 16:13:42,29,OH,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 16:14:04,39,NA,No,Yes,Don't know
+No,Sometimes,6-25,2014-08-27 16:14:43,34,OH,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 16:15:26,57,CA,Yes,Yes,Don't know
+Yes,Sometimes,6-25,2014-08-27 16:15:33,27,NA,No,No,Don't know
+Yes,Often,26-100,2014-08-27 16:16:40,23,NA,Don't know,Don't know,Don't know
+No,NA,500-1000,2014-08-27 16:16:51,18,NA,No,Don't know,Don't know
+No,NA,100-500,2014-08-27 16:17:05,30,NY,No,No,Don't know
+No,Never,26-100,2014-08-27 16:17:41,23,VA,Don't know,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 16:18:44,43,CA,Yes,Yes,Yes
+Yes,Sometimes,1-5,2014-08-27 16:19:05,18,NA,Don't know,Don't know,Don't know
+Yes,Rarely,6-25,2014-08-27 16:19:25,29,IL,No,No,Don't know
+No,Never,6-25,2014-08-27 16:20:36,48,TX,No,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-27 16:20:40,43,NA,Don't know,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 16:21:11,28,NY,No,No,Don't know
+Yes,Often,1-5,2014-08-27 16:21:24,30,CA,No,No,Yes
+No,Sometimes,6-25,2014-08-27 16:21:54,26,MD,No,No,Yes
+No,Never,6-25,2014-08-27 16:21:55,33,NA,No,No,Don't know
+No,NA,More than 1000,2014-08-27 16:22:10,31,CA,Don't know,Don't know,Yes
+No,Rarely,100-500,2014-08-27 16:22:17,30,PA,No,No,Don't know
+No,NA,26-100,2014-08-27 16:23:14,27,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-27 16:25:26,24,CA,Don't know,Don't know,Don't know
+No,NA,26-100,2014-08-27 16:26:03,25,WA,Don't know,Don't know,Don't know
+Yes,Often,More than 1000,2014-08-27 16:27:04,23,NY,Don't know,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 16:27:47,36,TX,No,No,Don't know
+Yes,Often,1-5,2014-08-27 16:28:10,25,CA,No,No,Yes
+Yes,Sometimes,More than 1000,2014-08-27 16:28:20,54,NA,Yes,Yes,Yes
+No,Rarely,6-25,2014-08-27 16:29:05,34,NA,Don't know,Don't know,Don't know
+Yes,NA,26-100,2014-08-27 16:29:23,38,AZ,No,No,Yes
+No,NA,More than 1000,2014-08-27 16:31:16,40,NA,No,No,No
+No,NA,26-100,2014-08-27 16:32:31,32,NA,No,Don't know,Don't know
+No,Never,More than 1000,2014-08-27 16:34:18,25,NA,Don't know,Yes,Don't know
+Yes,Sometimes,100-500,2014-08-27 16:35:02,35,OH,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 16:36:57,46,CA,Yes,Yes,Don't know
+No,Never,100-500,2014-08-27 16:39:00,42,KS,Yes,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 16:39:01,32,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 16:40:35,47,CA,Yes,Yes,Don't know
+No,NA,More than 1000,2014-08-27 16:42:00,22,CA,Yes,Don't know,Yes
+Yes,Sometimes,500-1000,2014-08-27 16:42:55,33,NY,Yes,Yes,Don't know
+No,Sometimes,6-25,2014-08-27 16:47:48,25,WA,No,No,No
+No,NA,More than 1000,2014-08-27 16:53:54,29,CA,No,Don't know,Don't know
+No,Never,26-100,2014-08-27 16:55:04,39,WA,Yes,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-27 17:00:15,38,VA,Yes,Yes,Yes
+No,NA,6-25,2014-08-27 17:03:02,43,NC,No,Don't know,Don't know
+Yes,Rarely,500-1000,2014-08-27 17:04:29,46,OH,Yes,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-27 17:08:18,38,PA,Yes,Yes,Yes
+Yes,Sometimes,6-25,2014-08-27 17:09:23,33,NA,No,No,Yes
+Yes,Often,26-100,2014-08-27 17:10:56,34,NA,No,No,Yes
+No,Never,More than 1000,2014-08-27 17:12:01,62,CA,Don't know,Yes,Don't know
+No,NA,More than 1000,2014-08-27 17:14:36,23,TX,Don't know,Don't know,Yes
+No,NA,More than 1000,2014-08-27 17:15:25,35,AZ,No,No,Don't know
+No,Rarely,26-100,2014-08-27 17:19:05,25,NA,Don't know,Don't know,Don't know
+Yes,Sometimes,1-5,2014-08-27 17:22:29,36,IL,Don't know,No,Yes
+Yes,Rarely,500-1000,2014-08-27 17:32:04,41,NA,Yes,Yes,Yes
+No,Sometimes,1-5,2014-08-27 17:33:51,24,NA,Don't know,Don't know,Yes
+Yes,Sometimes,26-100,2014-08-27 17:33:52,51,NA,Yes,No,No
+Yes,Sometimes,6-25,2014-08-27 17:33:52,29,NC,No,Yes,Yes
+Yes,Sometimes,100-500,2014-08-27 17:37:41,31,NA,Don't know,Don't know,Don't know
+No,NA,6-25,2014-08-27 17:39:58,27,NA,No,No,Don't know
+Yes,Rarely,100-500,2014-08-27 17:41:44,31,NA,Yes,Yes,Don't know
+No,Sometimes,1-5,2014-08-27 17:42:49,27,NA,No,No,No
+No,Rarely,6-25,2014-08-27 17:46:17,23,NA,No,Don't know,Don't know
+No,Never,26-100,2014-08-27 17:47:45,21,NA,Don't know,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 17:48:54,27,NA,No,No,No
+Yes,Often,26-100,2014-08-27 17:49:21,39,WI,Yes,Yes,Don't know
+Yes,Never,More than 1000,2014-08-27 17:49:30,26,CA,No,Don't know,Don't know
+No,Never,6-25,2014-08-27 17:52:31,27,NA,No,No,Don't know
+Yes,Sometimes,500-1000,2014-08-27 17:56:50,22,CA,No,Don't know,Don't know
+Yes,Often,100-500,2014-08-27 18:00:39,26,MN,No,No,Don't know
+Yes,Rarely,100-500,2014-08-27 18:02:32,31,PA,No,No,Yes
+No,Never,6-25,2014-08-27 18:02:42,32,NA,No,No,Don't know
+Yes,Often,100-500,2014-08-27 18:12:55,28,CA,No,Don't know,Don't know
+Yes,Rarely,100-500,2014-08-27 18:13:38,28,NA,No,No,Yes
+No,NA,6-25,2014-08-27 18:14:59,23,NA,No,No,Don't know
+No,Never,26-100,2014-08-27 18:16:52,30,NA,Don't know,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 18:18:18,36,CA,No,Yes,Don't know
+No,NA,More than 1000,2014-08-27 18:22:05,21,CA,Yes,Yes,Yes
+No,Often,26-100,2014-08-27 18:29:32,30,NA,Don't know,No,Don't know
+No,NA,500-1000,2014-08-27 18:39:43,25,CA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 18:41:00,32,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-27 18:43:06,29,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 18:56:46,21,NA,Yes,No,Yes
+Yes,Rarely,100-500,2014-08-27 18:59:44,27,NA,No,No,Don't know
+Yes,Often,More than 1000,2014-08-27 19:05:52,32,NA,Don't know,Don't know,Don't know
+No,Sometimes,More than 1000,2014-08-27 19:08:31,34,NA,Yes,Yes,Yes
+No,NA,26-100,2014-08-27 19:13:21,33,NY,Don't know,Don't know,Don't know
+Yes,Sometimes,6-25,2014-08-27 19:13:27,22,NA,No,Don't know,Don't know
+No,NA,More than 1000,2014-08-27 19:16:15,24,CA,Don't know,Don't know,Don't know
+No,NA,6-25,2014-08-27 19:17:07,65,FL,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-27 19:25:42,27,OR,No,Don't know,Don't know
+No,Never,More than 1000,2014-08-27 19:27:25,33,NA,Don't know,Don't know,Yes
+Yes,Rarely,26-100,2014-08-27 19:28:35,36,CO,No,Don't know,Don't know
+No,Never,26-100,2014-08-27 19:34:26,40,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 19:34:56,28,GA,No,No,Yes
+Yes,Sometimes,500-1000,2014-08-27 19:38:44,39,OR,Yes,Don't know,Yes
+Yes,Sometimes,More than 1000,2014-08-27 19:41:28,32,CA,No,Yes,Don't know
+No,Sometimes,More than 1000,2014-08-27 19:45:36,31,CA,Don't know,Don't know,Don't know
+Yes,Sometimes,100-500,2014-08-27 19:59:12,38,PA,No,No,Don't know
+Yes,Rarely,1-5,2014-08-27 20:13:06,23,CA,No,No,Don't know
+Yes,Often,More than 1000,2014-08-27 20:17:52,42,CA,Yes,Yes,Yes
+No,Sometimes,500-1000,2014-08-27 20:33:33,27,NY,Don't know,Yes,Don't know
+Yes,Sometimes,26-100,2014-08-27 20:48:54,26,MA,No,No,Yes
+No,Never,26-100,2014-08-27 20:52:20,50,NA,No,No,Don't know
+No,Never,26-100,2014-08-27 20:52:31,37,PA,No,Don't know,Don't know
+No,NA,26-100,2014-08-27 20:53:22,23,RI,Don't know,No,Don't know
+No,Sometimes,6-25,2014-08-27 20:55:48,33,MI,No,No,Yes
+No,Never,26-100,2014-08-27 21:05:41,29,NA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-27 21:15:09,34,IL,No,No,Don't know
+Yes,Often,More than 1000,2014-08-27 21:17:31,41,CA,No,No,Don't know
+No,NA,100-500,2014-08-27 21:21:31,50,OR,No,Don't know,Don't know
+Yes,Never,More than 1000,2014-08-27 21:35:24,29,NA,Yes,Yes,Yes
+No,Never,6-25,2014-08-27 21:39:23,35,IN,No,No,Yes
+No,Sometimes,1-5,2014-08-27 21:45:31,27,NA,No,No,Yes
+No,Never,26-100,2014-08-27 21:54:29,40,MA,No,No,Don't know
+Yes,Often,100-500,2014-08-27 21:54:32,27,NA,No,No,Don't know
+No,Never,26-100,2014-08-27 21:55:28,29,MI,Yes,No,Yes
+Yes,Sometimes,6-25,2014-08-27 22:00:36,31,OH,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 22:04:43,43,OH,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 22:04:47,34,NH,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-27 22:06:14,29,OH,No,No,No
+Yes,Sometimes,1-5,2014-08-27 22:07:34,19,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-27 22:11:16,41,TN,Yes,Yes,Don't know
+No,Never,100-500,2014-08-27 22:12:55,29,OR,Yes,Yes,Don't know
+No,Rarely,100-500,2014-08-27 22:13:55,23,PA,Don't know,Don't know,Don't know
+Yes,Sometimes,100-500,2014-08-27 22:14:23,24,NA,No,No,Don't know
+No,NA,26-100,2014-08-27 22:14:46,31,NY,No,Don't know,Don't know
+No,NA,500-1000,2014-08-27 22:21:48,43,WA,Don't know,Don't know,Don't know
+Yes,Rarely,100-500,2014-08-27 22:26:03,31,NY,No,Don't know,Don't know
+No,Often,100-500,2014-08-27 22:32:36,29,CA,Yes,Yes,Don't know
+No,NA,6-25,2014-08-27 22:35:40,35,TN,Yes,Yes,Don't know
+Yes,Sometimes,100-500,2014-08-27 22:36:34,33,WI,No,No,Yes
+Yes,Often,1-5,2014-08-27 22:55:13,30,WI,No,Yes,Yes
+No,NA,More than 1000,2014-08-27 22:59:23,27,PA,Don't know,Don't know,Yes
+No,Sometimes,100-500,2014-08-27 23:09:46,32,MI,No,No,Don't know
+No,Sometimes,1-5,2014-08-27 23:10:16,50,WY,No,Don't know,Don't know
+No,Never,26-100,2014-08-27 23:10:23,24,KY,No,No,Don't know
+No,NA,26-100,2014-08-27 23:14:58,27,NY,No,No,Don't know
+No,Never,1-5,2014-08-27 23:30:52,27,NA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-27 23:54:08,32,TX,No,No,Yes
+No,Rarely,6-25,2014-08-27 23:56:33,42,WI,No,No,Don't know
+No,Often,More than 1000,2014-08-27 23:57:16,37,WA,No,No,Don't know
+No,Sometimes,26-100,2014-08-27 23:59:59,30,NA,No,No,Don't know
+No,Rarely,More than 1000,2014-08-28 00:02:36,29,WA,No,No,Don't know
+Yes,Often,6-25,2014-08-28 00:05:34,30,GA,No,Yes,Don't know
+No,Never,26-100,2014-08-28 00:17:24,35,MI,Yes,Don't know,Don't know
+Yes,Rarely,100-500,2014-08-28 00:43:40,35,MD,No,No,Yes
+No,Often,26-100,2014-08-28 00:47:55,38,NA,No,Don't know,Don't know
+Yes,Sometimes,100-500,2014-08-28 01:04:45,22,NA,No,No,Yes
+No,Sometimes,100-500,2014-08-28 01:14:11,24,NA,No,No,Don't know
+No,Never,1-5,2014-08-28 01:19:34,22,NA,No,No,Don't know
+Yes,Often,26-100,2014-08-28 01:30:12,31,WA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 01:38:53,23,CA,Yes,Yes,Yes
+Yes,Sometimes,100-500,2014-08-28 01:41:17,31,OR,No,No,Don't know
+Yes,Rarely,500-1000,2014-08-28 01:56:43,28,CA,Yes,Yes,Don't know
+Yes,Sometimes,100-500,2014-08-28 02:15:08,37,NA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-28 02:17:42,34,CA,No,No,Yes
+No,Sometimes,26-100,2014-08-28 02:19:29,32,NA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-28 02:30:00,28,MI,No,Don't know,Don't know
+Yes,Sometimes,100-500,2014-08-28 02:32:11,24,NA,No,No,Don't know
+Yes,Rarely,6-25,2014-08-28 02:41:47,56,MA,No,No,Don't know
+No,Sometimes,6-25,2014-08-28 02:46:56,31,NA,No,No,No
+Yes,Sometimes,100-500,2014-08-28 02:49:34,34,CA,No,Don't know,Don't know
+Yes,Rarely,100-500,2014-08-28 02:52:45,35,NA,Yes,Don't know,Don't know
+No,Never,26-100,2014-08-28 02:54:44,28,NA,No,No,Don't know
+Yes,Often,6-25,2014-08-28 03:05:52,36,NA,No,No,Don't know
+Yes,Often,26-100,2014-08-28 03:06:14,30,NA,No,No,Yes
+No,NA,1-5,2014-08-28 03:13:10,35,NA,No,No,Yes
+Yes,Sometimes,1-5,2014-08-28 03:13:20,49,NA,Yes,No,Don't know
+No,NA,26-100,2014-08-28 03:15:01,36,NA,No,No,Yes
+No,NA,26-100,2014-08-28 03:16:53,35,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 03:29:19,29,NA,Yes,Yes,No
+No,Never,26-100,2014-08-28 03:36:10,57,CA,No,Yes,Yes
+Yes,Rarely,100-500,2014-08-28 03:42:58,31,NA,No,No,No
+No,Never,6-25,2014-08-28 03:47:30,37,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-28 03:49:56,25,NA,No,No,Don't know
+No,Sometimes,26-100,2014-08-28 03:52:05,30,NA,No,No,Don't know
+No,Sometimes,100-500,2014-08-28 04:00:30,26,NA,Yes,Yes,Don't know
+No,Often,6-25,2014-08-28 04:02:47,22,NA,No,No,Don't know
+No,Rarely,More than 1000,2014-08-28 04:07:34,39,FL,Yes,Yes,Don't know
+Yes,Never,100-500,2014-08-28 04:09:14,29,NA,Don't know,Don't know,Don't know
+Yes,Sometimes,1-5,2014-08-28 04:11:27,54,NA,No,No,Don't know
+No,Never,500-1000,2014-08-28 04:16:30,34,NA,Yes,Yes,Don't know
+Yes,Never,500-1000,2014-08-28 04:23:01,32,WA,Yes,Yes,Don't know
+No,NA,6-25,2014-08-28 04:24:03,25,NA,No,No,Don't know
+No,Rarely,1-5,2014-08-28 04:30:08,29,NA,No,No,No
+No,Never,1-5,2014-08-28 04:34:32,32,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 04:37:54,30,NA,No,Don't know,Yes
+No,NA,6-25,2014-08-28 04:53:52,31,NA,No,Don't know,Don't know
+No,Rarely,More than 1000,2014-08-28 05:05:32,20,NA,Yes,Yes,Yes
+No,Never,1-5,2014-08-28 05:12:15,27,NA,No,Don't know,Don't know
+No,Never,More than 1000,2014-08-28 05:14:28,32,CA,Don't know,Don't know,Don't know
+No,Never,1-5,2014-08-28 06:02:05,26,NA,No,No,Don't know
+No,Sometimes,More than 1000,2014-08-28 06:05:18,30,NA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-28 06:10:25,30,NA,Don't know,No,Don't know
+No,NA,1-5,2014-08-28 06:11:06,22,NA,Don't know,Don't know,Don't know
+No,NA,More than 1000,2014-08-28 06:27:59,24,NA,Don't know,Don't know,Don't know
+No,Never,26-100,2014-08-28 06:30:18,26,NA,No,No,Don't know
+No,NA,100-500,2014-08-28 07:01:30,43,NA,No,No,Don't know
+No,Never,26-100,2014-08-28 07:03:00,26,NA,No,Don't know,Don't know
+No,Sometimes,6-25,2014-08-28 07:03:03,23,NC,No,Don't know,Don't know
+No,NA,100-500,2014-08-28 07:12:03,26,NA,Don't know,Yes,Don't know
+No,Never,100-500,2014-08-28 08:00:40,26,NA,Don't know,Don't know,Don't know
+No,Sometimes,26-100,2014-08-28 08:06:43,35,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-28 08:18:06,28,IL,No,Don't know,Don't know
+No,NA,26-100,2014-08-28 08:23:11,22,NA,No,No,Don't know
+Yes,Rarely,6-25,2014-08-28 08:39:49,29,OH,No,No,Don't know
+No,NA,1-5,2014-08-28 08:40:55,29,NA,No,No,Yes
+Yes,Often,1-5,2014-08-28 08:43:23,45,VA,No,Yes,Don't know
+Yes,Rarely,26-100,2014-08-28 08:43:57,33,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 08:43:58,38,MN,Yes,Yes,Don't know
+Yes,Often,26-100,2014-08-28 09:02:16,19,MO,No,No,Don't know
+Yes,Rarely,More than 1000,2014-08-28 09:09:30,29,NA,Yes,Don't know,Yes
+No,NA,6-25,2014-08-28 09:16:21,21,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 09:18:13,23,NA,No,Don't know,Don't know
+Yes,Rarely,More than 1000,2014-08-28 09:40:42,33,NC,Yes,Yes,Yes
+Yes,Sometimes,100-500,2014-08-28 09:53:42,49,NY,Yes,Yes,Yes
+No,NA,26-100,2014-08-28 09:53:57,28,NM,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-28 09:54:21,27,NA,Yes,Don't know,Yes
+Yes,Sometimes,6-25,2014-08-28 09:54:38,23,NA,No,No,Don't know
+No,Never,1-5,2014-08-28 09:54:47,29,NA,No,No,Yes
+No,NA,26-100,2014-08-28 09:54:51,30,NA,No,Don't know,Yes
+No,NA,More than 1000,2014-08-28 09:55:14,28,NA,Don't know,Don't know,Don't know
+No,NA,6-25,2014-08-28 09:56:03,32,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-28 09:56:04,32,NA,No,No,Yes
+No,NA,100-500,2014-08-28 09:56:10,37,NA,No,No,Don't know
+No,NA,More than 1000,2014-08-28 09:56:21,39,TX,No,No,Don't know
+No,NA,500-1000,2014-08-28 09:56:30,31,NA,No,Don't know,Don't know
+No,NA,6-25,2014-08-28 09:57:02,29,SC,No,Don't know,Don't know
+No,NA,100-500,2014-08-28 09:57:10,30,FL,No,Don't know,Don't know
+Yes,Rarely,1-5,2014-08-28 09:57:25,33,WA,Yes,Yes,No
+Yes,Sometimes,100-500,2014-08-28 09:58:08,37,CA,Don't know,Don't know,Yes
+Yes,Often,26-100,2014-08-28 09:59:39,23,OH,Yes,No,Yes
+Yes,Sometimes,26-100,2014-08-28 09:59:39,43,TN,No,Yes,Don't know
+Yes,Rarely,100-500,2014-08-28 10:00:48,32,NA,No,No,Don't know
+No,Never,26-100,2014-08-28 10:01:15,26,NY,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-28 10:01:31,32,NY,Don't know,Don't know,Don't know
+No,NA,26-100,2014-08-28 10:02:09,37,MO,No,Don't know,Don't know
+Yes,Often,26-100,2014-08-28 10:02:23,29,NY,No,No,Yes
+No,NA,6-25,2014-08-28 10:02:45,34,NA,No,No,Don't know
+No,NA,6-25,2014-08-28 10:04:34,27,NA,Don't know,Don't know,Don't know
+No,Never,100-500,2014-08-28 10:04:41,30,TN,No,Don't know,Don't know
+No,Never,6-25,2014-08-28 10:05:43,29,CO,No,Yes,Yes
+Yes,Sometimes,1-5,2014-08-28 10:07:37,32,PA,Don't know,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-28 10:07:53,-1726,NA,No,No,Don't know
+No,NA,500-1000,2014-08-28 10:08:19,25,NA,Don't know,Yes,Yes
+No,NA,6-25,2014-08-28 10:08:34,37,NY,Yes,No,Yes
+No,NA,6-25,2014-08-28 10:10:29,29,NA,No,No,Don't know
+No,NA,26-100,2014-08-28 10:11:52,27,MN,No,Don't know,Don't know
+No,NA,6-25,2014-08-28 10:13:44,33,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 10:15:52,30,NA,No,No,No
+No,NA,1-5,2014-08-28 10:16:55,29,NA,No,No,Don't know
+Yes,Never,6-25,2014-08-28 10:17:19,25,MO,Yes,Don't know,Don't know
+Yes,Sometimes,1-5,2014-08-28 10:18:34,33,WY,No,No,Don't know
+No,Never,100-500,2014-08-28 10:18:46,31,NA,No,No,No
+No,Rarely,6-25,2014-08-28 10:20:37,21,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-28 10:22:06,30,NA,No,No,No
+No,NA,More than 1000,2014-08-28 10:24:19,29,MN,Don't know,Don't know,Don't know
+Yes,Sometimes,1-5,2014-08-28 10:25:39,43,NA,No,No,Yes
+Yes,Often,6-25,2014-08-28 10:29:47,37,NA,No,No,Don't know
+No,NA,26-100,2014-08-28 10:30:04,24,NA,Yes,No,Don't know
+No,NA,6-25,2014-08-28 10:30:44,29,MD,No,No,Don't know
+No,NA,26-100,2014-08-28 10:34:01,31,KY,Yes,Yes,Yes
+No,NA,100-500,2014-08-28 10:35:55,5,OH,No,No,Don't know
+No,Never,100-500,2014-08-28 10:42:09,33,NA,No,No,Don't know
+No,NA,More than 1000,2014-08-28 10:45:21,43,NY,Don't know,Yes,Yes
+Yes,Sometimes,26-100,2014-08-28 10:47:12,33,NA,No,No,Don't know
+No,NA,6-25,2014-08-28 10:51:08,27,NA,No,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-28 10:52:33,36,TN,Don't know,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-28 10:54:31,37,NA,No,No,Yes
+No,NA,6-25,2014-08-28 10:57:23,32,NA,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-28 11:02:41,39,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-28 11:04:00,31,TX,No,Don't know,Don't know
+Yes,Sometimes,100-500,2014-08-28 11:04:17,36,OH,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-28 11:07:23,30,TX,Don't know,Don't know,Don't know
+No,NA,6-25,2014-08-28 11:09:03,28,NA,No,Don't know,Yes
+No,NA,6-25,2014-08-28 11:10:53,32,NA,No,No,No
+Yes,Rarely,6-25,2014-08-28 11:14:21,35,CA,Yes,Yes,Yes
+Yes,Sometimes,26-100,2014-08-28 11:15:42,19,NA,No,No,Don't know
+No,NA,26-100,2014-08-28 11:19:35,33,NA,No,No,Don't know
+No,NA,More than 1000,2014-08-28 11:20:14,42,NA,Yes,Yes,Yes
+Yes,Sometimes,100-500,2014-08-28 11:21:17,37,MI,Don't know,Don't know,Don't know
+No,Never,6-25,2014-08-28 11:21:48,40,NA,No,No,Yes
+No,Never,More than 1000,2014-08-28 11:22:04,36,CA,Yes,Yes,Yes
+Yes,Sometimes,26-100,2014-08-28 11:26:15,29,OR,No,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-28 11:27:56,38,NC,No,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 11:29:20,26,CA,Yes,Don't know,Don't know
+No,Rarely,26-100,2014-08-28 11:32:37,34,NA,No,No,Yes
+Yes,Often,More than 1000,2014-08-28 11:34:36,21,IL,No,No,No
+No,Sometimes,1-5,2014-08-28 11:36:48,31,NA,No,No,Yes
+Yes,Rarely,26-100,2014-08-28 11:38:30,37,CA,Yes,Yes,Don't know
+Yes,Sometimes,1-5,2014-08-28 11:40:11,37,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-28 11:44:43,38,NA,No,No,No
+Yes,Sometimes,100-500,2014-08-28 11:47:35,27,CA,Yes,Don't know,Don't know
+No,NA,6-25,2014-08-28 11:48:12,39,NA,Yes,No,Yes
+Yes,Sometimes,1-5,2014-08-28 11:50:06,33,AZ,Yes,Yes,Yes
+No,Never,26-100,2014-08-28 11:50:28,27,NA,No,Don't know,Don't know
+Yes,Never,6-25,2014-08-28 11:54:23,36,CA,No,No,Don't know
+No,Never,26-100,2014-08-28 11:58:21,28,NA,No,No,Don't know
+Yes,Sometimes,500-1000,2014-08-28 11:59:23,39,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-28 12:02:59,33,VA,No,No,Yes
+No,NA,More than 1000,2014-08-28 12:05:41,32,NA,No,Don't know,Don't know
+No,NA,More than 1000,2014-08-28 12:06:55,28,NA,No,Don't know,Don't know
+Yes,Rarely,6-25,2014-08-28 12:07:28,37,NA,No,No,Yes
+Yes,Sometimes,100-500,2014-08-28 12:08:30,39,NA,Yes,Yes,Yes
+No,Sometimes,6-25,2014-08-28 12:09:18,43,VA,No,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 12:10:08,32,NA,Yes,Yes,Don't know
+No,NA,More than 1000,2014-08-28 12:10:42,27,WA,No,Yes,Don't know
+No,NA,6-25,2014-08-28 12:12:49,31,NA,No,No,Don't know
+Yes,Never,26-100,2014-08-28 12:15:08,43,NA,No,Don't know,Don't know
+Yes,Sometimes,6-25,2014-08-28 12:19:34,33,WI,No,No,Yes
+Yes,Sometimes,More than 1000,2014-08-28 12:19:42,34,NA,Don't know,Don't know,Yes
+No,NA,1-5,2014-08-28 12:22:14,33,CA,No,No,Don't know
+No,NA,6-25,2014-08-28 12:23:37,25,CA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 12:30:20,25,NE,Yes,Yes,Yes
+No,NA,1-5,2014-08-28 12:40:46,32,NA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-28 12:42:12,25,CO,Don't know,Don't know,Yes
+No,NA,100-500,2014-08-28 12:42:30,37,NA,Don't know,Don't know,Don't know
+Yes,Never,More than 1000,2014-08-28 12:44:55,39,NA,Yes,Yes,Yes
+No,Rarely,100-500,2014-08-28 12:53:21,29,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 13:01:26,33,NY,Don't know,Don't know,Don't know
+Yes,Often,6-25,2014-08-28 13:04:30,37,TX,No,No,Yes
+Yes,Sometimes,100-500,2014-08-28 13:08:36,35,LA,No,No,Yes
+Yes,Sometimes,More than 1000,2014-08-28 13:11:05,22,WA,Don't know,Don't know,Don't know
+No,Never,26-100,2014-08-28 13:17:40,38,MI,No,No,Don't know
+Yes,Often,100-500,2014-08-28 13:26:17,32,CA,No,Don't know,Don't know
+No,NA,26-100,2014-08-28 13:32:37,28,NA,No,No,Don't know
+No,NA,26-100,2014-08-28 13:34:57,27,NA,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-28 13:35:25,35,CA,Don't know,Don't know,Don't know
+No,Never,100-500,2014-08-28 13:39:12,29,MD,Yes,No,Yes
+Yes,Sometimes,6-25,2014-08-28 13:39:40,23,CA,No,No,Don't know
+No,NA,26-100,2014-08-28 13:40:08,39,CT,No,No,Don't know
+No,NA,More than 1000,2014-08-28 13:41:51,30,CA,Yes,Yes,Yes
+No,NA,26-100,2014-08-28 13:47:37,32,NA,No,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-28 13:47:57,28,CA,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-28 13:48:30,40,WA,Yes,Yes,Yes
+No,NA,6-25,2014-08-28 13:54:47,36,CA,No,Don't know,Don't know
+No,NA,26-100,2014-08-28 13:57:01,27,IN,No,Don't know,Don't know
+No,Sometimes,More than 1000,2014-08-28 14:00:02,41,TX,No,Yes,Don't know
+No,Never,6-25,2014-08-28 14:01:56,29,NA,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-28 14:02:07,29,NA,No,No,Don't know
+Yes,Often,1-5,2014-08-28 14:04:54,35,MO,No,No,Yes
+Yes,Never,6-25,2014-08-28 14:12:58,28,NV,No,No,Don't know
+No,Sometimes,1-5,2014-08-28 14:15:02,36,NA,Don't know,Don't know,Don't know
+No,Sometimes,26-100,2014-08-28 14:31:00,39,WA,No,Don't know,Don't know
+Yes,Sometimes,500-1000,2014-08-28 14:38:50,39,FL,Yes,Yes,Yes
+Yes,Sometimes,1-5,2014-08-28 14:41:47,44,NA,No,No,No
+Yes,Sometimes,6-25,2014-08-28 14:46:08,26,NA,Yes,Yes,Yes
+Yes,Often,1-5,2014-08-28 14:51:46,35,NA,Yes,No,Don't know
+Yes,Sometimes,100-500,2014-08-28 14:52:46,40,WA,Yes,Don't know,Don't know
+Yes,Often,1-5,2014-08-28 14:53:02,35,NA,Yes,No,Don't know
+No,Never,More than 1000,2014-08-28 14:53:32,38,IL,No,No,No
+No,NA,More than 1000,2014-08-28 14:57:10,34,FL,Don't know,Don't know,Don't know
+No,NA,More than 1000,2014-08-28 15:01:46,43,MA,Yes,Yes,Don't know
+No,Often,26-100,2014-08-28 15:25:39,48,CA,No,No,No
+No,Never,26-100,2014-08-28 15:32:03,20,WA,Don't know,Don't know,Don't know
+No,Sometimes,1-5,2014-08-28 15:37:04,40,MI,No,No,Don't know
+Yes,Rarely,6-25,2014-08-28 15:40:32,29,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-28 15:43:37,35,MI,No,No,Yes
+No,Sometimes,More than 1000,2014-08-28 15:48:12,29,WI,No,Yes,Yes
+No,Never,100-500,2014-08-28 15:50:12,40,CA,No,Don't know,Don't know
+Yes,Rarely,6-25,2014-08-28 15:50:44,29,NA,No,No,Yes
+Yes,Rarely,100-500,2014-08-28 15:54:35,29,CA,Don't know,No,Don't know
+Yes,Sometimes,1-5,2014-08-28 15:56:47,34,TX,No,No,Don't know
+Yes,Sometimes,500-1000,2014-08-28 16:09:35,44,NA,No,No,Don't know
+Yes,Often,6-25,2014-08-28 16:17:09,24,NY,No,No,Yes
+No,NA,100-500,2014-08-28 16:31:00,47,PA,No,Don't know,Don't know
+No,NA,More than 1000,2014-08-28 16:42:49,43,NA,No,No,Don't know
+No,Rarely,More than 1000,2014-08-28 16:52:23,36,PA,Yes,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-28 16:52:34,43,GA,No,Don't know,Don't know
+No,Sometimes,6-25,2014-08-28 16:52:34,36,NA,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-28 16:54:49,31,NY,No,No,Don't know
+No,Sometimes,More than 1000,2014-08-28 16:55:07,35,CA,Yes,Don't know,Don't know
+No,NA,26-100,2014-08-28 16:55:31,33,TN,No,No,Yes
+No,Sometimes,26-100,2014-08-28 16:56:26,37,NA,Don't know,Don't know,Don't know
+Yes,Sometimes,100-500,2014-08-28 16:56:57,34,TN,Yes,Don't know,Yes
+Yes,Sometimes,1-5,2014-08-28 16:56:58,36,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-28 16:57:07,40,TN,No,No,Yes
+No,Rarely,More than 1000,2014-08-28 16:57:46,40,IL,Yes,Yes,Yes
+Yes,Sometimes,1-5,2014-08-28 16:57:49,42,WI,No,No,Don't know
+No,NA,26-100,2014-08-28 16:58:33,23,KY,No,Don't know,Yes
+No,Never,6-25,2014-08-28 16:58:33,21,NA,No,No,Yes
+No,Sometimes,6-25,2014-08-28 16:58:50,26,NA,No,No,Don't know
+No,NA,6-25,2014-08-28 17:01:06,31,NA,No,No,Don't know
+No,NA,More than 1000,2014-08-28 17:01:21,25,CA,Yes,Yes,Yes
+No,Never,More than 1000,2014-08-28 17:01:25,51,MN,Yes,Yes,Yes
+No,NA,6-25,2014-08-28 17:02:27,24,TN,Don't know,No,Yes
+No,NA,100-500,2014-08-28 17:02:29,33,MN,No,No,Don't know
+Yes,Rarely,6-25,2014-08-28 17:02:56,32,NA,No,No,No
+Yes,Rarely,6-25,2014-08-28 17:02:44,32,NA,No,No,No
+Yes,Rarely,1-5,2014-08-28 17:03:42,26,NA,Don't know,Don't know,Don't know
+No,Never,100-500,2014-08-28 17:07:11,23,IL,Don't know,Don't know,Don't know
+Yes,Often,6-25,2014-08-28 17:07:28,33,TN,No,No,Don't know
+Yes,Rarely,More than 1000,2014-08-28 17:07:39,46,IL,Yes,Yes,Yes
+No,NA,6-25,2014-08-28 17:08:16,34,NA,No,No,No
+Yes,Sometimes,6-25,2014-08-28 17:09:03,35,DC,No,No,Don't know
+No,NA,1-5,2014-08-28 17:10:00,39,KS,No,No,Don't know
+No,Sometimes,1-5,2014-08-28 17:10:04,32,NA,No,No,Yes
+No,NA,More than 1000,2014-08-28 17:10:08,43,NA,No,Don't know,Don't know
+Yes,Rarely,More than 1000,2014-08-28 17:11:48,56,CA,Don't know,Yes,Yes
+Yes,Sometimes,100-500,2014-08-28 17:12:30,32,NA,No,No,Don't know
+No,NA,26-100,2014-08-28 17:14:31,41,NA,Yes,Yes,Yes
+No,NA,More than 1000,2014-08-28 17:16:53,39,TN,Don't know,Don't know,Don't know
+No,NA,500-1000,2014-08-28 17:19:05,37,OK,No,No,Yes
+Yes,Sometimes,6-25,2014-08-28 17:19:27,30,CA,No,Don't know,Don't know
+No,NA,26-100,2014-08-28 17:19:53,31,TN,Yes,No,Yes
+No,NA,More than 1000,2014-08-28 17:20:23,29,TX,No,Don't know,Don't know
+No,Never,More than 1000,2014-08-28 17:20:41,23,NA,No,Yes,Don't know
+Yes,Never,26-100,2014-08-28 17:21:01,31,CO,No,Don't know,Yes
+Yes,Sometimes,26-100,2014-08-28 17:21:43,29,TN,Don't know,Don't know,Don't know
+No,Never,26-100,2014-08-28 17:22:18,30,GA,Don't know,Don't know,Yes
+No,Never,500-1000,2014-08-28 17:22:53,37,TN,Yes,Don't know,Don't know
+No,Never,1-5,2014-08-28 17:23:19,36,VA,No,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-28 17:27:03,35,TN,No,Don't know,Don't know
+No,Never,500-1000,2014-08-28 17:27:47,41,DC,No,No,Don't know
+Yes,Rarely,6-25,2014-08-28 17:28:46,31,NA,No,No,Don't know
+No,NA,500-1000,2014-08-28 17:28:58,38,NA,Yes,Yes,Don't know
+No,NA,100-500,2014-08-28 17:31:06,26,NA,No,No,Yes
+No,Sometimes,More than 1000,2014-08-28 17:33:05,39,TN,Yes,Yes,Don't know
+No,Sometimes,6-25,2014-08-28 17:33:20,42,VA,Don't know,Yes,Don't know
+Yes,Rarely,1-5,2014-08-28 17:34:30,32,TN,No,No,Don't know
+No,NA,100-500,2014-08-28 17:35:14,29,TN,Don't know,Don't know,Don't know
+No,Never,100-500,2014-08-28 17:36:48,30,TN,Don't know,Yes,Don't know
+Yes,Often,500-1000,2014-08-28 17:39:06,40,TN,No,Don't know,Don't know
+No,NA,100-500,2014-08-28 17:45:21,51,TN,No,Don't know,Don't know
+No,Never,More than 1000,2014-08-28 17:46:37,33,IN,Yes,Yes,Yes
+Yes,Sometimes,1-5,2014-08-28 17:47:45,34,NA,No,No,Yes
+No,Never,1-5,2014-08-28 17:47:49,50,VA,No,No,Yes
+No,Sometimes,26-100,2014-08-28 17:50:32,24,TX,No,Don't know,Don't know
+Yes,Rarely,26-100,2014-08-28 17:56:02,25,TX,No,No,Don't know
+Yes,Rarely,26-100,2014-08-28 17:57:39,43,NA,No,No,Don't know
+Yes,Often,1-5,2014-08-28 17:57:42,25,CA,Yes,Yes,Yes
+No,NA,1-5,2014-08-28 17:59:31,24,NA,No,No,Yes
+No,Never,1-5,2014-08-28 17:59:54,51,CO,No,No,Yes
+Yes,Sometimes,More than 1000,2014-08-28 17:59:57,49,OR,No,Yes,Yes
+No,NA,More than 1000,2014-08-28 18:01:00,30,OK,Yes,Yes,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 18:02:09,25,OH,Yes,No,Don't know
+Yes,Rarely,500-1000,2014-08-28 18:07:42,36,TN,Don't know,Don't know,Don't know
+Yes,Never,More than 1000,2014-08-28 18:17:41,48,VA,Yes,Yes,Yes
+Yes,Sometimes,6-25,2014-08-28 18:18:43,48,NA,No,No,Don't know
+Yes,Rarely,6-25,2014-08-28 18:21:23,53,OR,No,Yes,Don't know
+Yes,Often,6-25,2014-08-28 18:21:58,24,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-28 18:26:35,33,OR,No,Yes,Don't know
+Yes,Sometimes,6-25,2014-08-28 18:50:47,25,NA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-28 19:03:47,30,NA,No,No,Don't know
+No,Never,1-5,2014-08-28 19:04:05,30,PA,No,No,Yes
+Yes,Sometimes,1-5,2014-08-28 19:15:35,34,NA,No,No,Yes
+No,NA,More than 1000,2014-08-28 19:26:03,31,SC,Yes,Yes,Yes
+Yes,Often,More than 1000,2014-08-28 19:28:27,22,CA,No,Don't know,Don't know
+No,Sometimes,6-25,2014-08-28 19:35:39,28,TN,No,Don't know,Don't know
+Yes,Rarely,26-100,2014-08-28 20:12:08,35,UT,No,Yes,Yes
+Yes,Sometimes,26-100,2014-08-28 20:31:02,28,CA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 20:49:55,42,NA,Don't know,No,Yes
+No,NA,500-1000,2014-08-28 21:22:40,33,MO,Don't know,Don't know,Don't know
+No,Sometimes,More than 1000,2014-08-28 21:24:48,29,CA,Yes,No,Don't know
+No,Sometimes,500-1000,2014-08-28 21:27:19,43,NA,No,Don't know,Don't know
+No,NA,26-100,2014-08-28 21:30:35,29,NY,Yes,Yes,Don't know
+No,NA,100-500,2014-08-28 21:33:32,25,TX,No,No,Yes
+No,Never,100-500,2014-08-28 21:38:12,31,MO,Don't know,Don't know,Don't know
+Yes,Sometimes,6-25,2014-08-28 21:41:53,35,GA,Yes,Yes,Yes
+No,Often,1-5,2014-08-28 21:47:33,34,TX,No,Yes,Don't know
+Yes,Sometimes,100-500,2014-08-28 22:16:34,43,WA,No,Yes,Yes
+Yes,Sometimes,100-500,2014-08-28 22:17:15,38,WA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 22:18:41,26,WA,No,Yes,Yes
+Yes,Rarely,1-5,2014-08-28 22:20:33,38,NA,No,No,Yes
+Yes,Often,6-25,2014-08-28 22:22:39,42,TX,No,Don't know,Don't know
+Yes,NA,6-25,2014-08-28 22:23:47,33,NA,No,Don't know,Don't know
+Yes,Rarely,More than 1000,2014-08-28 22:35:10,32,WA,Yes,Yes,Yes
+Yes,Sometimes,6-25,2014-08-28 22:39:57,44,WA,Yes,Yes,Yes
+Yes,Rarely,More than 1000,2014-08-28 22:46:40,28,WA,Don't know,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 23:03:05,40,WA,Yes,Yes,Yes
+Yes,Sometimes,500-1000,2014-08-28 23:13:18,31,AZ,No,Don't know,Yes
+No,Sometimes,100-500,2014-08-28 23:16:30,32,WA,Yes,Yes,Don't know
+Yes,Sometimes,More than 1000,2014-08-28 23:57:07,28,WA,Don't know,Don't know,Don't know
+Yes,Often,26-100,2014-08-29 00:05:07,39,AZ,No,No,Yes
+No,NA,More than 1000,2014-08-29 00:06:49,45,NY,Yes,Yes,Don't know
+Yes,Rarely,More than 1000,2014-08-29 00:11:17,43,WA,Yes,Yes,Don't know
+Yes,Sometimes,More than 1000,2014-08-29 00:41:25,35,CA,Don't know,Yes,Don't know
+Yes,Sometimes,6-25,2014-08-29 00:43:37,40,WA,Don't know,Don't know,Yes
+Yes,Rarely,26-100,2014-08-29 00:47:09,34,NA,No,No,Yes
+Yes,Often,26-100,2014-08-29 01:14:09,24,NA,No,No,No
+Yes,Sometimes,1-5,2014-08-29 01:20:32,61,NA,No,No,Don't know
+Yes,Rarely,6-25,2014-08-29 01:40:36,36,WA,No,Don't know,Don't know
+No,NA,6-25,2014-08-29 02:10:57,38,TN,No,No,Yes
+Yes,Often,26-100,2014-08-29 02:24:13,33,NA,Yes,No,Yes
+No,Never,More than 1000,2014-08-29 03:02:16,30,WA,No,Don't know,Don't know
+Yes,Rarely,1-5,2014-08-29 03:02:45,34,NA,Yes,Yes,Yes
+Yes,Rarely,More than 1000,2014-08-29 03:08:25,26,CA,Don't know,Don't know,Don't know
+No,NA,More than 1000,2014-08-29 04:39:23,33,NA,Don't know,Don't know,Don't know
+No,NA,6-25,2014-08-29 04:53:12,32,NA,No,No,Don't know
+No,Sometimes,6-25,2014-08-29 05:15:30,25,NA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-29 05:24:07,35,NA,No,No,Don't know
+No,Often,1-5,2014-08-29 05:39:21,24,NA,No,No,Don't know
+Yes,Often,More than 1000,2014-08-29 05:47:19,55,NA,Yes,Yes,Don't know
+Yes,Sometimes,1-5,2014-08-29 05:54:26,33,NA,No,No,No
+Yes,Sometimes,1-5,2014-08-29 05:57:48,26,NA,No,No,Don't know
+No,Never,6-25,2014-08-29 06:06:46,25,NA,Don't know,Don't know,Don't know
+No,Rarely,100-500,2014-08-29 06:37:49,45,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-29 06:42:57,33,NA,Yes,Yes,Yes
+No,Sometimes,More than 1000,2014-08-29 07:12:43,43,MI,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-29 07:21:30,30,NA,No,No,No
+Yes,Rarely,6-25,2014-08-29 07:28:17,40,IN,No,Don't know,Don't know
+No,Never,More than 1000,2014-08-29 07:51:42,49,GA,Yes,Yes,Yes
+No,NA,6-25,2014-08-29 08:26:36,29,NA,No,No,Don't know
+No,NA,500-1000,2014-08-29 08:36:24,26,NA,Don't know,Don't know,Don't know
+No,Never,More than 1000,2014-08-29 08:46:31,38,WA,Yes,Yes,Yes
+No,NA,500-1000,2014-08-29 08:53:19,27,NA,Don't know,No,Yes
+No,Never,6-25,2014-08-29 08:54:23,26,NA,No,No,No
+Yes,Often,26-100,2014-08-29 08:57:14,28,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-29 08:57:42,40,ME,No,No,Don't know
+Yes,Rarely,1-5,2014-08-29 08:59:08,37,NA,No,No,Yes
+Yes,Often,26-100,2014-08-29 08:59:40,34,NA,No,Yes,No
+Yes,Often,100-500,2014-08-29 09:01:01,28,NY,No,Don't know,Don't know
+No,Never,26-100,2014-08-29 09:01:45,27,NA,Yes,No,Yes
+Yes,Sometimes,6-25,2014-08-29 09:02:04,29,NA,No,No,Don't know
+No,Rarely,500-1000,2014-08-29 09:02:56,39,NA,No,No,Don't know
+No,Often,6-25,2014-08-29 09:03:50,28,NA,No,No,No
+No,Sometimes,26-100,2014-08-29 09:10:08,23,PA,Yes,Yes,Yes
+Yes,Often,1-5,2014-08-29 09:10:58,8,IL,Yes,Yes,Yes
+No,NA,1-5,2014-08-29 09:12:16,38,NA,No,No,Yes
+No,NA,6-25,2014-08-29 09:13:43,19,NA,No,Yes,Don't know
+Yes,Sometimes,26-100,2014-08-29 09:14:45,30,IL,Yes,Don't know,Yes
+No,NA,1-5,2014-08-29 09:15:05,28,NA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-29 09:15:52,20,NA,No,No,Don't know
+No,Sometimes,1-5,2014-08-29 09:19:25,35,NA,No,Don't know,Don't know
+Yes,Rarely,100-500,2014-08-29 09:24:34,39,MN,No,No,Yes
+No,Never,More than 1000,2014-08-29 09:23:22,31,TX,No,Don't know,Don't know
+No,Rarely,500-1000,2014-08-29 09:23:44,32,NA,No,No,Don't know
+No,NA,6-25,2014-08-29 09:27:12,27,NA,No,No,Don't know
+Yes,Often,6-25,2014-08-29 09:29:37,25,PA,No,Don't know,Yes
+Yes,Sometimes,6-25,2014-08-29 09:31:37,42,IN,No,Don't know,Don't know
+Yes,Often,100-500,2014-08-29 09:31:49,34,PA,No,No,Yes
+Yes,Sometimes,26-100,2014-08-29 09:33:43,26,OH,No,Don't know,Don't know
+Yes,Sometimes,1-5,2014-08-29 09:35:46,35,NA,No,No,Yes
+No,Never,500-1000,2014-08-29 09:36:04,34,NA,No,Don't know,Don't know
+Yes,Sometimes,100-500,2014-08-29 09:36:46,38,PA,No,Yes,Yes
+No,Sometimes,100-500,2014-08-29 09:40:13,34,SD,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-29 09:42:23,39,IN,No,No,Yes
+No,NA,100-500,2014-08-29 09:46:56,44,CA,No,No,Don't know
+No,NA,More than 1000,2014-08-29 09:47:10,40,TN,Yes,Yes,Yes
+No,Never,1-5,2014-08-29 09:47:30,33,TX,Don't know,Don't know,Yes
+No,Sometimes,More than 1000,2014-08-29 09:51:35,24,TN,No,Don't know,Don't know
+No,Sometimes,26-100,2014-08-29 09:53:38,38,OR,Don't know,Don't know,Don't know
+No,Sometimes,More than 1000,2014-08-29 09:53:50,31,SD,Yes,Yes,Yes
+No,NA,100-500,2014-08-29 09:54:01,23,NA,No,No,Yes
+No,NA,6-25,2014-08-29 09:54:11,26,NY,No,No,Don't know
+Yes,Often,More than 1000,2014-08-29 09:58:55,46,CT,Yes,Yes,Don't know
+Yes,Sometimes,26-100,2014-08-29 09:59:39,30,CA,No,No,Don't know
+No,Rarely,26-100,2014-08-29 10:03:24,25,NA,No,No,Don't know
+No,Never,26-100,2014-08-29 10:05:57,19,NA,No,No,Don't know
+Yes,Sometimes,500-1000,2014-08-29 10:06:29,30,GA,Yes,Yes,Yes
+No,Never,6-25,2014-08-29 10:12:10,32,TN,Yes,Yes,Don't know
+No,NA,6-25,2014-08-29 10:13:39,32,NA,No,No,Don't know
+No,Sometimes,26-100,2014-08-29 10:13:43,37,IN,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-29 10:16:45,42,CA,No,Don't know,Don't know
+No,Never,More than 1000,2014-08-29 10:27:15,25,OR,Yes,Yes,Don't know
+No,Sometimes,1-5,2014-08-29 10:30:09,19,IN,No,No,Don't know
+No,Never,100-500,2014-08-29 10:32:24,40,GA,Yes,No,Don't know
+No,NA,More than 1000,2014-08-29 10:33:45,34,IN,Yes,Don't know,Don't know
+No,NA,6-25,2014-08-29 10:38:23,26,MN,No,No,Don't know
+Yes,Rarely,6-25,2014-08-29 10:38:29,31,MN,Don't know,Don't know,Yes
+No,Sometimes,More than 1000,2014-08-29 10:55:24,40,NC,Yes,Don't know,Don't know
+Yes,Often,26-100,2014-08-29 10:59:57,31,FL,No,No,No
+No,Never,100-500,2014-08-29 11:01:41,36,MN,No,Don't know,Don't know
+No,Sometimes,6-25,2014-08-29 11:02:23,35,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-29 11:04:19,26,NA,No,No,Yes
+No,NA,More than 1000,2014-08-29 11:05:00,44,MO,Don't know,Don't know,Yes
+No,Sometimes,1-5,2014-08-29 11:11:00,34,CA,No,No,Don't know
+No,NA,6-25,2014-08-29 11:12:22,35,OR,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-29 11:19:46,28,OH,No,No,Don't know
+No,NA,6-25,2014-08-29 11:20:13,33,NY,Don't know,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-29 11:20:28,40,WI,No,Yes,Don't know
+Yes,Sometimes,6-25,2014-08-29 11:20:52,26,WA,No,No,Yes
+Yes,Often,More than 1000,2014-08-29 11:22:46,29,NA,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-29 11:23:21,26,NA,No,No,Yes
+Yes,Sometimes,6-25,2014-08-29 11:24:48,33,NA,No,No,Don't know
+No,Sometimes,100-500,2014-08-29 11:25:30,28,NA,No,No,Don't know
+Yes,Often,1-5,2014-08-29 11:27:47,41,IL,Yes,Yes,Yes
+Yes,Sometimes,1-5,2014-08-29 11:32:22,39,NA,Yes,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-29 11:32:44,26,WA,No,No,Don't know
+No,Sometimes,26-100,2014-08-29 11:33:54,23,IL,No,No,Don't know
+Yes,Often,More than 1000,2014-08-29 11:34:07,35,NA,No,No,Yes
+No,Never,1-5,2014-08-29 11:36:38,36,FL,Don't know,Don't know,Don't know
+No,Rarely,More than 1000,2014-08-29 11:39:33,42,TN,No,Don't know,Don't know
+Yes,Sometimes,500-1000,2014-08-29 11:40:29,39,WA,No,Don't know,Yes
+No,Never,6-25,2014-08-29 11:43:12,27,CA,No,Don't know,Don't know
+No,Never,6-25,2014-08-29 11:44:33,33,FL,No,No,No
+Yes,Often,More than 1000,2014-08-29 11:46:27,31,NA,Don't know,Don't know,Don't know
+Yes,Rarely,6-25,2014-08-29 11:53:59,28,OR,Don't know,Yes,Yes
+Yes,Often,More than 1000,2014-08-29 11:54:38,29,NJ,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-29 11:56:18,27,CA,No,No,Yes
+No,Never,1-5,2014-08-29 12:00:33,44,FL,No,No,Yes
+Yes,Often,6-25,2014-08-29 12:08:12,25,UT,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-29 12:15:57,24,NA,No,No,Don't know
+Yes,Often,6-25,2014-08-29 12:20:01,25,NA,No,No,Yes
+No,Never,6-25,2014-08-29 12:26:21,34,NJ,Don't know,Don't know,Don't know
+No,Never,More than 1000,2014-08-29 12:27:54,26,PA,No,Don't know,Don't know
+No,Never,26-100,2014-08-29 12:45:11,48,IN,Yes,Yes,Yes
+No,NA,26-100,2014-08-29 12:48:20,34,NA,No,No,Don't know
+Yes,Sometimes,6-25,2014-08-29 12:54:31,39,OH,No,No,Don't know
+No,Sometimes,More than 1000,2014-08-29 13:17:33,43,OH,No,Yes,Don't know
+No,Rarely,More than 1000,2014-08-29 13:23:40,41,IL,Yes,Yes,Don't know
+No,Never,More than 1000,2014-08-29 13:58:25,25,IN,No,No,Don't know
+Yes,Sometimes,100-500,2014-08-29 14:04:59,31,CA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-29 14:09:21,40,WA,Yes,Yes,Yes
+Yes,Sometimes,1-5,2014-08-29 14:31:00,43,VA,No,Don't know,Don't know
+Yes,Often,More than 1000,2014-08-29 14:51:49,27,WA,Yes,Yes,Yes
+Yes,Sometimes,26-100,2014-08-29 14:59:43,37,NJ,No,Don't know,Don't know
+Yes,Sometimes,1-5,2014-08-29 15:10:39,32,NA,No,No,Yes
+Yes,Often,1-5,2014-08-29 15:59:55,25,UT,No,No,Yes
+Yes,Often,1-5,2014-08-29 16:07:05,29,NA,Don't know,Yes,Don't know
+Yes,Often,More than 1000,2014-08-29 16:17:32,30,TN,No,No,Don't know
+Yes,Often,26-100,2014-08-29 16:21:16,34,NA,Yes,Don't know,Don't know
+Yes,Sometimes,1-5,2014-08-29 16:30:50,32,NA,Yes,Yes,Yes
+No,NA,6-25,2014-08-29 16:50:08,37,NA,No,No,Yes
+Yes,Sometimes,More than 1000,2014-08-29 16:51:31,41,NA,No,No,Don't know
+No,Never,More than 1000,2014-08-29 16:56:06,38,IN,Yes,Yes,Don't know
+Yes,Sometimes,26-100,2014-08-29 17:04:07,32,IN,Yes,Don't know,Yes
+Yes,Sometimes,100-500,2014-08-29 17:04:12,28,CA,Don't know,Don't know,Don't know
+No,Never,1-5,2014-08-29 17:26:15,11,OH,No,No,Yes
+No,Never,100-500,2014-08-29 17:32:31,43,TX,No,Don't know,Don't know
+Yes,Often,100-500,2014-08-29 17:35:16,32,TN,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-29 17:54:32,25,WA,Yes,Don't know,Yes
+Yes,Sometimes,100-500,2014-08-29 18:33:32,37,UT,No,Yes,Yes
+Yes,Sometimes,1-5,2014-08-29 18:39:07,36,AL,No,No,No
+Yes,Rarely,6-25,2014-08-29 19:32:13,24,WI,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-08-29 19:34:40,40,WA,Yes,Don't know,Don't know
+No,NA,More than 1000,2014-08-29 20:53:09,29,WI,Yes,Don't know,Yes
+No,Never,500-1000,2014-08-29 20:53:58,43,NY,No,Don't know,Don't know
+No,NA,6-25,2014-08-29 21:26:44,29,NY,No,Yes,Don't know
+No,Sometimes,100-500,2014-08-29 21:28:14,26,OH,No,No,Don't know
+Yes,Often,1-5,2014-08-29 21:40:26,33,NA,No,No,No
+No,Sometimes,6-25,2014-08-29 22:08:51,35,WA,No,No,Don't know
+No,Never,6-25,2014-08-29 23:51:01,45,CA,No,No,Don't know
+Yes,Rarely,6-25,2014-08-30 00:09:55,25,SC,No,Don't know,Don't know
+Yes,Sometimes,26-100,2014-08-30 03:55:19,50,NA,No,No,Don't know
+Yes,Rarely,26-100,2014-08-30 05:05:44,26,NA,Don't know,Don't know,Don't know
+Yes,Often,More than 1000,2014-08-30 05:47:08,33,CA,Don't know,Don't know,Don't know
+No,Often,6-25,2014-08-30 06:48:28,30,NA,No,No,No
+Yes,Sometimes,6-25,2014-08-30 07:31:05,33,NA,No,Don't know,Yes
+Yes,Often,6-25,2014-08-30 11:48:52,29,NA,No,No,Yes
+No,NA,6-25,2014-08-30 12:35:06,37,NA,No,No,Don't know
+Yes,Sometimes,1-5,2014-08-30 13:23:57,25,MN,Don't know,Don't know,Don't know
+No,NA,More than 1000,2014-08-30 13:48:34,40,WA,Don't know,Don't know,Don't know
+No,Sometimes,26-100,2014-08-30 13:55:45,24,NA,No,No,Yes
+Yes,Never,100-500,2014-08-30 14:00:22,40,NA,No,Don't know,Don't know
+Yes,Sometimes,6-25,2014-08-30 15:57:04,46,PA,No,Don't know,Don't know
+Yes,Rarely,More than 1000,2014-08-30 16:13:40,38,NY,Yes,Yes,Yes
+No,Never,1-5,2014-08-30 16:38:02,34,VT,No,No,Don't know
+Yes,Rarely,1-5,2014-08-30 18:29:00,32,NA,Yes,Yes,Yes
+Yes,Sometimes,More than 1000,2014-08-30 19:35:58,44,NA,No,Yes,Don't know
+Yes,Never,100-500,2014-08-30 19:56:23,33,NA,No,Don't know,Don't know
+Yes,Rarely,26-100,2014-08-30 20:12:33,45,MI,Don't know,Don't know,Don't know
+No,NA,6-25,2014-08-30 20:19:37,35,NY,Don't know,Don't know,Yes
+Yes,Often,1-5,2014-08-30 20:43:51,26,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-08-30 20:46:35,20,NY,Don't know,Don't know,Don't know
+Yes,Often,1-5,2014-08-30 20:55:11,-1,AL,Yes,Yes,Yes
+No,Sometimes,6-25,2014-08-31 04:31:11,37,NA,No,No,Yes
+No,NA,More than 1000,2014-08-31 09:19:43,28,MI,No,No,Yes
+Yes,Sometimes,26-100,2014-08-31 15:03:12,42,WA,No,No,Don't know
+No,NA,26-100,2014-08-31 15:23:16,32,NA,No,No,Don't know
+Yes,Rarely,More than 1000,2014-08-31 16:48:13,36,TN,No,No,Yes
+No,Rarely,26-100,2014-08-31 22:11:48,27,NA,No,Yes,No
+No,Rarely,26-100,2014-08-31 22:16:40,27,NA,No,Yes,No
+Yes,Sometimes,More than 1000,2014-09-01 04:28:55,27,NA,No,No,Yes
+Yes,Sometimes,26-100,2014-09-01 06:52:31,25,NA,No,No,Yes
+No,NA,6-25,2014-09-01 06:53:28,41,NA,No,No,Don't know
+Yes,Sometimes,6-25,2014-09-01 08:19:15,23,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2014-09-01 08:23:15,21,NA,No,Don't know,Don't know
+Yes,Often,26-100,2014-09-01 09:12:15,26,NA,No,No,Yes
+No,Rarely,More than 1000,2014-09-01 09:15:34,29,NA,Don't know,Don't know,Don't know
+No,Sometimes,More than 1000,2014-09-01 10:06:14,28,NA,No,No,Don't know
+No,NA,More than 1000,2014-09-01 10:40:32,27,NA,No,No,Yes
+No,Never,More than 1000,2014-09-01 12:00:28,23,NA,Yes,Yes,Yes
+No,Sometimes,26-100,2014-09-01 12:45:24,26,NY,No,No,Don't know
+Yes,Sometimes,1-5,2014-09-01 17:59:14,38,NA,Don't know,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-09-01 21:03:25,39,NA,No,No,Yes
+Yes,Often,More than 1000,2014-09-01 21:34:12,35,IN,No,Yes,Don't know
+No,Rarely,6-25,2014-09-01 22:58:47,32,NC,No,Don't know,Don't know
+Yes,Sometimes,More than 1000,2014-09-02 03:13:53,32,CA,Yes,Yes,Yes
+No,Never,6-25,2014-09-02 04:00:58,26,NA,No,No,Don't know
+Yes,Rarely,100-500,2014-09-02 08:00:33,38,NA,No,Don't know,Don't know
+No,Rarely,26-100,2014-09-02 08:24:43,34,NA,Yes,Yes,Yes
+Yes,Often,26-100,2014-09-02 09:57:22,39,TN,No,No,Don't know
+No,Never,6-25,2014-09-02 13:18:35,32,NA,No,No,Don't know
+No,Never,1-5,2014-09-02 17:04:56,37,NA,Don't know,Don't know,Don't know
+Yes,Never,6-25,2014-09-02 20:23:49,31,NA,No,Don't know,Don't know
+Yes,Rarely,6-25,2014-09-02 20:57:56,30,MN,No,No,Don't know
+No,Never,More than 1000,2014-09-03 01:32:51,51,NA,No,Don't know,Don't know
+Yes,Sometimes,26-100,2014-09-03 13:09:52,29,NC,No,No,Don't know
+No,Never,100-500,2014-09-04 06:23:48,31,NA,No,Yes,Don't know
+No,NA,26-100,2014-09-04 08:35:49,31,NA,No,No,Don't know
+Yes,Sometimes,6-25,2014-09-04 17:38:22,26,TX,No,Don't know,Don't know
+Yes,Often,100-500,2014-09-04 23:42:28,46,CA,No,No,Yes
+No,Sometimes,More than 1000,2014-09-05 14:15:48,32,CA,Yes,Don't know,Don't know
+Yes,Sometimes,26-100,2014-09-05 14:19:00,29,IL,Yes,Yes,Don't know
+No,Never,More than 1000,2014-09-08 00:52:31,34,NA,No,No,Don't know
+No,Often,6-25,2014-09-08 16:46:53,26,NA,No,No,No
+Yes,Sometimes,More than 1000,2014-09-08 21:30:59,32,PA,No,Don't know,Don't know
+No,NA,More than 1000,2014-09-09 13:49:50,29,IL,No,No,Don't know
+No,NA,More than 1000,2014-09-11 17:00:30,30,IL,Yes,Yes,Don't know
+Yes,Sometimes,26-100,2014-09-12 19:18:18,40,MN,No,Yes,Yes
+Yes,Sometimes,1-5,2014-09-13 07:52:27,23,NA,No,No,Don't know
+No,Rarely,26-100,2014-09-14 09:04:08,20,NA,No,No,Don't know
+No,NA,6-25,2014-09-14 20:50:05,38,NY,No,No,Don't know
+Yes,Rarely,100-500,2014-09-20 13:51:05,26,MI,No,No,Don't know
+No,Never,26-100,2014-09-23 20:05:05,29,OH,No,Don't know,Don't know
+No,Sometimes,1-5,2014-09-26 08:45:56,40,NA,No,No,Don't know
+Yes,Sometimes,26-100,2014-09-26 10:05:55,25,UT,No,No,Don't know
+Yes,Sometimes,26-100,2014-09-26 21:25:14,32,NY,No,No,Yes
+Yes,Sometimes,More than 1000,2014-09-30 09:19:01,38,CA,Yes,Yes,Yes
+Yes,Never,500-1000,2014-10-02 21:25:16,72,IN,Don't know,Yes,Don't know
+Yes,Sometimes,1-5,2014-10-05 21:16:10,35,IN,No,No,Yes
+Yes,Often,6-25,2014-10-09 11:14:59,28,VA,No,No,Don't know
+No,Never,100-500,2014-11-05 10:08:44,27,OK,Don't know,Don't know,Don't know
+No,Rarely,1-5,2014-11-06 11:24:38,56,OR,Don't know,Don't know,Don't know
+Yes,Sometimes,26-100,2014-11-16 08:42:35,38,AL,No,No,Don't know
+No,NA,26-100,2014-12-01 09:58:28,31,NA,No,No,Yes
+Yes,Sometimes,6-25,2014-12-15 00:43:49,40,AL,No,No,Yes
+Yes,Sometimes,100-500,2015-01-03 03:38:30,44,OH,No,Yes,Yes
+No,Sometimes,More than 1000,2015-02-21 04:16:05,34,NA,Yes,Yes,Yes
+No,Never,26-100,2015-02-21 04:16:23,37,NA,No,No,Don't know
+No,Never,26-100,2015-02-21 04:18:48,38,NA,Don't know,Don't know,Yes
+No,NA,26-100,2015-02-21 04:19:28,27,NA,No,No,Don't know
+Yes,Sometimes,500-1000,2015-02-21 04:23:05,34,NA,Yes,No,Yes
+No,Rarely,1-5,2015-02-21 04:32:45,35,NA,No,No,No
+Yes,Often,6-25,2015-02-21 04:34:56,34,NA,No,No,Don't know
+Yes,Often,26-100,2015-02-21 04:41:28,32,TX,No,Don't know,Don't know
+No,NA,100-500,2015-02-21 04:51:53,25,NA,No,Don't know,Don't know
+Yes,Often,100-500,2015-02-21 04:55:11,28,NA,No,No,Don't know
+Yes,Rarely,6-25,2015-02-21 05:11:37,28,TX,No,No,Don't know
+Yes,NA,1-5,2015-02-21 05:34:27,31,NA,No,No,No
+No,NA,100-500,2015-02-21 05:55:13,24,NA,No,No,Don't know
+Yes,Never,1-5,2015-02-21 05:55:17,34,NA,No,No,Don't know
+Yes,Sometimes,6-25,2015-02-21 06:06:09,32,NA,No,No,Don't know
+No,Often,26-100,2015-02-21 06:19:41,34,NA,No,No,Don't know
+Yes,Sometimes,1-5,2015-02-21 08:21:36,23,TX,No,No,No
+No,Often,100-500,2015-02-21 08:54:40,33,NA,No,No,Don't know
+Yes,Sometimes,26-100,2015-02-21 08:56:27,29,NA,No,No,Don't know
+No,NA,1-5,2015-02-21 09:10:26,24,NA,No,No,Don't know
+No,Never,More than 1000,2015-02-21 09:16:45,45,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2015-02-21 09:18:20,34,NA,No,Yes,Yes
+No,Sometimes,More than 1000,2015-02-21 09:19:12,31,NA,No,No,Don't know
+Yes,Often,26-100,2015-02-21 09:22:23,33,FL,No,No,Yes
+No,NA,6-25,2015-02-21 09:29:20,28,NA,No,No,Don't know
+No,Rarely,More than 1000,2015-02-21 09:30:14,27,NA,No,Yes,Don't know
+No,Never,26-100,2015-02-21 09:30:29,42,NA,No,No,No
+No,NA,6-25,2015-02-21 09:33:29,28,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2015-02-21 09:48:13,38,TX,Yes,Yes,Yes
+Yes,Often,26-100,2015-02-21 10:00:50,46,CA,No,No,Don't know
+Yes,Sometimes,100-500,2015-02-21 10:45:51,46,MD,Don't know,Don't know,Don't know
+Yes,Rarely,1-5,2015-02-21 11:48:52,41,NA,Don't know,Yes,No
+No,Never,26-100,2015-02-21 11:55:46,23,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2015-02-21 13:19:11,24,NA,No,Yes,Don't know
+Yes,Rarely,26-100,2015-02-21 15:28:57,23,NA,Yes,No,Don't know
+No,NA,More than 1000,2015-02-21 17:19:18,39,NA,Yes,Don't know,Don't know
+No,Never,More than 1000,2015-02-21 18:54:12,32,NA,Don't know,Yes,Yes
+Yes,Sometimes,26-100,2015-02-21 18:59:05,25,MN,No,No,Don't know
+No,NA,6-25,2015-02-22 02:40:32,39,NA,No,No,Yes
+Yes,Sometimes,6-25,2015-02-24 08:54:35,23,NA,No,Yes,Yes
+Yes,Sometimes,6-25,2015-02-24 08:58:08,24,NA,No,No,Don't know
+Yes,Sometimes,More than 1000,2015-02-24 09:00:56,25,NA,Yes,Yes,Yes
+Yes,Rarely,6-25,2015-02-24 09:13:49,23,NA,No,No,Don't know
+Yes,Sometimes,6-25,2015-02-24 09:15:13,24,NA,No,Don't know,Don't know
+Yes,Often,26-100,2015-02-24 09:18:25,23,NA,Yes,Don't know,Don't know
+Yes,Often,More than 1000,2015-02-24 10:32:32,60,CA,Yes,Don't know,Don't know
+No,Sometimes,26-100,2015-02-26 05:44:16,28,NA,No,No,Yes
+Yes,Often,More than 1000,2015-04-02 15:47:43,28,TN,Yes,Yes,Yes
+No,Sometimes,500-1000,2015-04-04 11:22:05,30,NA,No,No,Don't know
+Yes,Sometimes,100-500,2015-04-06 14:58:29,31,NA,No,No,Yes
+Yes,Often,6-25,2015-04-11 14:35:22,31,NA,No,No,Don't know
+Yes,Rarely,26-100,2015-04-23 14:03:51,28,NA,No,Don't know,Don't know
+Yes,Rarely,More than 1000,2015-05-05 14:22:18,43,FL,No,Yes,Don't know
+No,NA,More than 1000,2015-05-05 15:16:25,32,NA,No,Don't know,Don't know
+Yes,Often,100-500,2015-05-06 10:14:50,22,NA,Yes,Yes,Yes
+No,Never,100-500,2015-05-06 16:55:58,32,OR,Don't know,Yes,Don't know
+Yes,Often,6-25,2015-05-07 10:08:50,36,NA,No,No,No
+Yes,Sometimes,26-100,2015-06-25 12:24:31,41,WA,No,Don't know,Don't know
+Yes,Sometimes,26-100,2015-07-22 18:57:54,30,CA,Don't know,No,Yes
+Yes,Often,26-100,2015-07-27 23:25:34,30,CA,Yes,Yes,Don't know
+Yes,Often,100-500,2015-08-17 09:38:35,36,NA,No,No,Don't know
+Yes,Sometimes,100-500,2015-08-20 16:52:09,29,NC,Yes,No,Yes
+No,Rarely,More than 1000,2015-08-25 19:59:38,36,UT,Yes,Yes,Don't know
+Yes,NA,26-100,2015-09-12 11:17:21,26,NA,No,No,Don't know
+Yes,Often,26-100,2015-09-26 01:07:35,32,IL,No,No,Yes
+Yes,Sometimes,More than 1000,2015-11-07 12:36:58,34,CA,No,No,Don't know
+No,NA,100-500,2015-11-30 21:25:06,46,NC,No,No,Don't know
+Yes,Sometimes,26-100,2016-02-01 23:04:31,25,IL,No,No,Yes

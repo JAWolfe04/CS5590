@@ -1,0 +1,2969 @@
+Good Will Hunting (1997),4.5,M,DramaRomance
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Conan the Barbarian (1982),4.5,M,ActionAdventureFantasy
+Looker (1981),4.5,M,DramaHorrorSci-FiThriller
+Master of the Flying Guillotine (Du bi quan wang da po xue di zi) (1975),4.5,M,Action
+Apollo 13 (1995),4.5,M,AdventureDramaIMAX
+Independence Day (a.k.a. ID4) (1996),4.5,M,ActionAdventureSci-FiThriller
+Rocky (1976),4.5,M,Drama
+Erin Brockovich (2000),4.5,M,Drama
+A.I. Artificial Intelligence (2001),4.5,M,AdventureDramaSci-Fi
+Chicago (2002),4.5,M,ComedyCrimeDramaMusical
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Spider-Man 2 (2004),4.5,M,ActionAdventureSci-FiIMAX
+Collateral (2004),4.5,M,ActionCrimeDramaThriller
+Ladder 49 (2004),4.5,M,ActionDramaThriller
+Flags of Our Fathers (2006),4.5,M,DramaWar
+Casino Royale (2006),4.5,M,ActionAdventureThriller
+Little Women (1994),4.5,M,Drama
+Gone with the Wind (1939),4.5,M,DramaRomanceWar
+Billy Elliot (2000),4.5,M,Drama
+Gattaca (1997),4.5,M,DramaSci-FiThriller
+American History X (1998),4.5,M,CrimeDrama
+Total Recall (1990),4.5,M,ActionAdventureSci-FiThriller
+Apocalypto (2006),4.5,M,AdventureDramaThriller
+Gravity (2013),4.5,M,ActionSci-FiIMAX
+Edge of Tomorrow (2014),4.5,M,ActionSci-FiIMAX
+Gone Girl (2014),4.5,M,DramaThriller
+Inside Out (2015),4.5,M,AdventureAnimationChildrenComedyDramaFantasy
+Braveheart (1995),4.5,M,ActionDramaWar
+Jurassic Park (1993),4.5,M,ActionAdventureSci-FiThriller
+Schindler's List (1993),4.5,M,DramaWar
+Terminator 2: Judgment Day (1991),4.5,M,ActionSci-Fi
+Dances with Wolves (1990),4.5,M,AdventureDramaWestern
+Batman (1989),4.5,M,ActionCrimeThriller
+Platoon (1986),4.5,M,DramaWar
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.5,M,ActionAdventure
+Goodfellas (1990),4.5,M,CrimeDrama
+Full Metal Jacket (1987),4.5,M,DramaWar
+Raging Bull (1980),4.5,M,Drama
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+American History X (1998),4.5,M,CrimeDrama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+For a Few Dollars More (Per qualche dollaro in più) (1965),4.5,M,ActionDramaThrillerWestern
+Requiem for a Dream (2000),4.5,M,Drama
+City of God (Cidade de Deus) (2002),4.5,M,ActionAdventureCrimeDramaThriller
+Star Trek (2009),4.5,M,ActionAdventureSci-FiIMAX
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+My Fair Lady (1964),4.5,M,ComedyDramaMusicalRomance
+Dumbo (1941),4.5,M,AnimationChildrenDramaMusical
+Dirty Dancing (1987),4.5,M,DramaMusicalRomance
+Anastasia (1997),4.5,M,AdventureAnimationChildrenDramaMusical
+Tarzan (1999),4.5,M,AdventureAnimationChildrenDrama
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Almost Famous (2000),4.5,M,Drama
+Billy Elliot (2000),4.5,M,Drama
+Gosford Park (2001),4.5,M,ComedyDramaMystery
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Mission: Impossible (1996),4.5,M,ActionAdventureMysteryThriller
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Men in Black (a.k.a. MIB) (1997),4.5,M,ActionComedySci-Fi
+Goldfinger (1964),4.5,M,ActionAdventureThriller
+From Russia with Love (1963),4.5,M,ActionAdventureThriller
+Dr. No (1962),4.5,M,ActionAdventureThriller
+For Your Eyes Only (1981),4.5,M,ActionAdventureThriller
+Licence to Kill (1989),4.5,M,ActionAdventureThriller
+Live and Let Die (1973),4.5,M,ActionAdventureThriller
+Thunderball (1965),4.5,M,ActionAdventureThriller
+On Her Majesty's Secret Service (1969),4.5,M,ActionAdventureRomanceThriller
+Moonraker (1979),4.5,M,ActionAdventureSci-FiThriller
+Diamonds Are Forever (1971),4.5,M,ActionAdventureThriller
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),4.5,M,ActionComedySci-Fi
+You Only Live Twice (1967),4.5,M,ActionAdventureSci-FiThriller
+Octopussy (1983),4.5,M,ActionAdventureThriller
+Ocean's Twelve (2004),4.5,M,ActionComedyCrimeThriller
+Star Wars: Episode III - Revenge of the Sith (2005),4.5,M,ActionAdventureSci-Fi
+Up (2009),4.5,M,AdventureAnimationChildrenDrama
+Oblivion (2013),4.5,M,ActionAdventureSci-FiIMAX
+Edge of Tomorrow (2014),4.5,M,ActionSci-FiIMAX
+Mission: Impossible - Rogue Nation (2015),4.5,M,ActionAdventureThriller
+Traffic (2000),4.5,M,CrimeDramaThriller
+Shadow of the Vampire (2000),4.5,M,DramaHorror
+Mulholland Drive (2001),4.5,M,CrimeDramaFilm-NoirMysteryThriller
+Hard-Boiled (Lat sau san taam) (1992),4.5,M,ActionCrimeDramaThriller
+Naked Lunch (1991),4.5,M,DramaFantasyMysterySci-Fi
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+Thor: Ragnarok (2017),4.5,M,ActionAdventureSci-Fi
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.5,M,ActionAdventure
+Lawrence of Arabia (1962),4.5,M,AdventureDramaWar
+Once Upon a Time in the West (C'era una volta il West) (1968),4.5,M,ActionDramaWestern
+On the Waterfront (1954),4.5,M,CrimeDrama
+American Graffiti (1973),4.5,M,ComedyDrama
+Road to Perdition (2002),4.5,M,CrimeDrama
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+All the President's Men (1976),4.5,M,DramaThriller
+Children of Men (2006),4.5,M,ActionAdventureDramaSci-FiThriller
+Frost/Nixon (2008),4.5,M,Drama
+Zero Dark Thirty (2012),4.5,M,ActionDramaThriller
+Django Unchained (2012),4.5,M,ActionDramaWestern
+X-Men: Days of Future Past (2014),4.5,M,ActionAdventureSci-Fi
+Never Cry Wolf (1983),4.5,M,AdventureDrama
+American Graffiti (1973),4.5,M,ComedyDrama
+Almost Famous (2000),4.5,M,Drama
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Jason's Lyric (1994),4.5,M,CrimeDrama
+Crash (2004),4.5,M,CrimeDrama
+Star Trek: First Contact (1996),4.5,M,ActionAdventureSci-FiThriller
+Contact (1997),4.5,M,DramaSci-Fi
+Gattaca (1997),4.5,M,DramaSci-FiThriller
+Alien: Resurrection (1997),4.5,M,ActionHorrorSci-Fi
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+Spider-Man 2 (2004),4.5,M,ActionAdventureSci-FiIMAX
+Schindler's List (1993),4.5,M,DramaWar
+E.T. the Extra-Terrestrial (1982),4.5,M,ChildrenDramaSci-Fi
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Cast Away (2000),4.5,M,Drama
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+The Revenant (2015),4.5,M,AdventureDrama
+Logan (2017),4.5,M,ActionSci-Fi
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+Constantine (2005),4.5,M,ActionFantasyHorrorThriller
+Serenity (2005),4.5,M,ActionAdventureSci-Fi
+Rocky Balboa (2006),4.5,M,ActionDrama
+Smokin' Aces (2006),4.5,M,ActionCrimeDramaThriller
+Knocked Up (2007),4.5,M,ComedyDramaRomance
+Zombieland (2009),4.5,M,ActionComedyHorror
+Avatar (2009),4.5,M,ActionAdventureSci-FiIMAX
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+How to Train Your Dragon 2 (2014),4.5,M,ActionAdventureAnimation
+Spy (2015),4.5,M,ActionComedyCrime
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Apocalypse Now (1979),4.5,M,ActionDramaWar
+Gattaca (1997),4.5,M,DramaSci-FiThriller
+Requiem for a Dream (2000),4.5,M,Drama
+Million Dollar Baby (2004),4.5,M,Drama
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Run Lola Run (Lola rennt) (1998),4.5,M,ActionCrime
+City of God (Cidade de Deus) (2002),4.5,M,ActionAdventureCrimeDramaThriller
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),4.5,M,ActionAdventureAnimationChildrenFantasySci-Fi
+Looper (2012),4.5,M,ActionCrimeSci-Fi
+Star Trek Into Darkness (2013),4.5,M,ActionAdventureSci-FiIMAX
+Heat (1995),4.5,M,ActionCrimeThriller
+Babe (1995),4.5,M,ChildrenDrama
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Primal Fear (1996),4.5,M,CrimeDramaMysteryThriller
+E.T. the Extra-Terrestrial (1982),4.5,M,ChildrenDramaSci-Fi
+Ben-Hur (1959),4.5,M,ActionAdventureDrama
+Carrie (1976),4.5,M,DramaFantasyHorrorThriller
+Boogie Nights (1997),4.5,M,Drama
+Good Will Hunting (1997),4.5,M,DramaRomance
+Superman (1978),4.5,M,ActionAdventureSci-Fi
+Boys Don't Cry (1999),4.5,M,Drama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+JFK (1991),4.5,M,DramaMysteryThriller
+Misery (1990),4.5,M,DramaHorrorThriller
+In the Mood For Love (Fa yeung nin wa) (2000),4.5,M,DramaRomance
+Rashomon (Rashômon) (1950),4.5,M,CrimeDramaMystery
+Adaptation (2002),4.5,M,ComedyDramaRomance
+25th Hour (2002),4.5,M,CrimeDrama
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+Hero (Ying xiong) (2002),4.5,M,ActionAdventureDrama
+In America (2002),4.5,M,DramaRomance
+Dawn of the Dead (2004),4.5,M,ActionDramaHorrorThriller
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Garden State (2004),4.5,M,ComedyDramaRomance
+Musa the Warrior (Musa) (2001),4.5,M,ActionAdventureDramaWar
+The Machinist (2004),4.5,M,DramaMysteryThriller
+2046 (2004),4.5,M,DramaFantasyRomanceSci-Fi
+Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo) (2004),4.5,M,ActionDramaWar
+Sin City (2005),4.5,M,ActionCrimeFilm-NoirMysteryThriller
+Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi) (2005),4.5,M,CrimeDramaMysteryThriller
+Little Miss Sunshine (2006),4.5,M,AdventureComedyDrama
+American History X (1998),4.5,M,CrimeDrama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+Gran Torino (2008),4.5,M,CrimeDrama
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Sherlock Holmes: A Game of Shadows (2011),4.5,M,ActionAdventureComedyCrimeMysteryThriller
+The Imitation Game (2014),4.5,M,DramaThrillerWar
+Taxi Driver (1976),4.5,M,CrimeDramaThriller
+Searching for Bobby Fischer (1993),4.5,M,Drama
+Dances with Wolves (1990),4.5,M,AdventureDramaWestern
+Vertigo (1958),4.5,M,DramaMysteryRomanceThriller
+Casablanca (1942),4.5,M,DramaRomance
+12 Angry Men (1957),4.5,M,Drama
+Army of Darkness (1993),4.5,M,ActionAdventureComedyFantasyHorror
+Full Metal Jacket (1987),4.5,M,DramaWar
+Henry V (1989),4.5,M,ActionDramaRomanceWar
+Dead Poets Society (1989),4.5,M,Drama
+Highlander (1986),4.5,M,ActionAdventureFantasy
+Field of Dreams (1989),4.5,M,ChildrenDramaFantasy
+Chasing Amy (1997),4.5,M,ComedyDramaRomance
+Out of Sight (1998),4.5,M,ComedyCrimeDramaRomanceThriller
+Seven Samurai (Shichinin no samurai) (1954),4.5,M,ActionAdventureDrama
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+St. Elmo's Fire (1985),4.5,M,DramaRomance
+Say Anything... (1989),4.5,M,ComedyDramaRomance
+Austin Powers: The Spy Who Shagged Me (1999),4.5,M,ActionAdventureComedy
+Scent of a Woman (1992),4.5,M,Drama
+Of Mice and Men (1992),4.5,M,Drama
+Bloodsport (1988),4.5,M,Action
+High Fidelity (2000),4.5,M,ComedyDramaRomance
+Parenthood (1989),4.5,M,ComedyDrama
+Death to Smoochy (2002),4.5,M,ComedyCrimeDrama
+Underworld (2003),4.5,M,ActionFantasyHorror
+Kiss of the Spider Woman (1985),4.5,M,Drama
+Master and Commander: The Far Side of the World (2003),4.5,M,AdventureDramaWar
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Enter the Dragon (1973),4.5,M,ActionCrime
+Garden State (2004),4.5,M,ComedyDramaRomance
+Collateral (2004),4.5,M,ActionCrimeDramaThriller
+GoldenEye (1995),4.5,M,ActionAdventureThriller
+Desperado (1995),4.5,M,ActionRomanceWestern
+Casablanca (1942),4.5,M,DramaRomance
+Jerry Maguire (1996),4.5,M,DramaRomance
+Good Will Hunting (1997),4.5,M,DramaRomance
+Ever After: A Cinderella Story (1998),4.5,M,ComedyDramaRomance
+For Your Eyes Only (1981),4.5,M,ActionAdventureThriller
+Being John Malkovich (1999),4.5,M,ComedyDramaFantasy
+Mission: Impossible II (2000),4.5,M,ActionAdventureThriller
+X-Men (2000),4.5,M,ActionAdventureSci-Fi
+Training Day (2001),4.5,M,CrimeDramaThriller
+The Count of Monte Cristo (2002),4.5,M,ActionAdventureDramaThriller
+Spider-Man (2002),4.5,M,ActionAdventureSci-FiThriller
+X2: X-Men United (2003),4.5,M,ActionAdventureSci-FiThriller
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Starsky & Hutch (2004),4.5,M,ActionComedyCrimeThriller
+Dawn of the Dead (2004),4.5,M,ActionDramaHorrorThriller
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Gladiator (1992),4.5,M,ActionDrama
+Super Size Me (2004),4.5,M,ComedyDocumentaryDrama
+Spider-Man 2 (2004),4.5,M,ActionAdventureSci-FiIMAX
+Garden State (2004),4.5,M,ComedyDramaRomance
+Closer (2004),4.5,M,DramaRomance
+Serenity (2005),4.5,M,ActionAdventureSci-Fi
+King Kong (2005),4.5,M,ActionAdventureDramaFantasyThriller
+Pirates of the Caribbean: Dead Man's Chest (2006),4.5,M,ActionAdventureFantasy
+Superman Returns (2006),4.5,M,ActionAdventureSci-FiIMAX
+Jesus Camp (2006),4.5,M,DocumentaryDrama
+Waitress (2007),4.5,M,ComedyDramaRomance
+Disturbia (2007),4.5,M,DramaThriller
+Pirates of the Caribbean: At World's End (2007),4.5,M,ActionAdventureComedyFantasy
+Mr. Brooks (2007),4.5,M,CrimeDramaThriller
+3:10 to Yuma (2007),4.5,M,ActionCrimeDramaWestern
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Slumdog Millionaire (2008),4.5,M,CrimeDramaRomance
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Raiders of the Lost Ark: The Adaptation (1989),4.5,M,ActionAdventureThriller
+Ninja Assassin (2009),4.5,M,ActionCrimeDramaThriller
+Megamind (2010),4.5,M,ActionAnimationChildrenComedySci-FiIMAX
+X-Men: First Class (2011),4.5,M,ActionAdventureSci-FiThrillerWar
+Harry Potter and the Deathly Hallows: Part 2 (2011),4.5,M,ActionAdventureDramaFantasyMysteryIMAX
+Moneyball (2011),4.5,M,Drama
+Skyfall (2012),4.5,M,ActionAdventureThrillerIMAX
+Man of Steel (2013),4.5,M,ActionAdventureFantasySci-FiIMAX
+Edge of Tomorrow (2014),4.5,M,ActionSci-FiIMAX
+How to Train Your Dragon 2 (2014),4.5,M,ActionAdventureAnimation
+Guardians of the Galaxy (2014),4.5,M,ActionAdventureSci-Fi
+Star Wars: Episode VII - The Force Awakens (2015),4.5,M,ActionAdventureFantasySci-FiIMAX
+Rogue One: A Star Wars Story (2016),4.5,M,ActionAdventureFantasySci-Fi
+Philadelphia (1993),4.5,M,Drama
+Searching for Bobby Fischer (1993),4.5,M,Drama
+E.T. the Extra-Terrestrial (1982),4.5,M,ChildrenDramaSci-Fi
+Stand by Me (1986),4.5,M,AdventureDrama
+Good Will Hunting (1997),4.5,M,DramaRomance
+Rocky (1976),4.5,M,Drama
+Out of Africa (1985),4.5,M,DramaRomance
+King Kong (1933),4.5,M,ActionAdventureFantasyHorror
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Capote (2005),4.5,M,CrimeDrama
+Up in the Air (2009),4.5,M,DramaRomance
+Moneyball (2011),4.5,M,Drama
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Zodiac (2007),4.5,M,CrimeDramaThriller
+Pirates of the Caribbean: At World's End (2007),4.5,M,ActionAdventureComedyFantasy
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+Captain America: The First Avenger (2011),4.5,M,ActionAdventureSci-FiThrillerWar
+21 Jump Street (2012),4.5,M,ActionComedyCrime
+Kingsman: The Secret Service (2015),4.5,M,ActionAdventureComedyCrime
+Deadpool (2016),4.5,M,ActionAdventureComedySci-Fi
+Wolf (1994),4.5,M,DramaHorrorRomanceThriller
+Vertigo (1958),4.5,M,DramaMysteryRomanceThriller
+8 1/2 (8½) (1963),4.5,M,DramaFantasy
+Open Your Eyes (Abre los ojos) (1997),4.5,M,DramaRomanceSci-FiThriller
+Serpico (1973),4.5,M,CrimeDrama
+Babel (2006),4.5,M,DramaThriller
+Little Children (2006),4.5,M,DramaRomance
+This Is England (2006),4.5,M,Drama
+Away from Her (2006),4.5,M,Drama
+Into the Wild (2007),4.5,M,ActionAdventureDrama
+No Country for Old Men (2007),4.5,M,CrimeDrama
+There Will Be Blood (2007),4.5,M,DramaWestern
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Trainspotting (1996),4.5,M,ComedyCrimeDrama
+Happiness (1998),4.5,M,ComedyDrama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Star Wars: Episode III - Revenge of the Sith (2005),4.5,M,ActionAdventureSci-Fi
+Thank You for Smoking (2006),4.5,M,ComedyDrama
+Mission: Impossible (1996),4.5,M,ActionAdventureMysteryThriller
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+Training Day (2001),4.5,M,CrimeDramaThriller
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+Equilibrium (2002),4.5,M,ActionSci-FiThriller
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+Man on Fire (2004),4.5,M,ActionCrimeDramaMysteryThriller
+Underworld: Evolution (2006),4.5,M,ActionFantasyHorror
+Hard Candy (2005),4.5,M,DramaThriller
+Mission: Impossible III (2006),4.5,M,ActionAdventureThriller
+Casino Royale (2006),4.5,M,ActionAdventureThriller
+Déjà Vu (Deja Vu) (2006),4.5,M,ActionSci-FiThriller
+300 (2007),4.5,M,ActionFantasyWarIMAX
+Shooter (2007),4.5,M,ActionDramaThriller
+Fracture (2007),4.5,M,CrimeDramaMysteryThriller
+Mr. Brooks (2007),4.5,M,CrimeDramaThriller
+I Am Legend (2007),4.5,M,ActionHorrorSci-FiThrillerIMAX
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Spiral (2007),4.5,M,DramaHorrorThriller
+Quantum of Solace (2008),4.5,M,ActionAdventureThriller
+Underworld: Rise of the Lycans (2009),4.5,M,ActionFantasyHorrorThriller
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+Iron Man 2 (2010),4.5,M,ActionAdventureSci-FiThrillerIMAX
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Source Code (2011),4.5,M,ActionDramaMysterySci-FiThriller
+The Hunger Games (2012),4.5,M,ActionAdventureDramaSci-FiThriller
+Mission: Impossible - Ghost Protocol (2011),4.5,M,ActionAdventureThrillerIMAX
+Underworld: Awakening (2012),4.5,M,ActionFantasyHorrorIMAX
+Act of Valor (2012),4.5,M,ActionThrillerWar
+Skyfall (2012),4.5,M,ActionAdventureThrillerIMAX
+Zero Dark Thirty (2012),4.5,M,ActionDramaThriller
+Side Effects (2013),4.5,M,CrimeDramaMysteryThriller
+Braveheart (1995),4.5,M,ActionDramaWar
+Bad Boys (1995),4.5,M,ActionComedyCrimeDramaThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Terminator 2: Judgment Day (1991),4.5,M,ActionSci-Fi
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.5,M,ActionAdventure
+Indiana Jones and the Last Crusade (1989),4.5,M,ActionAdventure
+Lethal Weapon (1987),4.5,M,ActionComedyCrimeDrama
+Lethal Weapon 2 (1989),4.5,M,ActionComedyCrimeDrama
+Indiana Jones and the Temple of Doom (1984),4.5,M,ActionAdventureFantasy
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Lara Croft: Tomb Raider (2001),4.5,M,ActionAdventure
+Shanghai Knights (2003),4.5,M,ActionAdventureComedy
+Terminator 3: Rise of the Machines (2003),4.5,M,ActionAdventureSci-Fi
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Bad Boys II (2003),4.5,M,ActionComedyCrimeThriller
+Lara Croft Tomb Raider: The Cradle of Life (2003),4.5,M,ActionAdventureComedyRomanceThriller
+Network (1976),4.5,M,ComedyDrama
+Casino (1995),4.5,M,CrimeDrama
+Johnny Mnemonic (1995),4.5,M,ActionSci-FiThriller
+Ed Wood (1994),4.5,M,ComedyDrama
+Interview with the Vampire: The Vampire Chronicles (1994),4.5,M,DramaHorror
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Jurassic Park (1993),4.5,M,ActionAdventureSci-FiThriller
+Heavy Metal (1981),4.5,M,ActionAdventureAnimationHorrorSci-Fi
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Evil Dead II (Dead by Dawn) (1987),4.5,M,ActionComedyFantasyHorror
+Star Trek II: The Wrath of Khan (1982),4.5,M,ActionAdventureSci-FiThriller
+Gattaca (1997),4.5,M,DramaSci-FiThriller
+Seven Samurai (Shichinin no samurai) (1954),4.5,M,ActionAdventureDrama
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Rosemary's Baby (1968),4.5,M,DramaHorrorThriller
+First Blood (Rambo: First Blood) (1982),4.5,M,ActionAdventureDramaThriller
+Ghostbusters (a.k.a. Ghost Busters) (1984),4.5,M,ActionComedySci-Fi
+Total Recall (1990),4.5,M,ActionAdventureSci-FiThriller
+Goldfinger (1964),4.5,M,ActionAdventureThriller
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+RoboCop (1987),4.5,M,ActionCrimeDramaSci-FiThriller
+Kelly's Heroes (1970),4.5,M,ActionComedyWar
+Spriggan (Supurigan) (1998),4.5,M,ActionAnimationSci-Fi
+Saturday Night Fever (1977),4.5,M,ComedyDramaRomance
+Equilibrium (2002),4.5,M,ActionSci-FiThriller
+Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),4.5,M,ActionAnimationSci-FiThriller
+Hero (Ying xiong) (2002),4.5,M,ActionAdventureDrama
+Audition (Ôdishon) (1999),4.5,M,DramaHorrorMysteryRomanceThriller
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Star Trek II: The Wrath of Khan (1982),4.5,M,ActionAdventureSci-FiThriller
+Out of Sight (1998),4.5,M,ComedyCrimeDramaRomanceThriller
+Pi (1998),4.5,M,DramaSci-FiThriller
+Tron (1982),4.5,M,ActionAdventureSci-Fi
+Indiana Jones and the Temple of Doom (1984),4.5,M,ActionAdventureFantasy
+Superman (1978),4.5,M,ActionAdventureSci-Fi
+Do the Right Thing (1989),4.5,M,Drama
+Predator (1987),4.5,M,ActionSci-FiThriller
+Monster's Ball (2001),4.5,M,DramaRomance
+Bend It Like Beckham (2002),4.5,M,ComedyDramaRomance
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+Lost in Translation (2003),4.5,M,ComedyDramaRomance
+Boyz N the Hood (1991),4.5,M,CrimeDrama
+Spider-Man 2 (2004),4.5,M,ActionAdventureSci-FiIMAX
+Casino (1995),4.5,M,CrimeDrama
+Sense and Sensibility (1995),4.5,M,DramaRomance
+Persuasion (1995),4.5,M,DramaRomance
+Broken Arrow (1996),4.5,M,ActionAdventureThriller
+First Knight (1995),4.5,M,ActionDramaRomance
+Little Women (1994),4.5,M,Drama
+Sleepless in Seattle (1993),4.5,M,ComedyDramaRomance
+Tombstone (1993),4.5,M,ActionDramaWestern
+One Fine Day (1996),4.5,M,DramaRomance
+Emma (1996),4.5,M,ComedyDramaRomance
+Roman Holiday (1953),4.5,M,ComedyDramaRomance
+Dead Poets Society (1989),4.5,M,Drama
+Jerry Maguire (1996),4.5,M,DramaRomance
+Sliding Doors (1998),4.5,M,DramaRomance
+Out of Sight (1998),4.5,M,ComedyCrimeDramaRomanceThriller
+Ever After: A Cinderella Story (1998),4.5,M,ComedyDramaRomance
+Working Girl (1988),4.5,M,ComedyDramaRomance
+Shakespeare in Love (1998),4.5,M,ComedyDramaRomance
+Far and Away (1992),4.5,M,AdventureDramaRomance
+Bridget Jones's Diary (2001),4.5,M,ComedyDramaRomance
+Moulin Rouge (2001),4.5,M,DramaMusicalRomance
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Spider-Man 2 (2004),4.5,M,ActionAdventureSci-FiIMAX
+Braveheart (1995),4.5,M,ActionDramaWar
+Taxi Driver (1976),4.5,M,CrimeDramaThriller
+Gone with the Wind (1939),4.5,M,DramaRomanceWar
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Manhattan (1979),4.5,M,ComedyDramaRomance
+Gandhi (1982),4.5,M,Drama
+Donnie Brasco (1997),4.5,M,CrimeDrama
+Good Will Hunting (1997),4.5,M,DramaRomance
+Jackie Brown (1997),4.5,M,CrimeDramaThriller
+Fear and Loathing in Las Vegas (1998),4.5,M,AdventureComedyDrama
+Pi (1998),4.5,M,DramaSci-FiThriller
+Edward Scissorhands (1990),4.5,M,DramaFantasyRomance
+October Sky (1999),4.5,M,Drama
+Eyes Wide Shut (1999),4.5,M,DramaMysteryThriller
+Man on the Moon (1999),4.5,M,ComedyDrama
+High Fidelity (2000),4.5,M,ComedyDramaRomance
+Punch-Drunk Love (2002),4.5,M,ComedyDramaRomance
+Barton Fink (1991),4.5,M,DramaThriller
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Mystic River (2003),4.5,M,CrimeDramaMystery
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+The Machinist (2004),4.5,M,DramaMysteryThriller
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+Walk the Line (2005),4.5,M,DramaMusicalRomance
+Babel (2006),4.5,M,DramaThriller
+Pirates of the Caribbean: At World's End (2007),4.5,M,ActionAdventureComedyFantasy
+No Country for Old Men (2007),4.5,M,CrimeDrama
+There Will Be Blood (2007),4.5,M,DramaWestern
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Biutiful (2010),4.5,M,Drama
+Warrior (2011),4.5,M,Drama
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Gone Girl (2014),4.5,M,DramaThriller
+Straight Outta Compton (2015),4.5,M,Drama
+Schindler's List (1993),4.5,M,DramaWar
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Tinker Tailor Soldier Spy (2011),4.5,M,DramaFilm-NoirThriller
+Casino (1995),4.5,M,CrimeDrama
+Taxi Driver (1976),4.5,M,CrimeDramaThriller
+Burnt by the Sun (Utomlyonnye solntsem) (1994),4.5,M,Drama
+Three Colors: Blue (Trois couleurs: Bleu) (1993),4.5,M,Drama
+Three Colors: White (Trzy kolory: Bialy) (1994),4.5,M,ComedyDrama
+Underground (1995),4.5,M,ComedyDramaWar
+Dead Man (1995),4.5,M,DramaMysteryWestern
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+12 Angry Men (1957),4.5,M,Drama
+Kolya (Kolja) (1996),4.5,M,ComedyDrama
+Donnie Brasco (1997),4.5,M,CrimeDrama
+Seven Samurai (Shichinin no samurai) (1954),4.5,M,ActionAdventureDrama
+Eyes Wide Shut (1999),4.5,M,DramaMysteryThriller
+Time of the Gypsies (Dom za vesanje) (1989),4.5,M,ComedyCrimeDramaFantasy
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),4.5,M,Drama
+Modern Times (1936),4.5,M,ComedyDramaRomance
+Requiem for a Dream (2000),4.5,M,Drama
+Pay It Forward (2000),4.5,M,Drama
+Scarface (1983),4.5,M,ActionCrimeDrama
+I Am Sam (2001),4.5,M,Drama
+We Were Soldiers (2002),4.5,M,ActionDramaWar
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Irreversible (Irréversible) (2002),4.5,M,CrimeDramaMysteryThriller
+Straw Dogs (1971),4.5,M,DramaThriller
+Battle Royale (Batoru rowaiaru) (2000),4.5,M,ActionDramaHorrorThriller
+The Thief (1997),4.5,M,Drama
+Love Me If You Dare (Jeux d'enfants) (2003),4.5,M,DramaRomance
+Andrei Rublev (Andrey Rublyov) (1969),4.5,M,DramaWar
+Sin City (2005),4.5,M,ActionCrimeFilm-NoirMysteryThriller
+Cinderella Man (2005),4.5,M,DramaRomance
+Smokin' Aces (2006),4.5,M,ActionCrimeDramaThriller
+300 (2007),4.5,M,ActionFantasyWarIMAX
+Pirates of the Caribbean: At World's End (2007),4.5,M,ActionAdventureComedyFantasy
+I Served the King of England (Obsluhoval jsem anglického krále) (2006),4.5,M,ComedyDramaRomanceWar
+There Will Be Blood (2007),4.5,M,DramaWestern
+RocknRolla (2008),4.5,M,ActionCrime
+5 Centimeters per Second (Byôsoku 5 senchimêtoru) (2007),4.5,M,AnimationDramaRomance
+Ip Man (2008),4.5,M,ActionDramaWar
+Angels & Demons (2009),4.5,M,CrimeDramaMysteryThriller
+Balance (1989),4.5,M,AnimationDramaMysterySci-FiThriller
+3 Idiots (2009),4.5,M,ComedyDramaRomance
+Temple Grandin (2010),4.5,M,Drama
+Gentlemen of Fortune (Dzhentlmeny udachi) (1972),4.5,M,ComedyCrimeDramaMystery
+Black Swan (2010),4.5,M,DramaThriller
+Brother 2 (Brat 2) (2000),4.5,M,CrimeDrama
+Broken (2012),4.5,M,Drama
+From Up on Poppy Hill (Kokuriko-zaka kara) (2011),4.5,M,AnimationDramaRomance
+Prisoners (2013),4.5,M,DramaMysteryThriller
+Dallas Buyers Club (2013),4.5,M,Drama
+Only Old Men Are Going to Battle (V boy idut odni stariki) (1973),4.5,M,ComedyDramaWar
+Ernest & Célestine (Ernest et Célestine) (2012),4.5,M,AdventureAnimationChildrenComedyDramaRomance
+Nymphomaniac: Volume I (2013),4.5,M,Drama
+Nymphomaniac: Volume II (2013),4.5,M,DramaMystery
+Frank (2014),4.5,M,ComedyDramaMystery
+Nightcrawler (2014),4.5,M,CrimeDramaThriller
+Tangerines (2013),4.5,M,Drama
+The Fool (2014),4.5,M,Drama
+Legend No. 17 (2013),4.5,M,Drama
+That Munchhausen (1979),4.5,M,ComedyDramaFantasy
+Ordinary Miracle (1978),4.5,M,ComedyDramaFantasyRomance
+Zootopia (2016),4.5,M,ActionAdventureAnimationChildrenComedy
+Your Name. (2016),4.5,M,AnimationDramaFantasyRomance
+Hacksaw Ridge (2016),4.5,M,DramaWar
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Night on Earth (1991),4.5,M,ComedyDrama
+American Beauty (1999),4.5,M,DramaRomance
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+City of God (Cidade de Deus) (2002),4.5,M,ActionAdventureCrimeDramaThriller
+The Queen (2006),4.5,M,Drama
+Casino (1995),4.5,M,CrimeDrama
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Goon (2011),4.5,M,ComedyDrama
+This Is the End (2013),4.5,M,ActionComedy
+22 Jump Street (2014),4.5,M,ActionComedyCrime
+Guardians of the Galaxy (2014),4.5,M,ActionAdventureSci-Fi
+John Wick (2014),4.5,M,ActionThriller
+The Interview (2014),4.5,M,ActionComedy
+Experimenter (2015),4.5,M,Drama
+Straight Outta Compton (2015),4.5,M,Drama
+Sherlock: The Abominable Bride (2016),4.5,M,ActionCrimeDramaMysteryThriller
+Mr. Right (2016),4.5,M,ActionComedyRomance
+Snowden (2016),4.5,M,DramaThriller
+Now You See Me 2 (2016),4.5,M,ActionComedyThriller
+Masterminds (2016),4.5,M,ActionComedyCrime
+Rough Night (2017),4.5,M,ComedyDrama
+Heat (1995),4.5,M,ActionCrimeThriller
+Casino (1995),4.5,M,CrimeDrama
+Interview with the Vampire: The Vampire Chronicles (1994),4.5,M,DramaHorror
+Philadelphia (1993),4.5,M,Drama
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Crimson Tide (1995),4.5,M,DramaThrillerWar
+Dances with Wolves (1990),4.5,M,AdventureDramaWestern
+Dirty Dancing (1987),4.5,M,DramaMusicalRomance
+Rain Man (1988),4.5,M,Drama
+Indiana Jones and the Temple of Doom (1984),4.5,M,ActionAdventureFantasy
+Romancing the Stone (1984),4.5,M,ActionAdventureComedyRomance
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Hotel Rwanda (2004),4.5,M,DramaWar
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+American History X (1998),4.5,M,CrimeDrama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+21 (2008),4.5,M,CrimeDramaRomanceThriller
+Angels & Demons (2009),4.5,M,CrimeDramaMysteryThriller
+Source Code (2011),4.5,M,ActionDramaMysterySci-FiThriller
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Edge of Tomorrow (2014),4.5,M,ActionSci-FiIMAX
+Gone Girl (2014),4.5,M,DramaThriller
+Nightcrawler (2014),4.5,M,CrimeDramaThriller
+The Imitation Game (2014),4.5,M,DramaThrillerWar
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Fear and Loathing in Las Vegas (1998),4.5,M,AdventureComedyDrama
+American History X (1998),4.5,M,CrimeDrama
+Scent of a Woman (1992),4.5,M,Drama
+Ghost Dog: The Way of the Samurai (1999),4.5,M,CrimeDrama
+Ratatouille (2007),4.5,M,AnimationChildrenDrama
+Braveheart (1995),4.5,M,ActionDramaWar
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Naked (1993),4.5,M,Drama
+Freeway (1996),4.5,M,ComedyCrimeDramaThriller
+Bonnie and Clyde (1967),4.5,M,CrimeDrama
+Evil Dead II (Dead by Dawn) (1987),4.5,M,ActionComedyFantasyHorror
+Live Flesh (Carne trémula) (1997),4.5,M,DramaRomance
+SLC Punk! (1998),4.5,M,ComedyDrama
+Mulholland Drive (2001),4.5,M,CrimeDramaFilm-NoirMysteryThriller
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Secretary (2002),4.5,M,ComedyDramaRomance
+Gangs of New York (2002),4.5,M,CrimeDrama
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+Between Your Legs (Entre las piernas) (1999),4.5,M,DramaMysteryRomanceThriller
+Hard Candy (2005),4.5,M,DramaThriller
+Art School Confidential (2006),4.5,M,ComedyDrama
+Adam's Apples (Adams æbler) (2005),4.5,M,ComedyDrama
+Children of Men (2006),4.5,M,ActionAdventureDramaSci-FiThriller
+Knocked Up (2007),4.5,M,ComedyDramaRomance
+Sleuth (2007),4.5,M,DramaMysteryThriller
+Zack and Miri Make a Porno (2008),4.5,M,ComedyDramaRomance
+Crows Zero (Kurôzu zero) (2007),4.5,M,Action
+Thirst (Bakjwi) (2009),4.5,M,DramaHorror
+World's Greatest Dad (2009),4.5,M,ComedyDrama
+Avatar (2009),4.5,M,ActionAdventureSci-FiIMAX
+Repo Men (2010),4.5,M,ActionSci-FiThriller
+Drive (2011),4.5,M,CrimeDramaFilm-NoirThriller
+Violet & Daisy (2011),4.5,M,ActionDrama
+Chronicle (2012),4.5,M,ActionSci-FiThriller
+Perfect Sense (2011),4.5,M,DramaRomanceSci-Fi
+God Bless America (2011),4.5,M,ComedyDrama
+Redline (2009),4.5,M,ActionAnimationSci-Fi
+Oz the Great and Powerful (2013),4.5,M,ActionAdventureFantasyIMAX
+Don Jon (2013),4.5,M,ComedyDramaRomance
+Me and you (io e te) (2012),4.5,M,Drama
+Locke (2013),4.5,M,Drama
+Wild Tales (2014),4.5,M,ComedyDramaThriller
+Mad Max: Fury Road (2015),4.5,M,ActionAdventureSci-FiThriller
+Deadpool (2016),4.5,M,ActionAdventureComedySci-Fi
+The Road Within (2014),4.5,M,ComedyDrama
+Hardcore Henry (2015),4.5,M,ActionAdventureSci-Fi
+Captain Fantastic (2016),4.5,M,Drama
+Stargate (1994),4.5,M,ActionAdventureSci-Fi
+Mulan (1998),4.5,M,AdventureAnimationChildrenComedyDramaMusicalRomance
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Watership Down (1978),4.5,M,AdventureAnimationChildrenDramaFantasy
+Run Lola Run (Lola rennt) (1998),4.5,M,ActionCrime
+American Beauty (1999),4.5,M,DramaRomance
+Three Kings (1999),4.5,M,ActionAdventureComedyDramaWar
+Princess Mononoke (Mononoke-hime) (1997),4.5,M,ActionAdventureAnimationDramaFantasy
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Black Hawk Down (2001),4.5,M,ActionDramaWar
+Bend It Like Beckham (2002),4.5,M,ComedyDramaRomance
+X2: X-Men United (2003),4.5,M,ActionAdventureSci-FiThriller
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),4.5,M,AdventureAnimationDramaFantasySci-Fi
+Gladiator (1992),4.5,M,ActionDrama
+Appleseed (Appurushîdo) (2004),4.5,M,ActionAnimationFantasySci-Fi
+Sin City (2005),4.5,M,ActionCrimeFilm-NoirMysteryThriller
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+Final Fantasy VII: Advent Children (2004),4.5,M,ActionAdventureAnimationFantasySci-Fi
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+X-Men: The Last Stand (2006),4.5,M,ActionSci-FiThriller
+Raging Bull (1980),4.5,M,Drama
+American Beauty (1999),4.5,M,DramaRomance
+Bridget Jones's Diary (2001),4.5,M,ComedyDramaRomance
+Mulholland Drive (2001),4.5,M,CrimeDramaFilm-NoirMysteryThriller
+K-PAX (2001),4.5,M,DramaFantasyMysterySci-Fi
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+Escape from L.A. (1996),4.5,M,ActionAdventureSci-FiThriller
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Big Fish (2003),4.5,M,DramaFantasyRomance
+Ex Machina (2015),4.5,M,DramaSci-FiThriller
+Inside Out (2015),4.5,M,AdventureAnimationChildrenComedyDramaFantasy
+X-Men (2000),4.5,M,ActionAdventureSci-Fi
+Pocahontas (1995),4.5,M,AnimationChildrenDramaMusicalRomance
+Braveheart (1995),4.5,M,ActionDramaWar
+Interview with the Vampire: The Vampire Chronicles (1994),4.5,M,DramaHorror
+In the Name of the Father (1993),4.5,M,Drama
+William Shakespeare's Romeo + Juliet (1996),4.5,M,DramaRomance
+Chocolat (2000),4.5,M,DramaRomance
+Desperado (1995),4.5,M,ActionRomanceWestern
+The Imitation Game (2014),4.5,M,DramaThrillerWar
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Schindler's List (1993),4.5,M,DramaWar
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+To Kill a Mockingbird (1962),4.5,M,Drama
+City of God (Cidade de Deus) (2002),4.5,M,ActionAdventureCrimeDramaThriller
+Ex Machina (2015),4.5,M,DramaSci-FiThriller
+Dead Poets Society (1989),4.5,M,Drama
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Garden State (2004),4.5,M,ComedyDramaRomance
+Wristcutters: A Love Story (2006),4.5,M,DramaFantasyRomance
+Room (2015),4.5,M,Drama
+Captain Fantastic (2016),4.5,M,Drama
+Call Me by Your Name (2017),4.5,M,DramaRomance
+Zootopia (2016),4.5,M,ActionAdventureAnimationChildrenComedy
+10th & Wolf (2006),4.5,M,CrimeDramaThriller
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Magnolia (1999),4.5,M,Drama
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+GoldenEye (1995),4.5,M,ActionAdventureThriller
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Schindler's List (1993),4.5,M,DramaWar
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Citizen Kane (1941),4.5,M,DramaMystery
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.5,M,ActionAdventure
+Amadeus (1984),4.5,M,Drama
+Miller's Crossing (1990),4.5,M,CrimeDramaFilm-NoirThriller
+Cool Hand Luke (1967),4.5,M,Drama
+Indiana Jones and the Last Crusade (1989),4.5,M,ActionAdventure
+Good Will Hunting (1997),4.5,M,DramaRomance
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Life Is Beautiful (La Vita è bella) (1997),4.5,M,ComedyDramaRomanceWar
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Being John Malkovich (1999),4.5,M,ComedyDramaFantasy
+Spider-Man (2002),4.5,M,ActionAdventureSci-FiThriller
+Punch-Drunk Love (2002),4.5,M,ComedyDramaRomance
+X2: X-Men United (2003),4.5,M,ActionAdventureSci-FiThriller
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Hero (Ying xiong) (2002),4.5,M,ActionAdventureDrama
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+X-Men: The Last Stand (2006),4.5,M,ActionSci-FiThriller
+Stranger than Fiction (2006),4.5,M,ComedyDramaFantasyRomance
+Jesus Camp (2006),4.5,M,DocumentaryDrama
+Children of Men (2006),4.5,M,ActionAdventureDramaSci-FiThriller
+Breach (2007),4.5,M,DramaThriller
+Shooter (2007),4.5,M,ActionDramaThriller
+Harry Potter and the Order of the Phoenix (2007),4.5,M,AdventureDramaFantasyIMAX
+3:10 to Yuma (2007),4.5,M,ActionCrimeDramaWestern
+Apollo 13 (1995),4.5,M,AdventureDramaIMAX
+Miracle on 34th Street (1994),4.5,M,Drama
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Speed (1994),4.5,M,ActionRomanceThriller
+Sleepless in Seattle (1993),4.5,M,ComedyDramaRomance
+Snow White and the Seven Dwarfs (1937),4.5,M,AnimationChildrenDramaFantasyMusical
+Tin Cup (1996),4.5,M,ComedyDramaRomance
+That Thing You Do! (1996),4.5,M,ComedyDrama
+Dirty Dancing (1987),4.5,M,DramaMusicalRomance
+Field of Dreams (1989),4.5,M,ChildrenDramaFantasy
+Rain Man (1988),4.5,M,Drama
+Driving Miss Daisy (1989),4.5,M,Drama
+Pleasantville (1998),4.5,M,ComedyDramaFantasy
+Erin Brockovich (2000),4.5,M,Drama
+28 Days (2000),4.5,M,Drama
+Cast Away (2000),4.5,M,Drama
+Save the Last Dance (2001),4.5,M,DramaRomance
+Pearl Harbor (2001),4.5,M,ActionDramaRomanceWar
+Lord of the Flies (1990),4.5,M,AdventureDramaThriller
+I Am Sam (2001),4.5,M,Drama
+About a Boy (2002),4.5,M,ComedyDramaRomance
+Star Wars: Episode II - Attack of the Clones (2002),4.5,M,ActionAdventureSci-FiIMAX
+Road to Perdition (2002),4.5,M,CrimeDrama
+Jackass: The Movie (2002),4.5,M,ActionComedyDocumentary
+The Emperor's Club (2002),4.5,M,Drama
+Bruce Almighty (2003),4.5,M,ComedyDramaFantasyRomance
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Lost in Translation (2003),4.5,M,ComedyDramaRomance
+Jesus Christ Superstar (1973),4.5,M,DramaMusical
+Miracle on 34th Street (1994),4.5,M,Drama
+Schindler's List (1993),4.5,M,DramaWar
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Schindler's List (1993),4.5,M,DramaWar
+It's a Wonderful Life (1946),4.5,M,ChildrenDramaFantasyRomance
+Sophie's Choice (1982),4.5,M,Drama
+12 Angry Men (1957),4.5,M,Drama
+Driving Miss Daisy (1989),4.5,M,Drama
+Practical Magic (1998),4.5,M,DramaFantasyMysteryRomance
+X-Men (2000),4.5,M,ActionAdventureSci-Fi
+Enough (2002),4.5,M,DramaThriller
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Matchstick Men (2003),4.5,M,ComedyCrimeDrama
+Super Size Me (2004),4.5,M,ComedyDocumentaryDrama
+Little Miss Sunshine (2006),4.5,M,AdventureComedyDrama
+Pirates of the Caribbean: At World's End (2007),4.5,M,ActionAdventureComedyFantasy
+Juno (2007),4.5,M,ComedyDramaRomance
+Charlie Wilson's War (2007),4.5,M,ComedyDramaWar
+Seven Pounds (2008),4.5,M,Drama
+Julie & Julia (2009),4.5,M,ComedyDramaRomance
+Sherlock Holmes (2009),4.5,M,ActionCrimeMysteryThriller
+Megamind (2010),4.5,M,ActionAnimationChildrenComedySci-FiIMAX
+Mildred Pierce (2011),4.5,M,Drama
+The Hunger Games (2012),4.5,M,ActionAdventureDramaSci-FiThriller
+Silver Linings Playbook (2012),4.5,M,ComedyDrama
+Life of Pi (2012),4.5,M,AdventureDramaIMAX
+Lincoln (2012),4.5,M,DramaWar
+How to Train Your Dragon 2 (2014),4.5,M,ActionAdventureAnimation
+American Sniper (2014),4.5,M,ActionWar
+Leaving Las Vegas (1995),4.5,M,DramaRomance
+Crimson Tide (1995),4.5,M,DramaThrillerWar
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Schindler's List (1993),4.5,M,DramaWar
+Dances with Wolves (1990),4.5,M,AdventureDramaWestern
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Primary Colors (1998),4.5,M,ComedyDrama
+Bulworth (1998),4.5,M,ComedyDramaRomance
+Rounders (1998),4.5,M,Drama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Hotel Rwanda (2004),4.5,M,DramaWar
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Goodfellas (1990),4.5,M,CrimeDrama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Heat (1995),4.5,M,ActionCrimeThriller
+Leaving Las Vegas (1995),4.5,M,DramaRomance
+Dead Man Walking (1995),4.5,M,CrimeDrama
+Richard III (1995),4.5,M,DramaWar
+From Dusk Till Dawn (1996),4.5,M,ActionComedyHorrorThriller
+Taxi Driver (1976),4.5,M,CrimeDramaThriller
+Smoke (1995),4.5,M,ComedyDrama
+Ed Wood (1994),4.5,M,ComedyDrama
+Heavenly Creatures (1994),4.5,M,CrimeDrama
+Natural Born Killers (1994),4.5,M,ActionCrimeThriller
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Three Colors: Red (Trois couleurs: Rouge) (1994),4.5,M,Drama
+Three Colors: Blue (Trois couleurs: Bleu) (1993),4.5,M,Drama
+Shallow Grave (1994),4.5,M,ComedyDramaThriller
+Carlito's Way (1993),4.5,M,CrimeDrama
+In the Name of the Father (1993),4.5,M,Drama
+Romper Stomper (1992),4.5,M,ActionDrama
+Dances with Wolves (1990),4.5,M,AdventureDramaWestern
+Dead Man (1995),4.5,M,DramaMysteryWestern
+Trainspotting (1996),4.5,M,ComedyCrimeDrama
+Vertigo (1958),4.5,M,DramaMysteryRomanceThriller
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+To Kill a Mockingbird (1962),4.5,M,Drama
+Army of Darkness (1993),4.5,M,ActionAdventureComedyFantasyHorror
+Amadeus (1984),4.5,M,Drama
+Raging Bull (1980),4.5,M,Drama
+Glory (1989),4.5,M,DramaWar
+Miller's Crossing (1990),4.5,M,CrimeDramaFilm-NoirThriller
+Dead Poets Society (1989),4.5,M,Drama
+Lost Highway (1997),4.5,M,CrimeDramaFantasyFilm-NoirMysteryRomance
+Donnie Brasco (1997),4.5,M,CrimeDrama
+Brassed Off (1996),4.5,M,ComedyDramaRomance
+The Devil's Advocate (1997),4.5,M,DramaMysteryThriller
+Boogie Nights (1997),4.5,M,Drama
+Starship Troopers (1997),4.5,M,ActionSci-Fi
+As Good as It Gets (1997),4.5,M,ComedyDramaRomance
+Pi (1998),4.5,M,DramaSci-FiThriller
+Blue Velvet (1986),4.5,M,DramaMysteryThriller
+Swing Kids (1993),4.5,M,DramaWar
+Happiness (1998),4.5,M,ComedyDrama
+Apt Pupil (1998),4.5,M,DramaThriller
+Pleasantville (1998),4.5,M,ComedyDramaFantasy
+American History X (1998),4.5,M,CrimeDrama
+Elizabeth (1998),4.5,M,Drama
+Shakespeare in Love (1998),4.5,M,ComedyDramaRomance
+Planet of the Apes (1968),4.5,M,ActionDramaSci-Fi
+Cruel Intentions (1999),4.5,M,Drama
+Dead Ringers (1988),4.5,M,DramaHorrorThriller
+Dangerous Beauty (1998),4.5,M,Drama
+eXistenZ (1999),4.5,M,ActionSci-FiThriller
+Get Real (1998),4.5,M,DramaRomance
+Eyes Wide Shut (1999),4.5,M,DramaMysteryThriller
+Mystery Men (1999),4.5,M,ActionComedyFantasy
+All That Jazz (1979),4.5,M,DramaFantasyMusical
+Train of Life (Train de vie) (1998),4.5,M,ComedyDramaRomanceWar
+Awakenings (1990),4.5,M,DramaMystery
+Ride with the Devil (1999),4.5,M,DramaRomanceWar
+Stalag 17 (1953),4.5,M,DramaWar
+Of Mice and Men (1992),4.5,M,Drama
+Modern Times (1936),4.5,M,ComedyDramaRomance
+High Fidelity (2000),4.5,M,ComedyDramaRomance
+Mystery Train (1989),4.5,M,ComedyDrama
+Blood Simple (1984),4.5,M,CrimeDramaFilm-Noir
+Croupier (1998),4.5,M,CrimeDrama
+Tigerland (2000),4.5,M,Drama
+Billy Elliot (2000),4.5,M,Drama
+Malèna (2000),4.5,M,DramaRomanceWar
+State and Main (2000),4.5,M,ComedyDrama
+Gettysburg (1993),4.5,M,DramaWar
+Salvador (1986),4.5,M,DramaThrillerWar
+Casualties of War (1989),4.5,M,DramaWar
+New York Stories (1989),4.5,M,ComedyDrama
+Hedwig and the Angry Inch (2000),4.5,M,ComedyDramaMusical
+Waking Life (2001),4.5,M,AnimationDramaFantasy
+K-PAX (2001),4.5,M,DramaFantasyMysterySci-Fi
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Tape (2001),4.5,M,Drama
+Lantana (2001),4.5,M,DramaMysteryThriller
+Monster's Ball (2001),4.5,M,DramaRomance
+How to Kill Your Neighbor's Dog (2000),4.5,M,ComedyDrama
+Dark Blue World (Tmavomodrý svet) (2001),4.5,M,DramaWar
+Red Beard (Akahige) (1965),4.5,M,Drama
+Grave of the Fireflies (Hotaru no haka) (1988),4.5,M,AnimationDramaWar
+My Dinner with André (1981),4.5,M,Drama
+Frida (2002),4.5,M,DramaRomance
+Adaptation (2002),4.5,M,ComedyDramaRomance
+Fahrenheit 451 (1966),4.5,M,DramaSci-Fi
+Barton Fink (1991),4.5,M,DramaThriller
+Dirty Pretty Things (2002),4.5,M,CrimeDramaThriller
+THX 1138 (1971),4.5,M,ActionAdventureDramaSci-Fi
+Lost in Translation (2003),4.5,M,ComedyDramaRomance
+Elephant (2003),4.5,M,Drama
+Battle Royale (Batoru rowaiaru) (2000),4.5,M,ActionDramaHorrorThriller
+Hero (Ying xiong) (2002),4.5,M,ActionAdventureDrama
+Naked Lunch (1991),4.5,M,DramaFantasyMysterySci-Fi
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Dogville (2003),4.5,M,DramaMysteryThriller
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+Pirates of Silicon Valley (1999),4.5,M,DocumentaryDrama
+Garden State (2004),4.5,M,ComedyDramaRomance
+Sideways (2004),4.5,M,ComedyDramaRomance
+Bad Education (La mala educación) (2004),4.5,M,DramaThriller
+Sin City (2005),4.5,M,ActionCrimeFilm-NoirMysteryThriller
+Schindler's List (1993),4.5,M,DramaWar
+Up (2009),4.5,M,AdventureAnimationChildrenDrama
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+Ben-Hur (1959),4.5,M,ActionAdventureDrama
+Star Trek II: The Wrath of Khan (1982),4.5,M,ActionAdventureSci-FiThriller
+Austin Powers: The Spy Who Shagged Me (1999),4.5,M,ActionAdventureComedy
+Road to Perdition (2002),4.5,M,CrimeDrama
+Punch-Drunk Love (2002),4.5,M,ComedyDramaRomance
+Gallipoli (1981),4.5,M,DramaWar
+Mystic River (2003),4.5,M,CrimeDramaMystery
+Collateral (2004),4.5,M,ActionCrimeDramaThriller
+Munich (2005),4.5,M,ActionCrimeDramaThriller
+United 93 (2006),4.5,M,CrimeDrama
+Flags of Our Fathers (2006),4.5,M,DramaWar
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Schindler's List (1993),4.5,M,DramaWar
+Apocalypse Now (1979),4.5,M,ActionDramaWar
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Kick-Ass (2010),4.5,M,ActionComedy
+Black Swan (2010),4.5,M,DramaThriller
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Sherlock Holmes: A Game of Shadows (2011),4.5,M,ActionAdventureComedyCrimeMysteryThriller
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Darkest Hour (2017),4.5,M,DramaWar
+Dr. No (1962),4.5,M,ActionAdventureThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Good Will Hunting (1997),4.5,M,DramaRomance
+American Beauty (1999),4.5,M,DramaRomance
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+In Bruges (2008),4.5,M,ComedyCrimeDramaThriller
+Gran Torino (2008),4.5,M,CrimeDrama
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+127 Hours (2010),4.5,M,AdventureDramaThriller
+Harry Potter and the Deathly Hallows: Part 2 (2011),4.5,M,ActionAdventureDramaFantasyMysteryIMAX
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Die Hard (1988),4.5,M,ActionCrimeThriller
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.5,M,ActionAdventure
+Dead Poets Society (1989),4.5,M,Drama
+Moonraker (1979),4.5,M,ActionAdventureSci-FiThriller
+Scarface (1983),4.5,M,ActionCrimeDrama
+Casino Royale (2006),4.5,M,ActionAdventureThriller
+In Bruges (2008),4.5,M,ComedyCrimeDramaThriller
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Scott Pilgrim vs. the World (2010),4.5,M,ActionComedyFantasyMusicalRomance
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Death Proof (2007),4.5,M,ActionAdventureCrimeHorrorThriller
+Scott Pilgrim vs. the World (2010),4.5,M,ActionComedyFantasyMusicalRomance
+Moonrise Kingdom (2012),4.5,M,ComedyDramaRomance
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Prisoners (2013),4.5,M,DramaMysteryThriller
+Whiplash (2014),4.5,M,Drama
+Thor: Ragnarok (2017),4.5,M,ActionAdventureSci-Fi
+Hacksaw Ridge (2016),4.5,M,DramaWar
+Logan (2017),4.5,M,ActionSci-Fi
+Gifted (2017),4.5,M,Drama
+Baby Driver (2017),4.5,M,ActionCrimeThriller
+The Greatest Showman (2017),4.5,M,Drama
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Schindler's List (1993),4.5,M,DramaWar
+Casablanca (1942),4.5,M,DramaRomance
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Dead Poets Society (1989),4.5,M,Drama
+Stand by Me (1986),4.5,M,AdventureDrama
+Good Will Hunting (1997),4.5,M,DramaRomance
+Say Anything... (1989),4.5,M,ComedyDramaRomance
+Run Lola Run (Lola rennt) (1998),4.5,M,ActionCrime
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Fast Times at Ridgemont High (1982),4.5,M,ComedyDramaRomance
+Finding Forrester (2000),4.5,M,Drama
+Garden State (2004),4.5,M,ComedyDramaRomance
+Slumdog Millionaire (2008),4.5,M,CrimeDramaRomance
+Babe (1995),4.5,M,ChildrenDrama
+True Lies (1994),4.5,M,ActionAdventureComedyRomanceThriller
+Mr. Smith Goes to Washington (1939),4.5,M,Drama
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Jerry Maguire (1996),4.5,M,DramaRomance
+Good Will Hunting (1997),4.5,M,DramaRomance
+Run Lola Run (Lola rennt) (1998),4.5,M,ActionCrime
+Spider-Man (2002),4.5,M,ActionAdventureSci-FiThriller
+Road to Perdition (2002),4.5,M,CrimeDrama
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Spider-Man 2 (2004),4.5,M,ActionAdventureSci-FiIMAX
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+Ratatouille (2007),4.5,M,AnimationChildrenDrama
+300 (2007),4.5,M,ActionFantasyWarIMAX
+No Country for Old Men (2007),4.5,M,CrimeDrama
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Blow (2001),4.5,M,CrimeDrama
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Argo (2012),4.5,M,DramaThriller
+Practical Magic (1998),4.5,M,DramaFantasyMysteryRomance
+Casino (1995),4.5,M,CrimeDrama
+Apollo 13 (1995),4.5,M,AdventureDramaIMAX
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Cool Hand Luke (1967),4.5,M,Drama
+Indiana Jones and the Last Crusade (1989),4.5,M,ActionAdventure
+American History X (1998),4.5,M,CrimeDrama
+Hoosiers (a.k.a. Best Shot) (1986),4.5,M,DramaRomance
+Almost Famous (2000),4.5,M,Drama
+Empire of the Sun (1987),4.5,M,ActionAdventureDramaWar
+Scarface (1983),4.5,M,ActionCrimeDrama
+Equilibrium (2002),4.5,M,ActionSci-FiThriller
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Lost in Translation (2003),4.5,M,ComedyDramaRomance
+Mystic River (2003),4.5,M,CrimeDramaMystery
+Big Fish (2003),4.5,M,DramaFantasyRomance
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Garden State (2004),4.5,M,ComedyDramaRomance
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+Thank You for Smoking (2006),4.5,M,ComedyDrama
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Knocked Up (2007),4.5,M,ComedyDramaRomance
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Rain Man (1988),4.5,M,Drama
+Primer (2004),4.5,M,DramaSci-Fi
+Lord of War (2005),4.5,M,ActionCrimeDramaThrillerWar
+Walk the Line (2005),4.5,M,DramaMusicalRomance
+Little Miss Sunshine (2006),4.5,M,AdventureComedyDrama
+Children of Men (2006),4.5,M,ActionAdventureDramaSci-FiThriller
+Juno (2007),4.5,M,ComedyDramaRomance
+There Will Be Blood (2007),4.5,M,DramaWestern
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Taken (2008),4.5,M,ActionCrimeDramaThriller
+Slumdog Millionaire (2008),4.5,M,CrimeDramaRomance
+X-Men: First Class (2011),4.5,M,ActionAdventureSci-FiThrillerWar
+Argo (2012),4.5,M,DramaThriller
+The Imitation Game (2014),4.5,M,DramaThrillerWar
+The Martian (2015),4.5,M,AdventureDramaSci-Fi
+Inside Out (2015),4.5,M,AdventureAnimationChildrenComedyDramaFantasy
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Mr. & Mrs. Smith (2005),4.5,M,ActionAdventureComedyRomance
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+War of the Worlds (2005),4.5,M,ActionAdventureSci-FiThriller
+Braveheart (1995),4.5,M,ActionDramaWar
+Apollo 13 (1995),4.5,M,AdventureDramaIMAX
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Schindler's List (1993),4.5,M,DramaWar
+Die Hard (1988),4.5,M,ActionCrimeThriller
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.5,M,ActionAdventure
+Titanic (1997),4.5,M,DramaRomance
+Armageddon (1998),4.5,M,ActionRomanceSci-FiThriller
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+My Dog Skip (1999),4.5,M,ChildrenDrama
+Remember the Titans (2000),4.5,M,Drama
+Requiem for a Dream (2000),4.5,M,Drama
+Pearl Harbor (2001),4.5,M,ActionDramaRomanceWar
+Training Day (2001),4.5,M,CrimeDramaThriller
+Spider-Man (2002),4.5,M,ActionAdventureSci-FiThriller
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+Gangs of New York (2002),4.5,M,CrimeDrama
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Miracle (2004),4.5,M,Drama
+Collateral (2004),4.5,M,ActionCrimeDramaThriller
+Million Dollar Baby (2004),4.5,M,Drama
+Sin City (2005),4.5,M,ActionCrimeFilm-NoirMysteryThriller
+Crash (2004),4.5,M,CrimeDrama
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+Jarhead (2005),4.5,M,ActionDramaWar
+King Kong (2005),4.5,M,ActionAdventureDramaFantasyThriller
+Juno (2007),4.5,M,ComedyDramaRomance
+Sweeney Todd: The Demon Barber of Fleet Street (2007),4.5,M,DramaHorrorMusicalThriller
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Watchmen (2009),4.5,M,ActionDramaMysterySci-FiThrillerIMAX
+Gran Torino (2008),4.5,M,CrimeDrama
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Up (2009),4.5,M,AdventureAnimationChildrenDrama
+Kick-Ass (2010),4.5,M,ActionComedy
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+Men in Black (a.k.a. MIB) (1997),4.5,M,ActionComedySci-Fi
+Casino (1995),4.5,M,CrimeDrama
+Braveheart (1995),4.5,M,ActionDramaWar
+Desperado (1995),4.5,M,ActionRomanceWestern
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Clear and Present Danger (1994),4.5,M,ActionCrimeDramaThriller
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Trainspotting (1996),4.5,M,ComedyCrimeDrama
+Platoon (1986),4.5,M,DramaWar
+Stand by Me (1986),4.5,M,AdventureDrama
+Unforgiven (1992),4.5,M,DramaWestern
+Indiana Jones and the Last Crusade (1989),4.5,M,ActionAdventure
+Rain Man (1988),4.5,M,Drama
+Indiana Jones and the Temple of Doom (1984),4.5,M,ActionAdventureFantasy
+Rounders (1998),4.5,M,Drama
+What Dreams May Come (1998),4.5,M,AdventureDramaFantasyRomance
+Pleasantville (1998),4.5,M,ComedyDramaFantasy
+Erin Brockovich (2000),4.5,M,Drama
+Gladiator (2000),4.5,M,ActionAdventureDrama
+X-Men (2000),4.5,M,ActionAdventureSci-Fi
+Unbreakable (2000),4.5,M,DramaSci-Fi
+Scarface (1983),4.5,M,ActionCrimeDrama
+Life as a House (2001),4.5,M,Drama
+Black Hawk Down (2001),4.5,M,ActionDramaWar
+Spider-Man (2002),4.5,M,ActionAdventureSci-FiThriller
+Boyz N the Hood (1991),4.5,M,CrimeDrama
+Mystic River (2003),4.5,M,CrimeDramaMystery
+Man on Fire (2004),4.5,M,ActionCrimeDramaMysteryThriller
+The Machinist (2004),4.5,M,DramaMysteryThriller
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+Serenity (2005),4.5,M,ActionAdventureSci-Fi
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+Inside Man (2006),4.5,M,CrimeDramaThriller
+X-Men: The Last Stand (2006),4.5,M,ActionSci-FiThriller
+Stranger than Fiction (2006),4.5,M,ComedyDramaFantasyRomance
+American Gangster (2007),4.5,M,CrimeDramaThriller
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+Life Is Beautiful (La Vita è bella) (1997),4.5,M,ComedyDramaRomanceWar
+Bad Education (La mala educación) (2004),4.5,M,DramaThriller
+Volver (2006),4.5,M,ComedyDrama
+Little Miss Sunshine (2006),4.5,M,AdventureComedyDrama
+Vicky Cristina Barcelona (2008),4.5,M,ComedyDramaRomance
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Mary and Max (2009),4.5,M,AnimationComedyDrama
+Melancholia (2011),4.5,M,DramaSci-Fi
+Intouchables (2011),4.5,M,ComedyDrama
+Life of Pi (2012),4.5,M,AdventureDramaIMAX
+Gravity (2013),4.5,M,ActionSci-FiIMAX
+Birdman: Or (The Unexpected Virtue of Ignorance) (2014),4.5,M,ComedyDrama
+Boyhood (2014),4.5,M,Drama
+Whiplash (2014),4.5,M,Drama
+Nightcrawler (2014),4.5,M,CrimeDramaThriller
+Wild Tales (2014),4.5,M,ComedyDramaThriller
+Jurassic Park (1993),4.5,M,ActionAdventureSci-FiThriller
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Good Will Hunting (1997),4.5,M,DramaRomance
+Guardians of the Galaxy (2014),4.5,M,ActionAdventureSci-Fi
+Big Hero 6 (2014),4.5,M,ActionAnimationComedy
+Deadpool (2016),4.5,M,ActionAdventureComedySci-Fi
+Now You See Me 2 (2016),4.5,M,ActionComedyThriller
+Deadpool 2 (2018),4.5,M,ActionComedySci-Fi
+Conspiracy Theory (1997),4.5,M,DramaMysteryRomanceThriller
+Witness (1985),4.5,M,DramaRomanceThriller
+Misery (1990),4.5,M,DramaHorrorThriller
+Taxi Driver (1976),4.5,M,CrimeDramaThriller
+Mrs. Doubtfire (1993),4.5,M,ComedyDrama
+Ratatouille (2007),4.5,M,AnimationChildrenDrama
+Hugo (2011),4.5,M,ChildrenDramaMystery
+Brave (2012),4.5,M,ActionAdventureAnimationChildren
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+American History X (1998),4.5,M,CrimeDrama
+Patch Adams (1998),4.5,M,ComedyDrama
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Thesis (Tesis) (1996),4.5,M,DramaHorrorThriller
+Hero (Ying xiong) (2002),4.5,M,ActionAdventureDrama
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Million Dollar Baby (2004),4.5,M,Drama
+Hotel Rwanda (2004),4.5,M,DramaWar
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+Munich (2005),4.5,M,ActionCrimeDramaThriller
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+Inside Man (2006),4.5,M,CrimeDramaThriller
+Candy (2006),4.5,M,DramaRomance
+Little Miss Sunshine (2006),4.5,M,AdventureComedyDrama
+Casino Royale (2006),4.5,M,ActionAdventureThriller
+Hackers (1995),4.5,M,ActionAdventureCrimeThriller
+Under Siege 2: Dark Territory (1995),4.5,M,Action
+Independence Day (a.k.a. ID4) (1996),4.5,M,ActionAdventureSci-FiThriller
+Under Siege (1992),4.5,M,ActionDramaThriller
+Lethal Weapon 3 (1992),4.5,M,ActionComedyCrimeDrama
+Battlefield Earth (2000),4.5,M,ActionSci-Fi
+Rush Hour 2 (2001),4.5,M,ActionComedy
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Live Free or Die Hard (2007),4.5,M,ActionAdventureCrimeThriller
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Raiders of the Lost Ark: The Adaptation (1989),4.5,M,ActionAdventureThriller
+Zombieland (2009),4.5,M,ActionComedyHorror
+Avatar (2009),4.5,M,ActionAdventureSci-FiIMAX
+Life of Pi (2012),4.5,M,AdventureDramaIMAX
+The Hunger Games: Catching Fire (2013),4.5,M,ActionAdventureSci-FiIMAX
+Ex Machina (2015),4.5,M,DramaSci-FiThriller
+The Theory of Everything (2014),4.5,M,DramaRomance
+Me and Earl and the Dying Girl (2015),4.5,M,Drama
+The Martian (2015),4.5,M,AdventureDramaSci-Fi
+Children of Men (2006),4.5,M,ActionAdventureDramaSci-FiThriller
+Beauty of the Day (Belle de jour) (1967),4.5,M,Drama
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+What's Eating Gilbert Grape (1993),4.5,M,Drama
+Trainspotting (1996),4.5,M,ComedyCrimeDrama
+Vertigo (1958),4.5,M,DramaMysteryRomanceThriller
+Bonnie and Clyde (1967),4.5,M,CrimeDrama
+Shine (1996),4.5,M,DramaRomance
+Pi (1998),4.5,M,DramaSci-FiThriller
+Run Lola Run (Lola rennt) (1998),4.5,M,ActionCrime
+Being John Malkovich (1999),4.5,M,ComedyDramaFantasy
+Do the Right Thing (1989),4.5,M,Drama
+Bagdad Cafe (Out of Rosenheim) (1987),4.5,M,ComedyDrama
+Secretary (2002),4.5,M,ComedyDramaRomance
+My Neighbor Totoro (Tonari no Totoro) (1988),4.5,M,AnimationChildrenDramaFantasy
+Dogfight (1991),4.5,M,DramaRomance
+Better Luck Tomorrow (2002),4.5,M,CrimeDrama
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+American Splendor (2003),4.5,M,ComedyDrama
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Battlestar Galactica (2003),4.5,M,DramaSci-FiWar
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Black Swan (2010),4.5,M,DramaThriller
+Star Trek: Generations (1994),4.5,M,AdventureDramaSci-Fi
+Star Trek: First Contact (1996),4.5,M,ActionAdventureSci-FiThriller
+Men in Black (a.k.a. MIB) (1997),4.5,M,ActionComedySci-Fi
+Frequency (2000),4.5,M,DramaThriller
+The Diary of Anne Frank (1959),4.5,M,DramaWar
+Adaptation (2002),4.5,M,ComedyDramaRomance
+Casino (1995),4.5,M,CrimeDrama
+From Dusk Till Dawn (1996),4.5,M,ActionComedyHorrorThriller
+Braveheart (1995),4.5,M,ActionDramaWar
+Interview with the Vampire: The Vampire Chronicles (1994),4.5,M,DramaHorror
+Natural Born Killers (1994),4.5,M,ActionCrimeThriller
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Tombstone (1993),4.5,M,ActionDramaWestern
+Terminator 2: Judgment Day (1991),4.5,M,ActionSci-Fi
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Army of Darkness (1993),4.5,M,ActionAdventureComedyFantasyHorror
+Harold and Maude (1971),4.5,M,ComedyDramaRomance
+Evil Dead II (Dead by Dawn) (1987),4.5,M,ActionComedyFantasyHorror
+Starship Troopers (1997),4.5,M,ActionSci-Fi
+Jackie Brown (1997),4.5,M,CrimeDramaThriller
+American History X (1998),4.5,M,CrimeDrama
+Babe: Pig in the City (1998),4.5,M,AdventureChildrenDrama
+Dog Day Afternoon (1975),4.5,M,CrimeDrama
+Predator (1987),4.5,M,ActionSci-FiThriller
+Almost Famous (2000),4.5,M,Drama
+Requiem for a Dream (2000),4.5,M,Drama
+They Live (1988),4.5,M,ActionSci-FiThriller
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Battle Royale (Batoru rowaiaru) (2000),4.5,M,ActionDramaHorrorThriller
+Dawn of the Dead (1978),4.5,M,ActionDramaHorror
+Riki-Oh: The Story of Ricky (Lik Wong) (1991),4.5,M,ActionCrimeThriller
+Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003),4.5,M,ComedyCrimeDramaHorrorMystery
+Sin City (2005),4.5,M,ActionCrimeFilm-NoirMysteryThriller
+Brick (2005),4.5,M,CrimeDramaFilm-NoirMystery
+Crank (2006),4.5,M,ActionThriller
+Planet Terror (2007),4.5,M,ActionHorrorSci-Fi
+Elite Squad (Tropa de Elite) (2007),4.5,M,ActionCrimeDramaThriller
+Pineapple Express (2008),4.5,M,ActionComedyCrime
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+Source Code (2011),4.5,M,ActionDramaMysterySci-FiThriller
+Awakenings (1990),4.5,M,DramaMystery
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Indiana Jones and the Last Crusade (1989),4.5,M,ActionAdventure
+Children of Men (2006),4.5,M,ActionAdventureDramaSci-FiThriller
+There Will Be Blood (2007),4.5,M,DramaWestern
+Tropic Thunder (2008),4.5,M,ActionAdventureComedyWar
+Moon (2009),4.5,M,DramaMysterySci-FiThriller
+Edge of Tomorrow (2014),4.5,M,ActionSci-FiIMAX
+Birdman: Or (The Unexpected Virtue of Ignorance) (2014),4.5,M,ComedyDrama
+John Wick (2014),4.5,M,ActionThriller
+Nightcrawler (2014),4.5,M,CrimeDramaThriller
+Mad Max: Fury Road (2015),4.5,M,ActionAdventureSci-FiThriller
+Now and Then (1995),4.5,M,ChildrenDrama
+Before Sunrise (1995),4.5,M,DramaRomance
+Jerry Maguire (1996),4.5,M,DramaRomance
+Stepmom (1998),4.5,M,Drama
+My Girl (1991),4.5,M,ComedyDramaRomance
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Man on Fire (2004),4.5,M,ActionCrimeDramaMysteryThriller
+Pride and Prejudice (1995),4.5,M,DramaRomance
+Oliver Twist (1948),4.5,M,AdventureCrimeDrama
+Before Sunset (2004),4.5,M,DramaRomance
+Friday Night Lights (2004),4.5,M,ActionDrama
+Crash (2004),4.5,M,CrimeDrama
+Lords of Dogtown (2005),4.5,M,ActionComedyDrama
+Blood Diamond (2006),4.5,M,ActionAdventureCrimeDramaThrillerWar
+Atonement (2007),4.5,M,DramaRomanceWar
+Into the Wild (2007),4.5,M,ActionAdventureDrama
+21 (2008),4.5,M,CrimeDramaRomanceThriller
+Pineapple Express (2008),4.5,M,ActionComedyCrime
+Nick and Norah's Infinite Playlist (2008),4.5,M,ComedyDramaRomance
+Slumdog Millionaire (2008),4.5,M,CrimeDramaRomance
+17 Again (2009),4.5,M,ComedyDrama
+Dangerous Minds (1995),4.5,M,Drama
+Apollo 13 (1995),4.5,M,AdventureDramaIMAX
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Terminator 2: Judgment Day (1991),4.5,M,ActionSci-Fi
+12 Angry Men (1957),4.5,M,Drama
+Apocalypse Now (1979),4.5,M,ActionDramaWar
+Goodfellas (1990),4.5,M,CrimeDrama
+Donnie Brasco (1997),4.5,M,CrimeDrama
+Austin Powers: International Man of Mystery (1997),4.5,M,ActionAdventureComedy
+Contact (1997),4.5,M,DramaSci-Fi
+Good Will Hunting (1997),4.5,M,DramaRomance
+Rain Man (1988),4.5,M,Drama
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Rounders (1998),4.5,M,Drama
+American History X (1998),4.5,M,CrimeDrama
+Crocodile Dundee II (1988),4.5,M,ActionAdventureComedy
+Ghostbusters (a.k.a. Ghost Busters) (1984),4.5,M,ActionComedySci-Fi
+Big (1988),4.5,M,ComedyDramaFantasyRomance
+American Beauty (1999),4.5,M,DramaRomance
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Being John Malkovich (1999),4.5,M,ComedyDramaFantasy
+Dog Day Afternoon (1975),4.5,M,CrimeDrama
+Requiem for a Dream (2000),4.5,M,Drama
+Wall Street (1987),4.5,M,Drama
+Pollock (2000),4.5,M,Drama
+Scarface (1983),4.5,M,ActionCrimeDrama
+Training Day (2001),4.5,M,CrimeDramaThriller
+Waking Life (2001),4.5,M,AnimationDramaFantasy
+Gangs of New York (2002),4.5,M,CrimeDrama
+Capote (2005),4.5,M,CrimeDrama
+Brokeback Mountain (2005),4.5,M,DramaRomance
+Stranger than Fiction (2006),4.5,M,ComedyDramaFantasyRomance
+Blood Diamond (2006),4.5,M,ActionAdventureCrimeDramaThrillerWar
+Letters from Iwo Jima (2006),4.5,M,DramaWar
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+The Revenant (2015),4.5,M,AdventureDrama
+Heat (1995),4.5,M,ActionCrimeThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Philadelphia (1993),4.5,M,Drama
+Die Hard (1988),4.5,M,ActionCrimeThriller
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Being John Malkovich (1999),4.5,M,ComedyDramaFantasy
+Misery (1990),4.5,M,DramaHorrorThriller
+Unbreakable (2000),4.5,M,DramaSci-Fi
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Pi (1998),4.5,M,DramaSci-FiThriller
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Frida (2002),4.5,M,DramaRomance
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Independence Day (a.k.a. ID4) (1996),4.5,M,ActionAdventureSci-FiThriller
+E.T. the Extra-Terrestrial (1982),4.5,M,ChildrenDramaSci-Fi
+To Kill a Mockingbird (1962),4.5,M,Drama
+Indiana Jones and the Last Crusade (1989),4.5,M,ActionAdventure
+Lethal Weapon (1987),4.5,M,ActionComedyCrimeDrama
+October Sky (1999),4.5,M,Drama
+Live and Let Die (1973),4.5,M,ActionAdventureThriller
+Magnum Force (1973),4.5,M,ActionCrimeDramaThriller
+Kelly's Heroes (1970),4.5,M,ActionComedyWar
+Where Eagles Dare (1968),4.5,M,ActionAdventureWar
+Transformers (2007),4.5,M,ActionSci-FiThrillerIMAX
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Iron Man 2 (2010),4.5,M,ActionAdventureSci-FiThrillerIMAX
+X-Men: First Class (2011),4.5,M,ActionAdventureSci-FiThrillerWar
+The Hunger Games (2012),4.5,M,ActionAdventureDramaSci-FiThriller
+Sherlock Holmes: A Game of Shadows (2011),4.5,M,ActionAdventureComedyCrimeMysteryThriller
+The Hunger Games: Catching Fire (2013),4.5,M,ActionAdventureSci-FiIMAX
+Guardians of the Galaxy (2014),4.5,M,ActionAdventureSci-Fi
+Goodfellas (1990),4.5,M,CrimeDrama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Schindler's List (1993),4.5,M,DramaWar
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Whiplash (2014),4.5,M,Drama
+Dead Man Walking (1995),4.5,M,CrimeDrama
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Schindler's List (1993),4.5,M,DramaWar
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+Amadeus (1984),4.5,M,Drama
+Face/Off (1997),4.5,M,ActionCrimeDramaThriller
+As Good as It Gets (1997),4.5,M,ComedyDramaRomance
+Rain Man (1988),4.5,M,Drama
+American History X (1998),4.5,M,CrimeDrama
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Million Dollar Baby (2004),4.5,M,Drama
+There Will Be Blood (2007),4.5,M,DramaWestern
+Casino (1995),4.5,M,CrimeDrama
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Schindler's List (1993),4.5,M,DramaWar
+Tombstone (1993),4.5,M,ActionDramaWestern
+Chasing Amy (1997),4.5,M,ComedyDramaRomance
+The Count of Monte Cristo (2002),4.5,M,ActionAdventureDramaThriller
+Finding Neverland (2004),4.5,M,Drama
+Sin City (2005),4.5,M,ActionCrimeFilm-NoirMysteryThriller
+MirrorMask (2005),4.5,M,AdventureChildrenDramaFantasy
+Walk the Line (2005),4.5,M,DramaMusicalRomance
+Memoirs of a Geisha (2005),4.5,M,DramaRomance
+Blood Diamond (2006),4.5,M,ActionAdventureCrimeDramaThrillerWar
+Fracture (2007),4.5,M,CrimeDramaMysteryThriller
+Mr. Brooks (2007),4.5,M,CrimeDramaThriller
+Charlie Bartlett (2007),4.5,M,ComedyDrama
+3:10 to Yuma (2007),4.5,M,ActionCrimeDramaWestern
+American Gangster (2007),4.5,M,CrimeDramaThriller
+No Country for Old Men (2007),4.5,M,CrimeDrama
+Juno (2007),4.5,M,ComedyDramaRomance
+Sweeney Todd: The Demon Barber of Fleet Street (2007),4.5,M,DramaHorrorMusicalThriller
+Say Anything... (1989),4.5,M,ComedyDramaRomance
+Cat on a Hot Tin Roof (1958),4.5,M,Drama
+Shall We Dance? (Shall We Dansu?) (1996),4.5,M,ComedyDramaRomance
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Who's Afraid of Virginia Woolf? (1966),4.5,M,Drama
+Life Is Beautiful (La Vita è bella) (1997),4.5,M,ComedyDramaRomanceWar
+Enemy of the State (1998),4.5,M,ActionThriller
+Witness for the Prosecution (1957),4.5,M,DramaMysteryThriller
+High Sierra (1941),4.5,M,CrimeDramaFilm-NoirThriller
+To Die For (1995),4.5,M,ComedyDramaThriller
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+American Beauty (1999),4.5,M,DramaRomance
+Hotel Rwanda (2004),4.5,M,DramaWar
+Little Miss Sunshine (2006),4.5,M,AdventureComedyDrama
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Schindler's List (1993),4.5,M,DramaWar
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Birdman: Or (The Unexpected Virtue of Ignorance) (2014),4.5,M,ComedyDrama
+The Imitation Game (2014),4.5,M,DramaThrillerWar
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Schindler's List (1993),4.5,M,DramaWar
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+Dead Poets Society (1989),4.5,M,Drama
+American History X (1998),4.5,M,CrimeDrama
+Requiem for a Dream (2000),4.5,M,Drama
+Rabbit-Proof Fence (2002),4.5,M,AdventureDrama
+Igby Goes Down (2002),4.5,M,ComedyDrama
+Monster (2003),4.5,M,CrimeDrama
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Ray (2004),4.5,M,Drama
+Bad Education (La mala educación) (2004),4.5,M,DramaThriller
+Knockin' on Heaven's Door (1997),4.5,M,ActionComedyCrimeDrama
+Cinderella Man (2005),4.5,M,DramaRomance
+Joyeux Noël (Merry Christmas) (2005),4.5,M,DramaWar
+Munich (2005),4.5,M,ActionCrimeDramaThriller
+Babel (2006),4.5,M,DramaThriller
+Children of Men (2006),4.5,M,ActionAdventureDramaSci-FiThriller
+Letters from Iwo Jima (2006),4.5,M,DramaWar
+Elite Squad (Tropa de Elite) (2007),4.5,M,ActionCrimeDramaThriller
+No Country for Old Men (2007),4.5,M,CrimeDrama
+In Bruges (2008),4.5,M,ComedyCrimeDramaThriller
+Slumdog Millionaire (2008),4.5,M,CrimeDramaRomance
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+127 Hours (2010),4.5,M,AdventureDramaThriller
+Elite Squad: The Enemy Within (Tropa de Elite 2 - O Inimigo Agora É Outro) (2010),4.5,M,ActionCrimeDrama
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Captain Phillips (2013),4.5,M,AdventureDramaThrillerIMAX
+12 Years a Slave (2013),4.5,M,Drama
+The Imitation Game (2014),4.5,M,DramaThrillerWar
+In the Heart of the Sea (2015),4.5,M,ActionAdventureDrama
+Apollo 13 (1995),4.5,M,AdventureDramaIMAX
+Goodfellas (1990),4.5,M,CrimeDrama
+American History X (1998),4.5,M,CrimeDrama
+Goodfellas (1990),4.5,M,CrimeDrama
+Mars Attacks! (1996),4.5,M,ActionComedySci-Fi
+Miracle on 34th Street (1947),4.5,M,ComedyDrama
+Superman II (1980),4.5,M,ActionSci-Fi
+No Country for Old Men (2007),4.5,M,CrimeDrama
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Up (2009),4.5,M,AdventureAnimationChildrenDrama
+Trainspotting (1996),4.5,M,ComedyCrimeDrama
+Leaving Las Vegas (1995),4.5,M,DramaRomance
+Interview with the Vampire: The Vampire Chronicles (1994),4.5,M,DramaHorror
+Stargate (1994),4.5,M,ActionAdventureSci-Fi
+Welcome to the Dollhouse (1995),4.5,M,ComedyDrama
+Amadeus (1984),4.5,M,Drama
+Dead Poets Society (1989),4.5,M,Drama
+Unforgiven (1992),4.5,M,DramaWestern
+Chasing Amy (1997),4.5,M,ComedyDramaRomance
+American Beauty (1999),4.5,M,DramaRomance
+Being John Malkovich (1999),4.5,M,ComedyDramaFantasy
+Requiem for a Dream (2000),4.5,M,Drama
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Gosford Park (2001),4.5,M,ComedyDramaMystery
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Almost Famous (2000),4.5,M,Drama
+Gangs of New York (2002),4.5,M,CrimeDrama
+Garden State (2004),4.5,M,ComedyDramaRomance
+Casino Royale (2006),4.5,M,ActionAdventureThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Dances with Wolves (1990),4.5,M,AdventureDramaWestern
+Casablanca (1942),4.5,M,DramaRomance
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),4.5,M,DramaFilm-NoirRomance
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Lawrence of Arabia (1962),4.5,M,AdventureDramaWar
+Amadeus (1984),4.5,M,Drama
+Seven Samurai (Shichinin no samurai) (1954),4.5,M,ActionAdventureDrama
+American Beauty (1999),4.5,M,DramaRomance
+Sanjuro (Tsubaki Sanjûrô) (1962),4.5,M,ActionAdventureDrama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Yojimbo (1961),4.5,M,ActionAdventure
+Kagemusha (1980),4.5,M,DramaWar
+Magnolia (1999),4.5,M,Drama
+Five Easy Pieces (1970),4.5,M,Drama
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Master and Commander: The Far Side of the World (2003),4.5,M,AdventureDramaWar
+Hero (Ying xiong) (2002),4.5,M,ActionAdventureDrama
+Crash (2004),4.5,M,CrimeDrama
+True Lies (1994),4.5,M,ActionAdventureComedyRomanceThriller
+Independence Day (a.k.a. ID4) (1996),4.5,M,ActionAdventureSci-FiThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Primal Fear (1996),4.5,M,CrimeDramaMysteryThriller
+Dead Poets Society (1989),4.5,M,Drama
+Tomorrow Never Dies (1997),4.5,M,ActionAdventureThriller
+American History X (1998),4.5,M,CrimeDrama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Mission: Impossible II (2000),4.5,M,ActionAdventureThriller
+Cinderella Man (2005),4.5,M,DramaRomance
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Casino (1995),4.5,M,CrimeDrama
+Stalingrad (1993),4.5,M,DramaWar
+North by Northwest (1959),4.5,M,ActionAdventureMysteryRomanceThriller
+Paths of Glory (1957),4.5,M,DramaWar
+Goodfellas (1990),4.5,M,CrimeDrama
+Patton (1970),4.5,M,DramaWar
+In the Company of Men (1997),4.5,M,ComedyDrama
+Magnolia (1999),4.5,M,Drama
+Wall Street (1987),4.5,M,Drama
+Enemy at the Gates (2001),4.5,M,DramaWar
+Scarface (1983),4.5,M,ActionCrimeDrama
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Black Hawk Down (2001),4.5,M,ActionDramaWar
+Secretary (2002),4.5,M,ComedyDramaRomance
+Johnny English (2003),4.5,M,ActionComedyThriller
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Escape from Alcatraz (1979),4.5,M,DramaThriller
+Super Size Me (2004),4.5,M,ComedyDocumentaryDrama
+Kingdom of Heaven (2005),4.5,M,ActionDramaRomanceWar
+Capote (2005),4.5,M,CrimeDrama
+Brokeback Mountain (2005),4.5,M,DramaRomance
+United 93 (2006),4.5,M,CrimeDrama
+Letters from Iwo Jima (2006),4.5,M,DramaWar
+Michael Clayton (2007),4.5,M,DramaThriller
+I Am Legend (2007),4.5,M,ActionHorrorSci-FiThrillerIMAX
+Assembly (Ji jie hao) (2007) ,4.5,M,ActionDramaWar
+Seven Pounds (2008),4.5,M,Drama
+Defiance (2008),4.5,M,DramaThrillerWar
+Up in the Air (2009),4.5,M,DramaRomance
+Repo Men (2010),4.5,M,ActionSci-FiThriller
+Jackass 3D (2010),4.5,M,ActionComedyDocumentary
+Moneyball (2011),4.5,M,Drama
+The Artist (2011),4.5,M,ComedyDramaRomance
+Intouchables (2011),4.5,M,ComedyDrama
+Prisoners (2013),4.5,M,DramaMysteryThriller
+Captain Phillips (2013),4.5,M,AdventureDramaThrillerIMAX
+All Is Lost (2013),4.5,M,ActionAdventureDrama
+Boyhood (2014),4.5,M,Drama
+The Pacific (2010),4.5,M,ActionAdventureDramaWar
+The Martian (2015),4.5,M,AdventureDramaSci-Fi
+The Founder (2016),4.5,M,Drama
+Braveheart (1995),4.5,M,ActionDramaWar
+Twister (1996),4.5,M,ActionAdventureRomanceThriller
+Wild Wild West (1999),4.5,M,ActionComedySci-FiWestern
+Princess Mononoke (Mononoke-hime) (1997),4.5,M,ActionAdventureAnimationDramaFantasy
+Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),4.5,M,ActionComedySci-Fi
+Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),4.5,M,AdventureAnimationDramaFantasySci-Fi
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+28 Days (2000),4.5,M,Drama
+All That Heaven Allows (1955),4.5,M,DramaRomance
+84 Charing Cross Road (1987),4.5,M,DramaRomance
+AVP: Alien vs. Predator (2004),4.5,M,ActionHorrorSci-FiThriller
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Goodfellas (1990),4.5,M,CrimeDrama
+Blues Brothers 2000 (1998),4.5,M,ActionComedyMusical
+Dick Tracy (1990),4.5,M,ActionCrime
+All About My Mother (Todo sobre mi madre) (1999),4.5,M,Drama
+Rashomon (Rashômon) (1950),4.5,M,CrimeDramaMystery
+21 Grams (2003),4.5,M,CrimeDramaMysteryRomanceThriller
+Collateral (2004),4.5,M,ActionCrimeDramaThriller
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Trainspotting (1996),4.5,M,ComedyCrimeDrama
+Good Will Hunting (1997),4.5,M,DramaRomance
+Rounders (1998),4.5,M,Drama
+The Butterfly Effect (2004),4.5,M,DramaSci-FiThriller
+Atonement (2007),4.5,M,DramaRomanceWar
+Eastern Promises (2007),4.5,M,CrimeDramaThriller
+Rise of the Footsoldier (2007),4.5,M,ActionCrimeDrama
+Taken (2008),4.5,M,ActionCrimeDramaThriller
+Black Swan (2010),4.5,M,DramaThriller
+Blade Runner (1982),4.5,M,ActionSci-FiThriller
+Alien: Resurrection (1997),4.5,M,ActionHorrorSci-Fi
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+American History X (1998),4.5,M,CrimeDrama
+Star Trek: Insurrection (1998),4.5,M,ActionDramaRomanceSci-Fi
+Chocolat (2000),4.5,M,DramaRomance
+Traffic (2000),4.5,M,CrimeDramaThriller
+Mystic River (2003),4.5,M,CrimeDramaMystery
+Zodiac (2007),4.5,M,CrimeDramaThriller
+Cloverfield (2008),4.5,M,ActionMysterySci-FiThriller
+Body of Lies (2008),4.5,M,ActionDramaThriller
+127 Hours (2010),4.5,M,AdventureDramaThriller
+Hugo (2011),4.5,M,ChildrenDramaMystery
+Prometheus (2012),4.5,M,ActionHorrorSci-FiIMAX
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Oblivion (2013),4.5,M,ActionAdventureSci-FiIMAX
+Star Trek Into Darkness (2013),4.5,M,ActionAdventureSci-FiIMAX
+Ender's Game (2013),4.5,M,ActionAdventureSci-FiIMAX
+Snowpiercer (2013),4.5,M,ActionDramaSci-Fi
+Predestination (2014),4.5,M,ActionMysterySci-FiThriller
+Fury (2014),4.5,M,ActionDramaWar
+Big Hero 6 (2014),4.5,M,ActionAnimationComedy
+Ex Machina (2015),4.5,M,DramaSci-FiThriller
+Rogue One: A Star Wars Story (2016),4.5,M,ActionAdventureFantasySci-Fi
+From Dusk Till Dawn (1996),4.5,M,ActionComedyHorrorThriller
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Terminator 2: Judgment Day (1991),4.5,M,ActionSci-Fi
+Amadeus (1984),4.5,M,Drama
+Starship Troopers (1997),4.5,M,ActionSci-Fi
+Ronin (1998),4.5,M,ActionCrimeThriller
+Life Is Beautiful (La Vita è bella) (1997),4.5,M,ComedyDramaRomanceWar
+American History X (1998),4.5,M,CrimeDrama
+Cruel Intentions (1999),4.5,M,Drama
+Run Lola Run (Lola rennt) (1998),4.5,M,ActionCrime
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+RoboCop (1987),4.5,M,ActionCrimeDramaSci-FiThriller
+Blow (2001),4.5,M,CrimeDrama
+Scarface (1983),4.5,M,ActionCrimeDrama
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Big Fish (2003),4.5,M,DramaFantasyRomance
+Crash (2004),4.5,M,CrimeDrama
+Casino Royale (2006),4.5,M,ActionAdventureThriller
+Transformers (2007),4.5,M,ActionSci-FiThrillerIMAX
+Mr. Holland's Opus (1995),4.5,M,Drama
+What's Eating Gilbert Grape (1993),4.5,M,Drama
+Blade Runner (1982),4.5,M,ActionSci-FiThriller
+Tombstone (1993),4.5,M,ActionDramaWestern
+Breakfast at Tiffany's (1961),4.5,M,DramaRomance
+Roman Holiday (1953),4.5,M,ComedyDramaRomance
+Full Metal Jacket (1987),4.5,M,DramaWar
+Harold and Maude (1971),4.5,M,ComedyDramaRomance
+Indiana Jones and the Last Crusade (1989),4.5,M,ActionAdventure
+Gattaca (1997),4.5,M,DramaSci-FiThriller
+Good Will Hunting (1997),4.5,M,DramaRomance
+St. Elmo's Fire (1985),4.5,M,DramaRomance
+Say Anything... (1989),4.5,M,ComedyDramaRomance
+Fast Times at Ridgemont High (1982),4.5,M,ComedyDramaRomance
+American Graffiti (1973),4.5,M,ComedyDrama
+And Your Mother Too (Y tu mamá también) (2001),4.5,M,DramaRomance
+Igby Goes Down (2002),4.5,M,ComedyDrama
+Secretary (2002),4.5,M,ComedyDramaRomance
+Confessions of a Dangerous Mind (2002),4.5,M,ComedyCrimeDramaThriller
+Walk the Line (2005),4.5,M,DramaMusicalRomance
+Stranger than Fiction (2006),4.5,M,ComedyDramaFantasyRomance
+Shortbus (2006),4.5,M,ComedyDramaRomance
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Eastern Promises (2007),4.5,M,CrimeDramaThriller
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Philadelphia (1993),4.5,M,Drama
+Rudy (1993),4.5,M,Drama
+Primal Fear (1996),4.5,M,CrimeDramaMysteryThriller
+William Shakespeare's Romeo + Juliet (1996),4.5,M,DramaRomance
+Bonnie and Clyde (1967),4.5,M,CrimeDrama
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Fried Green Tomatoes (1991),4.5,M,ComedyCrimeDrama
+Carrie (1976),4.5,M,DramaFantasyHorrorThriller
+Jerry Maguire (1996),4.5,M,DramaRomance
+Evita (1996),4.5,M,DramaMusical
+Can't Hardly Wait (1998),4.5,M,ComedyDramaRomance
+Terms of Endearment (1983),4.5,M,ComedyDrama
+Rain Man (1988),4.5,M,Drama
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Miracle on 34th Street (1947),4.5,M,ComedyDrama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Bridget Jones's Diary (2001),4.5,M,ComedyDramaRomance
+Fiddler on the Roof (1971),4.5,M,DramaMusical
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Chicago (2002),4.5,M,ComedyCrimeDramaMusical
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Garden State (2004),4.5,M,ComedyDramaRomance
+Harry Potter and the Order of the Phoenix (2007),4.5,M,AdventureDramaFantasyIMAX
+Juno (2007),4.5,M,ComedyDramaRomance
+The Hunger Games (2012),4.5,M,ActionAdventureDramaSci-FiThriller
+Schindler's List (1993),4.5,M,DramaWar
+Cinema Paradiso (Nuovo cinema Paradiso) (1989),4.5,M,Drama
+Good Will Hunting (1997),4.5,M,DramaRomance
+Titanic (1997),4.5,M,DramaRomance
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Batman (1989),4.5,M,ActionCrimeThriller
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Full Metal Jacket (1987),4.5,M,DramaWar
+Unforgiven (1992),4.5,M,DramaWestern
+Ben-Hur (1959),4.5,M,ActionAdventureDrama
+On the Waterfront (1954),4.5,M,CrimeDrama
+Rope (1948),4.5,M,CrimeDramaThriller
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Scarface (1983),4.5,M,ActionCrimeDrama
+Mystic River (2003),4.5,M,CrimeDramaMystery
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+Constantine (2005),4.5,M,ActionFantasyHorrorThriller
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+Walk the Line (2005),4.5,M,DramaMusicalRomance
+Zodiac (2007),4.5,M,CrimeDramaThriller
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+The Imitation Game (2014),4.5,M,DramaThrillerWar
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Trainspotting (1996),4.5,M,ComedyCrimeDrama
+Chasing Amy (1997),4.5,M,ComedyDramaRomance
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Hero (Ying xiong) (2002),4.5,M,ActionAdventureDrama
+Pocahontas (1995),4.5,M,AnimationChildrenDramaMusicalRomance
+Fear and Loathing in Las Vegas (1998),4.5,M,AdventureComedyDrama
+Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),4.5,M,ActionAnimationSci-FiThriller
+Kiki's Delivery Service (Majo no takkyûbin) (1989),4.5,M,AdventureAnimationChildrenDramaFantasy
+Constantine (2005),4.5,M,ActionFantasyHorrorThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Patch Adams (1998),4.5,M,ComedyDrama
+GoldenEye (1995),4.5,M,ActionAdventureThriller
+Outbreak (1995),4.5,M,ActionDramaSci-FiThriller
+Schindler's List (1993),4.5,M,DramaWar
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Contact (1997),4.5,M,DramaSci-Fi
+Indiana Jones and the Temple of Doom (1984),4.5,M,ActionAdventureFantasy
+Ronin (1998),4.5,M,ActionCrimeThriller
+Star Wars: Episode I - The Phantom Menace (1999),4.5,M,ActionAdventureSci-Fi
+Ghostbusters (a.k.a. Ghost Busters) (1984),4.5,M,ActionComedySci-Fi
+Patriot Games (1992),4.5,M,ActionCrimeDramaThriller
+Star Wars: Episode II - Attack of the Clones (2002),4.5,M,ActionAdventureSci-FiIMAX
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Skyfall (2012),4.5,M,ActionAdventureThrillerIMAX
+Escape from L.A. (1996),4.5,M,ActionAdventureSci-FiThriller
+All About Eve (1950),4.5,M,Drama
+Cinema Paradiso (Nuovo cinema Paradiso) (1989),4.5,M,Drama
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+8 1/2 (8½) (1963),4.5,M,DramaFantasy
+Austin Powers: International Man of Mystery (1997),4.5,M,ActionAdventureComedy
+All the King's Men (1949),4.5,M,Drama
+Babe: Pig in the City (1998),4.5,M,AdventureChildrenDrama
+American Beauty (1999),4.5,M,DramaRomance
+Altered States (1980),4.5,M,DramaSci-Fi
+Akira Kurosawa's Dreams (Dreams) (1990),4.5,M,DramaFantasy
+The Alamo (2004),4.5,M,DramaWarWestern
+Aelita: The Queen of Mars (Aelita) (1924),4.5,M,ActionAdventureDramaFantasyRomanceSci-FiThriller
+Avatar (2009),4.5,M,ActionAdventureSci-FiIMAX
+Red (2010),4.5,M,ActionComedy
+Mr. Holland's Opus (1995),4.5,M,Drama
+Good Will Hunting (1997),4.5,M,DramaRomance
+My Life in Pink (Ma vie en rose) (1997),4.5,M,ComedyDrama
+Rain Man (1988),4.5,M,Drama
+Ever After: A Cinderella Story (1998),4.5,M,ComedyDramaRomance
+Enemy of the State (1998),4.5,M,ActionThriller
+Waking Life (2001),4.5,M,AnimationDramaFantasy
+The Count of Monte Cristo (2002),4.5,M,ActionAdventureDramaThriller
+Bend It Like Beckham (2002),4.5,M,ComedyDramaRomance
+Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),4.5,M,AdventureAnimationDramaFantasySci-Fi
+House of Sand and Fog (2003),4.5,M,Drama
+Saved! (2004),4.5,M,ComedyDrama
+Rory O'Shea Was Here (Inside I'm Dancing) (2004),4.5,M,Drama
+Night Watch (Nochnoy dozor) (2004),4.5,M,ActionFantasyHorrorMysterySci-FiThriller
+Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005),4.5,M,DramaWar
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+Blood Diamond (2006),4.5,M,ActionAdventureCrimeDramaThrillerWar
+Harry Potter and the Order of the Phoenix (2007),4.5,M,AdventureDramaFantasyIMAX
+Sweeney Todd: The Demon Barber of Fleet Street (2007),4.5,M,DramaHorrorMusicalThriller
+Slumdog Millionaire (2008),4.5,M,CrimeDramaRomance
+Up (2009),4.5,M,AdventureAnimationChildrenDrama
+Avatar (2009),4.5,M,ActionAdventureSci-FiIMAX
+Three Colors: Blue (Trois couleurs: Bleu) (1993),4.5,M,Drama
+Schindler's List (1993),4.5,M,DramaWar
+As Good as It Gets (1997),4.5,M,ComedyDramaRomance
+Fear and Loathing in Las Vegas (1998),4.5,M,AdventureComedyDrama
+Blue Velvet (1986),4.5,M,DramaMysteryThriller
+Children of a Lesser God (1986),4.5,M,Drama
+Chocolat (2000),4.5,M,DramaRomance
+City of God (Cidade de Deus) (2002),4.5,M,ActionAdventureCrimeDramaThriller
+Big Fish (2003),4.5,M,DramaFantasyRomance
+The Butterfly Effect (2004),4.5,M,DramaSci-FiThriller
+Dogville (2003),4.5,M,DramaMysteryThriller
+Pride and Prejudice (1995),4.5,M,DramaRomance
+Broken Flowers (2005),4.5,M,ComedyDrama
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Star Trek Into Darkness (2013),4.5,M,ActionAdventureSci-FiIMAX
+Vertigo (1958),4.5,M,DramaMysteryRomanceThriller
+American History X (1998),4.5,M,CrimeDrama
+Eat Drink Man Woman (Yin shi nan nu) (1994),4.5,M,ComedyDramaRomance
+Hannah and Her Sisters (1986),4.5,M,ComedyDramaRomance
+That Thing You Do! (1996),4.5,M,ComedyDrama
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.5,M,ActionAdventure
+Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),4.5,M,AdventureAnimationDramaFantasySci-Fi
+Sweeney Todd: The Demon Barber of Fleet Street (2007),4.5,M,DramaHorrorMusicalThriller
+Megamind (2010),4.5,M,ActionAnimationChildrenComedySci-FiIMAX
+Guardians of the Galaxy 2 (2017),4.5,M,ActionAdventureSci-Fi
+Goodfellas (1990),4.5,M,CrimeDrama
+Indiana Jones and the Last Crusade (1989),4.5,M,ActionAdventure
+American History X (1998),4.5,M,CrimeDrama
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Burn After Reading (2008),4.5,M,ComedyCrimeDrama
+Taxi Driver (1976),4.5,M,CrimeDramaThriller
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Blade Runner (1982),4.5,M,ActionSci-FiThriller
+Goodfellas (1990),4.5,M,CrimeDrama
+Full Metal Jacket (1987),4.5,M,DramaWar
+Fear and Loathing in Las Vegas (1998),4.5,M,AdventureComedyDrama
+Blue Velvet (1986),4.5,M,DramaMysteryThriller
+Easy Rider (1969),4.5,M,AdventureDrama
+In the Mood For Love (Fa yeung nin wa) (2000),4.5,M,DramaRomance
+Mulholland Drive (2001),4.5,M,CrimeDramaFilm-NoirMysteryThriller
+Dogville (2003),4.5,M,DramaMysteryThriller
+Into the Wild (2007),4.5,M,ActionAdventureDrama
+No Country for Old Men (2007),4.5,M,CrimeDrama
+Tetro (2009),4.5,M,DramaMystery
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+GoldenEye (1995),4.5,M,ActionAdventureThriller
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Collateral (2004),4.5,M,ActionCrimeDramaThriller
+Rush Hour 3 (2007),4.5,M,ActionComedyCrimeThriller
+Taken (2008),4.5,M,ActionCrimeDramaThriller
+Man of Steel (2013),4.5,M,ActionAdventureFantasySci-FiIMAX
+Goodfellas (1990),4.5,M,CrimeDrama
+Cast Away (2000),4.5,M,Drama
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Ararat (2002),4.5,M,DramaWar
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+American Splendor (2003),4.5,M,ComedyDrama
+Lost in Translation (2003),4.5,M,ComedyDramaRomance
+Shattered Glass (2003),4.5,M,CrimeDrama
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Big Fish (2003),4.5,M,DramaFantasyRomance
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Crossroads (1986),4.5,M,Drama
+Spider-Man 2 (2004),4.5,M,ActionAdventureSci-FiIMAX
+The Machinist (2004),4.5,M,DramaMysteryThriller
+Million Dollar Baby (2004),4.5,M,Drama
+Hotel Rwanda (2004),4.5,M,DramaWar
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+Proof (2005),4.5,M,Drama
+Thank You for Smoking (2006),4.5,M,ComedyDrama
+Little Miss Sunshine (2006),4.5,M,AdventureComedyDrama
+No Country for Old Men (2007),4.5,M,CrimeDrama
+In Bruges (2008),4.5,M,ComedyCrimeDramaThriller
+Son of Rambow (2007),4.5,M,ChildrenComedyDrama
+Nick and Norah's Infinite Playlist (2008),4.5,M,ComedyDramaRomance
+Moon (2009),4.5,M,DramaMysterySci-FiThriller
+Up in the Air (2009),4.5,M,DramaRomance
+Winter's Bone (2010),4.5,M,DramaThriller
+Moneyball (2011),4.5,M,Drama
+Moonrise Kingdom (2012),4.5,M,ComedyDramaRomance
+Looper (2012),4.5,M,ActionCrimeSci-Fi
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Inside Llewyn Davis (2013),4.5,M,Drama
+Ex Machina (2015),4.5,M,DramaSci-FiThriller
+Copenhagen (2014),4.5,M,AdventureDramaRomance
+Untitled Spider-Man Reboot (2017),4.5,M,ActionAdventureFantasy
+Inside Out (2015),4.5,M,AdventureAnimationChildrenComedyDramaFantasy
+Sicario (2015),4.5,M,CrimeDramaMystery
+Room (2015),4.5,M,Drama
+Joy (2015),4.5,M,ComedyDrama
+Wonder Woman (2017),4.5,M,ActionAdventureFantasy
+Manchester by the Sea (2016),4.5,M,Drama
+The Square (2017),4.5,M,Drama
+Star Wars: The Last Jedi (2017),4.5,M,ActionAdventureFantasySci-Fi
+Tank Girl (1995),4.5,M,ActionComedySci-Fi
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Secretary (2002),4.5,M,ComedyDramaRomance
+Outbreak (1995),4.5,M,ActionDramaSci-FiThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Independence Day (a.k.a. ID4) (1996),4.5,M,ActionAdventureSci-FiThriller
+Die Hard (1988),4.5,M,ActionCrimeThriller
+Full Metal Jacket (1987),4.5,M,DramaWar
+American History X (1998),4.5,M,CrimeDrama
+Deep Blue Sea (1999),4.5,M,ActionHorrorSci-FiThriller
+Cast Away (2000),4.5,M,Drama
+Scarface (1983),4.5,M,ActionCrimeDrama
+Pearl Harbor (2001),4.5,M,ActionDramaRomanceWar
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Troy (2004),4.5,M,ActionAdventureDramaWar
+Open Water (2003),4.5,M,DramaThriller
+Munich (2005),4.5,M,ActionCrimeDramaThriller
+Stranger than Fiction (2006),4.5,M,ComedyDramaFantasyRomance
+Schindler's List (1993),4.5,M,DramaWar
+Austin Powers: International Man of Mystery (1997),4.5,M,ActionAdventureComedy
+Austin Powers: The Spy Who Shagged Me (1999),4.5,M,ActionAdventureComedy
+Moulin Rouge (2001),4.5,M,DramaMusicalRomance
+Super Size Me (2004),4.5,M,ComedyDocumentaryDrama
+Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005),4.5,M,DramaWar
+Hard Candy (2005),4.5,M,DramaThriller
+Juno (2007),4.5,M,ComedyDramaRomance
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Kids (1995),4.5,M,Drama
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Lost Highway (1997),4.5,M,CrimeDramaFantasyFilm-NoirMysteryRomance
+Rosemary's Baby (1968),4.5,M,DramaHorrorThriller
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Singles (1992),4.5,M,ComedyDramaRomance
+Bully (2001),4.5,M,CrimeDramaThriller
+Mystic River (2003),4.5,M,CrimeDramaMystery
+The Machinist (2004),4.5,M,DramaMysteryThriller
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Ex Machina (2015),4.5,M,DramaSci-FiThriller
+Clockers (1995),4.5,M,CrimeDramaMystery
+Varsity Blues (1999),4.5,M,ComedyDrama
+eXistenZ (1999),4.5,M,ActionSci-FiThriller
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Almost Famous (2000),4.5,M,Drama
+Thirteen Days (2000),4.5,M,DramaThrillerWar
+City of God (Cidade de Deus) (2002),4.5,M,ActionAdventureCrimeDramaThriller
+Hotel Rwanda (2004),4.5,M,DramaWar
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+What's Eating Gilbert Grape (1993),4.5,M,Drama
+Sleepless in Seattle (1993),4.5,M,ComedyDramaRomance
+Harry Potter and the Order of the Phoenix (2007),4.5,M,AdventureDramaFantasyIMAX
+Juno (2007),4.5,M,ComedyDramaRomance
+Harry Potter and the Deathly Hallows: Part 2 (2011),4.5,M,ActionAdventureDramaFantasyMysteryIMAX
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Frailty (2001),4.5,M,CrimeDramaThriller
+Road to Perdition (2002),4.5,M,CrimeDrama
+One Hour Photo (2002),4.5,M,DramaThriller
+Leaving Las Vegas (1995),4.5,M,DramaRomance
+First Knight (1995),4.5,M,ActionDramaRomance
+Interview with the Vampire: The Vampire Chronicles (1994),4.5,M,DramaHorror
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+When a Man Loves a Woman (1994),4.5,M,DramaRomance
+Jurassic Park (1993),4.5,M,ActionAdventureSci-FiThriller
+Schindler's List (1993),4.5,M,DramaWar
+Ghost (1990),4.5,M,ComedyDramaFantasyRomanceThriller
+Dances with Wolves (1990),4.5,M,AdventureDramaWestern
+Dead Poets Society (1989),4.5,M,Drama
+Evita (1996),4.5,M,DramaMusical
+Good Will Hunting (1997),4.5,M,DramaRomance
+Rain Man (1988),4.5,M,Drama
+American History X (1998),4.5,M,CrimeDrama
+Patch Adams (1998),4.5,M,ComedyDrama
+Instinct (1999),4.5,M,DramaThriller
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Enemy at the Gates (2001),4.5,M,DramaWar
+Man on Fire (2004),4.5,M,ActionCrimeDramaMysteryThriller
+King Arthur (2004),4.5,M,ActionAdventureDramaWar
+P.S. (2004),4.5,M,ComedyDramaFantasyRomance
+Babel (2006),4.5,M,DramaThriller
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Taken (2008),4.5,M,ActionCrimeDramaThriller
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+Robin Hood (2010),4.5,M,ActionAdventureDramaRomanceWar
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Room in Rome (Habitación en Roma) (2010),4.5,M,DramaRomance
+Trainspotting (1996),4.5,M,ComedyCrimeDrama
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+Enemy of the State (1998),4.5,M,ActionThriller
+Frequency (2000),4.5,M,DramaThriller
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Star Trek (2009),4.5,M,ActionAdventureSci-FiIMAX
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Braveheart (1995),4.5,M,ActionDramaWar
+Schindler's List (1993),4.5,M,DramaWar
+Die Hard 2 (1990),4.5,M,ActionAdventureThriller
+Gattaca (1997),4.5,M,DramaSci-FiThriller
+Good Will Hunting (1997),4.5,M,DramaRomance
+Backdraft (1991),4.5,M,ActionDrama
+Unbreakable (2000),4.5,M,DramaSci-Fi
+Moulin Rouge (2001),4.5,M,DramaMusicalRomance
+Black Hawk Down (2001),4.5,M,ActionDramaWar
+Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),4.5,M,ActionAnimationSci-FiThriller
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Enter the Dragon (1973),4.5,M,ActionCrime
+Spider-Man 2 (2004),4.5,M,ActionAdventureSci-FiIMAX
+Fist of Legend (Jing wu ying xiong) (1994),4.5,M,ActionDrama
+Ong-Bak: The Thai Warrior (Ong Bak) (2003),4.5,M,ActionThriller
+Crash (2004),4.5,M,CrimeDrama
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+Syriana (2005),4.5,M,DramaThriller
+Schindler's List (1993),4.5,M,DramaWar
+Die Hard (1988),4.5,M,ActionCrimeThriller
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.5,M,ActionAdventure
+Cast Away (2000),4.5,M,Drama
+2001: A Space Odyssey (1968),4.5,M,AdventureDramaSci-Fi
+Harold and Maude (1971),4.5,M,ComedyDramaRomance
+American Graffiti (1973),4.5,M,ComedyDrama
+Close Encounters of the Third Kind (1977),4.5,M,AdventureDramaSci-Fi
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+GoldenEye (1995),4.5,M,ActionAdventureThriller
+Star Wars: Episode I - The Phantom Menace (1999),4.5,M,ActionAdventureSci-Fi
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Star Trek (2009),4.5,M,ActionAdventureSci-FiIMAX
+Star Wars: Episode VII - The Force Awakens (2015),4.5,M,ActionAdventureFantasySci-FiIMAX
+Braveheart (1995),4.5,M,ActionDramaWar
+Life Is Beautiful (La Vita è bella) (1997),4.5,M,ComedyDramaRomanceWar
+Talk to Her (Hable con Ella) (2002),4.5,M,DramaRomance
+Gran Torino (2008),4.5,M,CrimeDrama
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Whiplash (2014),4.5,M,Drama
+Casablanca (1942),4.5,M,DramaRomance
+Citizen Kane (1941),4.5,M,DramaMystery
+Chasing Amy (1997),4.5,M,ComedyDramaRomance
+Austin Powers: The Spy Who Shagged Me (1999),4.5,M,ActionAdventureComedy
+Goldfinger (1964),4.5,M,ActionAdventureThriller
+From Russia with Love (1963),4.5,M,ActionAdventureThriller
+RoboCop (1987),4.5,M,ActionCrimeDramaSci-FiThriller
+For Your Eyes Only (1981),4.5,M,ActionAdventureThriller
+Licence to Kill (1989),4.5,M,ActionAdventureThriller
+Thunderball (1965),4.5,M,ActionAdventureThriller
+F/X (1986),4.5,M,ActionCrimeThriller
+Scarface (1983),4.5,M,ActionCrimeDrama
+Gangs of New York (2002),4.5,M,CrimeDrama
+Team America: World Police (2004),4.5,M,ActionAdventureAnimationComedy
+Million Dollar Baby (2004),4.5,M,Drama
+Casino Royale (2006),4.5,M,ActionAdventureThriller
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Zack and Miri Make a Porno (2008),4.5,M,ComedyDramaRomance
+It's Kind of a Funny Story (2010),4.5,M,ComedyDrama
+21 Jump Street (2012),4.5,M,ActionComedyCrime
+Nebraska (2013),4.5,M,AdventureDrama
+Captain Phillips (2013),4.5,M,AdventureDramaThrillerIMAX
+Philomena (2013),4.5,M,ComedyDrama
+Whiplash (2014),4.5,M,Drama
+American History X (1998),4.5,M,CrimeDrama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Terminator 3: Rise of the Machines (2003),4.5,M,ActionAdventureSci-Fi
+Rosemary's Baby (1968),4.5,M,DramaHorrorThriller
+Rushmore (1998),4.5,M,ComedyDrama
+Boys Don't Cry (1999),4.5,M,Drama
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Apollo 13 (1995),4.5,M,AdventureDramaIMAX
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Cast Away (2000),4.5,M,Drama
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Whale Rider (2002),4.5,M,Drama
+Hotel Rwanda (2004),4.5,M,DramaWar
+Inside Man (2006),4.5,M,CrimeDramaThriller
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Juno (2007),4.5,M,ComedyDramaRomance
+Slumdog Millionaire (2008),4.5,M,CrimeDramaRomance
+Dr. Horrible's Sing-Along Blog (2008),4.5,M,ComedyDramaMusicalSci-Fi
+Up (2009),4.5,M,AdventureAnimationChildrenDrama
+Sherlock Holmes (2009),4.5,M,ActionCrimeMysteryThriller
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Another Earth (2011),4.5,M,DramaRomanceSci-Fi
+Dead Poets Society (1989),4.5,M,Drama
+As Good as It Gets (1997),4.5,M,ComedyDramaRomance
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Short Cuts (1993),4.5,M,Drama
+Citizen Kane (1941),4.5,M,DramaMystery
+Goodfellas (1990),4.5,M,CrimeDrama
+High Noon (1952),4.5,M,DramaWestern
+Being There (1979),4.5,M,ComedyDrama
+Blue Velvet (1986),4.5,M,DramaMysteryThriller
+Barry Lyndon (1975),4.5,M,DramaRomanceWar
+Crimes and Misdemeanors (1989),4.5,M,ComedyCrimeDrama
+RoboCop (1987),4.5,M,ActionCrimeDramaSci-FiThriller
+Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),4.5,M,Drama
+Easy Rider (1969),4.5,M,AdventureDrama
+Dog Day Afternoon (1975),4.5,M,CrimeDrama
+Reversal of Fortune (1990),4.5,M,Drama
+Together (Tillsammans) (2000),4.5,M,ComedyDramaRomance
+Gallipoli (1981),4.5,M,DramaWar
+Europa Europa (Hitlerjunge Salomon) (1990),4.5,M,DramaWar
+American Splendor (2003),4.5,M,ComedyDrama
+Team America: World Police (2004),4.5,M,ActionAdventureAnimationComedy
+1900 (Novecento) (1976),4.5,M,DramaWar
+Brokeback Mountain (2005),4.5,M,DramaRomance
+Army of Shadows (L'armée des ombres) (1969),4.5,M,ActionDramaThrillerWar
+Burn After Reading (2008),4.5,M,ComedyCrimeDrama
+Gomorrah (Gomorra) (2008),4.5,M,CrimeDrama
+Up in the Air (2009),4.5,M,DramaRomance
+Winter's Bone (2010),4.5,M,DramaThriller
+Venus in Fur (La Vénus à la fourrure) (2013),4.5,M,Drama
+Creed (2015),4.5,M,Drama
+Captain Fantastic (2016),4.5,M,Drama
+Baby Driver (2017),4.5,M,ActionCrimeThriller
+Patti Rocks (1988),4.5,M,ComedyDrama
+Braveheart (1995),4.5,M,ActionDramaWar
+Con Air (1997),4.5,M,ActionAdventureThriller
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Lord of War (2005),4.5,M,ActionCrimeDramaThrillerWar
+Coyote Ugly (2000),4.5,M,ComedyDramaRomance
+Cast Away (2000),4.5,M,Drama
+The Butterfly Effect (2004),4.5,M,DramaSci-FiThriller
+Pirates of the Caribbean: Dead Man's Chest (2006),4.5,M,ActionAdventureFantasy
+Little Miss Sunshine (2006),4.5,M,AdventureComedyDrama
+Ratatouille (2007),4.5,M,AnimationChildrenDrama
+Harry Potter and the Order of the Phoenix (2007),4.5,M,AdventureDramaFantasyIMAX
+Into the Wild (2007),4.5,M,ActionAdventureDrama
+I Am Legend (2007),4.5,M,ActionHorrorSci-FiThrillerIMAX
+Kung Fu Panda (2008),4.5,M,ActionAnimationChildrenComedyIMAX
+Sherlock Holmes (2009),4.5,M,ActionCrimeMysteryThriller
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+Harry Potter and the Deathly Hallows: Part 1 (2010),4.5,M,ActionAdventureFantasyIMAX
+Harry Potter and the Deathly Hallows: Part 2 (2011),4.5,M,ActionAdventureDramaFantasyMysteryIMAX
+Intouchables (2011),4.5,M,ComedyDrama
+The Imitation Game (2014),4.5,M,DramaThrillerWar
+Schindler's List (1993),4.5,M,DramaWar
+Intouchables (2011),4.5,M,ComedyDrama
+Captain Fantastic (2016),4.5,M,Drama
+Logan (2017),4.5,M,ActionSci-Fi
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+Persuasion (1995),4.5,M,DramaRomance
+Babe (1995),4.5,M,ChildrenDrama
+Apollo 13 (1995),4.5,M,AdventureDramaIMAX
+Three Colors: Blue (Trois couleurs: Bleu) (1993),4.5,M,Drama
+Jurassic Park (1993),4.5,M,ActionAdventureSci-FiThriller
+Sleepless in Seattle (1993),4.5,M,ComedyDramaRomance
+Vertigo (1958),4.5,M,DramaMysteryRomanceThriller
+My Fair Lady (1964),4.5,M,ComedyDramaMusicalRomance
+Citizen Kane (1941),4.5,M,DramaMystery
+All About Eve (1950),4.5,M,Drama
+Mr. Smith Goes to Washington (1939),4.5,M,Drama
+Secrets & Lies (1996),4.5,M,Drama
+That Thing You Do! (1996),4.5,M,ComedyDrama
+William Shakespeare's Romeo + Juliet (1996),4.5,M,DramaRomance
+Amadeus (1984),4.5,M,Drama
+Glory (1989),4.5,M,DramaWar
+Dead Poets Society (1989),4.5,M,Drama
+Cape Fear (1962),4.5,M,CrimeDramaThriller
+Breaking the Waves (1996),4.5,M,DramaMystery
+Sling Blade (1996),4.5,M,Drama
+Star Trek VI: The Undiscovered Country (1991),4.5,M,ActionMysterySci-Fi
+Jaws (1975),4.5,M,ActionHorror
+Jerry Maguire (1996),4.5,M,DramaRomance
+Face/Off (1997),4.5,M,ActionCrimeDramaThriller
+Men in Black (a.k.a. MIB) (1997),4.5,M,ActionComedySci-Fi
+Gattaca (1997),4.5,M,DramaSci-FiThriller
+Beyond Silence (Jenseits der Stille) (1996),4.5,M,Drama
+Kramer vs. Kramer (1979),4.5,M,Drama
+Strangers on a Train (1951),4.5,M,CrimeDramaFilm-NoirThriller
+Lifeboat (1944),4.5,M,DramaWar
+Broadcast News (1987),4.5,M,ComedyDramaRomance
+Edward Scissorhands (1990),4.5,M,DramaFantasyRomance
+Central Station (Central do Brasil) (1998),4.5,M,Drama
+Ghostbusters (a.k.a. Ghost Busters) (1984),4.5,M,ActionComedySci-Fi
+Mystery Men (1999),4.5,M,ActionComedyFantasy
+Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997),4.5,M,DramaRomance
+Titus (1999),4.5,M,Drama
+Howards End (1992),4.5,M,Drama
+City Lights (1931),4.5,M,ComedyDramaRomance
+Guess Who's Coming to Dinner (1967),4.5,M,Drama
+Modern Times (1936),4.5,M,ComedyDramaRomance
+Return to Me (2000),4.5,M,DramaRomance
+Keeping the Faith (2000),4.5,M,ComedyDramaRomance
+Auntie Mame (1958),4.5,M,ComedyDrama
+X-Men (2000),4.5,M,ActionAdventureSci-Fi
+Almost Famous (2000),4.5,M,Drama
+You Can Count on Me (2000),4.5,M,DramaRomance
+Unbreakable (2000),4.5,M,DramaSci-Fi
+State and Main (2000),4.5,M,ComedyDrama
+Traffic (2000),4.5,M,CrimeDramaThriller
+Bridget Jones's Diary (2001),4.5,M,ComedyDramaRomance
+A.I. Artificial Intelligence (2001),4.5,M,AdventureDramaSci-Fi
+Running on Empty (1988),4.5,M,Drama
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Spider-Man (2002),4.5,M,ActionAdventureSci-FiThriller
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+Rabbit-Proof Fence (2002),4.5,M,AdventureDrama
+Punch-Drunk Love (2002),4.5,M,ComedyDramaRomance
+Real Women Have Curves (2002),4.5,M,ComedyDrama
+Grave of the Fireflies (Hotaru no haka) (1988),4.5,M,AnimationDramaWar
+Gallipoli (1981),4.5,M,DramaWar
+Far from Heaven (2002),4.5,M,DramaRomance
+Fahrenheit 451 (1966),4.5,M,DramaSci-Fi
+Mississippi Masala (1991),4.5,M,DramaRomance
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+I Capture the Castle (2003),4.5,M,DramaRomance
+American Splendor (2003),4.5,M,ComedyDrama
+Lagaan: Once Upon a Time in India (2001),4.5,M,ComedyDramaMusicalRomance
+Pieces of April (2003),4.5,M,ComedyDrama
+Shattered Glass (2003),4.5,M,CrimeDrama
+House of Sand and Fog (2003),4.5,M,Drama
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Dogville (2003),4.5,M,DramaMysteryThriller
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+Wit (2001),4.5,M,Drama
+Fury (1936),4.5,M,DramaFilm-Noir
+Random Harvest (1942),4.5,M,DramaRomance
+Mean Creek (2004),4.5,M,DramaThriller
+Hotel Rwanda (2004),4.5,M,DramaWar
+In Good Company (2004),4.5,M,ComedyDrama
+Star Wars: Episode III - Revenge of the Sith (2005),4.5,M,ActionAdventureSci-Fi
+Serenity (2005),4.5,M,ActionAdventureSci-Fi
+Capote (2005),4.5,M,CrimeDrama
+Akeelah and the Bee (2006),4.5,M,Drama
+United 93 (2006),4.5,M,CrimeDrama
+X-Men: The Last Stand (2006),4.5,M,ActionSci-FiThriller
+Harry Potter and the Order of the Phoenix (2007),4.5,M,AdventureDramaFantasyIMAX
+Dr. Horrible's Sing-Along Blog (2008),4.5,M,ComedyDramaMusicalSci-Fi
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Schindler's List (1993),4.5,M,DramaWar
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),4.5,M,DramaFilm-NoirRomance
+2001: A Space Odyssey (1968),4.5,M,AdventureDramaSci-Fi
+Die Hard (1988),4.5,M,ActionCrimeThriller
+E.T. the Extra-Terrestrial (1982),4.5,M,ChildrenDramaSci-Fi
+One Flew Over the Cuckoo's Nest (1975),4.5,M,Drama
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Dead Poets Society (1989),4.5,M,Drama
+Fried Green Tomatoes (1991),4.5,M,ComedyCrimeDrama
+Gandhi (1982),4.5,M,Drama
+Citizen Ruth (1996),4.5,M,ComedyDrama
+City of Angels (1998),4.5,M,DramaFantasyRomance
+Seven Samurai (Shichinin no samurai) (1954),4.5,M,ActionAdventureDrama
+Pleasantville (1998),4.5,M,ComedyDramaFantasy
+Life Is Beautiful (La Vita è bella) (1997),4.5,M,ComedyDramaRomanceWar
+Enemy of the State (1998),4.5,M,ActionThriller
+Rushmore (1998),4.5,M,ComedyDrama
+Run Lola Run (Lola rennt) (1998),4.5,M,ActionCrime
+Big (1988),4.5,M,ComedyDramaFantasyRomance
+American Beauty (1999),4.5,M,DramaRomance
+Rashomon (Rashômon) (1950),4.5,M,CrimeDramaMystery
+Punch-Drunk Love (2002),4.5,M,ComedyDramaRomance
+Solaris (2002),4.5,M,DramaRomanceSci-Fi
+Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),4.5,M,ActionAnimationSci-FiThriller
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),4.5,M,ActionAdventureAnimationChildrenFantasySci-Fi
+THX 1138 (1971),4.5,M,ActionAdventureDramaSci-Fi
+Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984),4.5,M,AdventureAnimationDramaFantasySci-Fi
+Hellboy (2004),4.5,M,ActionAdventureFantasyHorror
+Lupin III: The Castle Of Cagliostro (Rupan sansei: Kariosutoro no shiro) (1979),4.5,M,ActionAdventureAnimationComedyCrimeMystery
+Kiki's Delivery Service (Majo no takkyûbin) (1989),4.5,M,AdventureAnimationChildrenDramaFantasy
+Everything Is Illuminated (2005),4.5,M,ComedyDrama
+Voices of a Distant Star (Hoshi no koe) (2003),4.5,M,AnimationDramaRomanceSci-Fi
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+Superman Returns (2006),4.5,M,ActionAdventureSci-FiIMAX
+Stranger than Fiction (2006),4.5,M,ComedyDramaFantasyRomance
+Children of Men (2006),4.5,M,ActionAdventureDramaSci-FiThriller
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+300 (2007),4.5,M,ActionFantasyWarIMAX
+Tekkonkinkreet (Tekkon kinkurîto) (2006),4.5,M,ActionAdventureAnimationCrimeFantasy
+Persepolis (2007),4.5,M,AnimationDrama
+Battlestar Galactica: Razor (2007),4.5,M,ActionDramaSci-FiThriller
+Cloverfield (2008),4.5,M,ActionMysterySci-FiThriller
+Hellboy II: The Golden Army (2008),4.5,M,ActionAdventureFantasySci-Fi
+Son of Rambow (2007),4.5,M,ChildrenComedyDrama
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Watchmen (2009),4.5,M,ActionDramaMysterySci-FiThrillerIMAX
+Tropic Thunder (2008),4.5,M,ActionAdventureComedyWar
+Burn After Reading (2008),4.5,M,ComedyCrimeDrama
+Adventureland (2009),4.5,M,ComedyDrama
+Moon (2009),4.5,M,DramaMysterySci-FiThriller
+Star Trek (2009),4.5,M,ActionAdventureSci-FiIMAX
+Paper Heart (2009),4.5,M,ComedyDocumentaryDramaRomance
+Zombieland (2009),4.5,M,ActionComedyHorror
+Battlestar Galactica: The Plan (2009),4.5,M,ActionAdventureDramaSci-Fi
+Kick-Ass (2010),4.5,M,ActionComedy
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Batman Begins (2005),4.5,M,ActionCrimeIMAX
+Star Trek: Generations (1994),4.5,M,AdventureDramaSci-Fi
+Independence Day (a.k.a. ID4) (1996),4.5,M,ActionAdventureSci-FiThriller
+Top Gun (1986),4.5,M,ActionRomance
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+Star Wars: Episode II - Attack of the Clones (2002),4.5,M,ActionAdventureSci-FiIMAX
+Star Trek: Nemesis (2002),4.5,M,ActionDramaSci-FiThriller
+Blade: Trinity (2004),4.5,M,ActionFantasyHorrorThriller
+Million Dollar Baby (2004),4.5,M,Drama
+Die Hard: With a Vengeance (1995),4.5,M,ActionCrimeThriller
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Hot Shots! Part Deux (1993),4.5,M,ActionComedyWar
+Last Action Hero (1993),4.5,M,ActionAdventureComedyFantasy
+Trainspotting (1996),4.5,M,ComedyCrimeDrama
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Unforgiven (1992),4.5,M,DramaWestern
+Good Will Hunting (1997),4.5,M,DramaRomance
+Seven Samurai (Shichinin no samurai) (1954),4.5,M,ActionAdventureDrama
+Willow (1988),4.5,M,ActionAdventureFantasy
+Total Recall (1990),4.5,M,ActionAdventureSci-FiThriller
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Titan A.E. (2000),4.5,M,ActionAdventureAnimationChildrenSci-Fi
+Unbreakable (2000),4.5,M,DramaSci-Fi
+Moulin Rouge (2001),4.5,M,DramaMusicalRomance
+Spider-Man (2002),4.5,M,ActionAdventureSci-FiThriller
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+Sex and Lucia (Lucía y el sexo) (2001),4.5,M,DramaRomance
+Wasabi (2001),4.5,M,ActionComedyCrimeDramaThriller
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),4.5,M,ActionAnimationSci-FiThriller
+Lost in Translation (2003),4.5,M,ComedyDramaRomance
+Ninja Scroll (Jûbei ninpûchô) (1995),4.5,M,ActionAdventureAnimationFantasy
+Master and Commander: The Far Side of the World (2003),4.5,M,AdventureDramaWar
+Sideways (2004),4.5,M,ComedyDramaRomance
+Harakiri (Seppuku) (1962),4.5,M,Drama
+Whisper of the Heart (Mimi wo sumaseba) (1995),4.5,M,AnimationDramaRomance
+Memories of Murder (Salinui chueok) (2003),4.5,M,CrimeDramaMysteryThriller
+Serenity (2005),4.5,M,ActionAdventureSci-Fi
+MirrorMask (2005),4.5,M,AdventureChildrenDramaFantasy
+Lucky Number Slevin (2006),4.5,M,CrimeDramaMystery
+Harry Potter and the Order of the Phoenix (2007),4.5,M,AdventureDramaFantasyIMAX
+August Rush (2007),4.5,M,DramaMusical
+Juno (2007),4.5,M,ComedyDramaRomance
+Hellboy II: The Golden Army (2008),4.5,M,ActionAdventureFantasySci-Fi
+In Bruges (2008),4.5,M,ComedyCrimeDramaThriller
+Tropic Thunder (2008),4.5,M,ActionAdventureComedyWar
+Burn After Reading (2008),4.5,M,ComedyCrimeDrama
+RocknRolla (2008),4.5,M,ActionCrime
+Slumdog Millionaire (2008),4.5,M,CrimeDramaRomance
+Pirate Radio (2009),4.5,M,ComedyDrama
+(500) Days of Summer (2009),4.5,M,ComedyDramaRomance
+Up in the Air (2009),4.5,M,DramaRomance
+Cell 211 (Celda 211) (2009),4.5,M,ActionDrama
+Avatar (2009),4.5,M,ActionAdventureSci-FiIMAX
+Sherlock Holmes (2009),4.5,M,ActionCrimeMysteryThriller
+Mr. Nobody (2009),4.5,M,DramaFantasyRomanceSci-Fi
+Harry Potter and the Deathly Hallows: Part 1 (2010),4.5,M,ActionAdventureFantasyIMAX
+Harry Potter and the Deathly Hallows: Part 2 (2011),4.5,M,ActionAdventureDramaFantasyMysteryIMAX
+The Artist (2011),4.5,M,ComedyDramaRomance
+Intouchables (2011),4.5,M,ComedyDrama
+Argo (2012),4.5,M,DramaThriller
+Cloud Atlas (2012),4.5,M,DramaSci-FiIMAX
+Silver Linings Playbook (2012),4.5,M,ComedyDrama
+Iron Man 3 (2013),4.5,M,ActionSci-FiThrillerIMAX
+Ender's Game (2013),4.5,M,ActionAdventureSci-FiIMAX
+Dead Man Walking (1995),4.5,M,CrimeDrama
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Some Folks Call It a Sling Blade (1993),4.5,M,DramaThriller
+Casablanca (1942),4.5,M,DramaRomance
+My Fair Lady (1964),4.5,M,ComedyDramaMusicalRomance
+It's a Wonderful Life (1946),4.5,M,ChildrenDramaFantasyRomance
+Life Is Beautiful (La Vita è bella) (1997),4.5,M,ComedyDramaRomanceWar
+Almost Famous (2000),4.5,M,Drama
+Big Fish (2003),4.5,M,DramaFantasyRomance
+Sense and Sensibility (1995),4.5,M,DramaRomance
+Braveheart (1995),4.5,M,ActionDramaWar
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Three Colors: Blue (Trois couleurs: Bleu) (1993),4.5,M,Drama
+What's Eating Gilbert Grape (1993),4.5,M,Drama
+Sleepless in Seattle (1993),4.5,M,ComedyDramaRomance
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Dirty Dancing (1987),4.5,M,DramaMusicalRomance
+Once Upon a Time in America (1984),4.5,M,CrimeDrama
+Fried Green Tomatoes (1991),4.5,M,ComedyCrimeDrama
+Conan the Barbarian (1982),4.5,M,ActionAdventureFantasy
+As Good as It Gets (1997),4.5,M,ComedyDramaRomance
+Boys Don't Cry (1999),4.5,M,Drama
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios) (1988),4.5,M,ComedyDrama
+Battleship Potemkin (1925),4.5,M,DramaWar
+Beaches (1988),4.5,M,ComedyDramaMusical
+Gorillas in the Mist (1988),4.5,M,Drama
+Talk to Her (Hable con Ella) (2002),4.5,M,DramaRomance
+My Neighbor Totoro (Tonari no Totoro) (1988),4.5,M,AnimationChildrenDramaFantasy
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Brokeback Mountain (2005),4.5,M,DramaRomance
+Volver (2006),4.5,M,ComedyDrama
+Stranger than Fiction (2006),4.5,M,ComedyDramaFantasyRomance
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Hellboy II: The Golden Army (2008),4.5,M,ActionAdventureFantasySci-Fi
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Up (2009),4.5,M,AdventureAnimationChildrenDrama
+(500) Days of Summer (2009),4.5,M,ComedyDramaRomance
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Three Colors: Red (Trois couleurs: Rouge) (1994),4.5,M,Drama
+Three Colors: Blue (Trois couleurs: Bleu) (1993),4.5,M,Drama
+8 1/2 (8½) (1963),4.5,M,DramaFantasy
+In the Mood For Love (Fa yeung nin wa) (2000),4.5,M,DramaRomance
+Ikiru (1952),4.5,M,Drama
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+As Good as It Gets (1997),4.5,M,ComedyDramaRomance
+Bruce Almighty (2003),4.5,M,ComedyDramaFantasyRomance
+About Time (2013),4.5,M,DramaFantasyRomance
+Apollo 13 (1995),4.5,M,AdventureDramaIMAX
+Independence Day (a.k.a. ID4) (1996),4.5,M,ActionAdventureSci-FiThriller
+Apocalypse Now (1979),4.5,M,ActionDramaWar
+Stand by Me (1986),4.5,M,AdventureDrama
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Rush Hour (1998),4.5,M,ActionComedyCrimeThriller
+Rocky II (1979),4.5,M,ActionDrama
+Gone in 60 Seconds (2000),4.5,M,ActionCrime
+Cast Away (2000),4.5,M,Drama
+Blow (2001),4.5,M,CrimeDrama
+Scarface (1983),4.5,M,ActionCrimeDrama
+Gangs of New York (2002),4.5,M,CrimeDrama
+Mystic River (2003),4.5,M,CrimeDramaMystery
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Paycheck (2003),4.5,M,ActionSci-FiThriller
+Dawn of the Dead (2004),4.5,M,ActionDramaHorrorThriller
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Man on Fire (2004),4.5,M,ActionCrimeDramaMysteryThriller
+Ocean's Twelve (2004),4.5,M,ActionComedyCrimeThriller
+Inside Man (2006),4.5,M,CrimeDramaThriller
+Click (2006),4.5,M,AdventureComedyDramaFantasyRomance
+Apocalypto (2006),4.5,M,AdventureDramaThriller
+Blood Diamond (2006),4.5,M,ActionAdventureCrimeDramaThrillerWar
+Ratatouille (2007),4.5,M,AnimationChildrenDrama
+Inglorious Bastards (Quel maledetto treno blindato) (1978),4.5,M,ActionAdventureDramaWar
+Knocked Up (2007),4.5,M,ComedyDramaRomance
+American Gangster (2007),4.5,M,CrimeDramaThriller
+Tropic Thunder (2008),4.5,M,ActionAdventureComedyWar
+Gran Torino (2008),4.5,M,CrimeDrama
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Up in the Air (2009),4.5,M,DramaRomance
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+The Hunger Games (2012),4.5,M,ActionAdventureDramaSci-FiThriller
+Moonrise Kingdom (2012),4.5,M,ComedyDramaRomance
+American Hustle (2013),4.5,M,CrimeDrama
+Boyhood (2014),4.5,M,Drama
+John Wick (2014),4.5,M,ActionThriller
+Still Alice (2014),4.5,M,Drama
+Mad Max: Fury Road (2015),4.5,M,ActionAdventureSci-FiThriller
+Star Wars: Episode VII - The Force Awakens (2015),4.5,M,ActionAdventureFantasySci-FiIMAX
+Steve Jobs (2015),4.5,M,Drama
+Casablanca (1942),4.5,M,DramaRomance
+Her (2013),4.5,M,DramaRomanceSci-Fi
+Traffic (2000),4.5,M,CrimeDramaThriller
+Kids (1995),4.5,M,Drama
+Die Hard (1988),4.5,M,ActionCrimeThriller
+Lolita (1997),4.5,M,DramaRomance
+Running on Empty (1988),4.5,M,Drama
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+High Fidelity (2000),4.5,M,ComedyDramaRomance
+Traffic (2000),4.5,M,CrimeDramaThriller
+M*A*S*H (a.k.a. MASH) (1970),4.5,M,ComedyDramaWar
+Far from Heaven (2002),4.5,M,DramaRomance
+Adaptation (2002),4.5,M,ComedyDramaRomance
+Dirty Pretty Things (2002),4.5,M,CrimeDramaThriller
+Seabiscuit (2003),4.5,M,Drama
+Matchstick Men (2003),4.5,M,ComedyCrimeDrama
+Lost in Translation (2003),4.5,M,ComedyDramaRomance
+Shattered Glass (2003),4.5,M,CrimeDrama
+In America (2002),4.5,M,DramaRomance
+Something's Gotta Give (2003),4.5,M,ComedyDramaRomance
+Full Metal Jacket (1987),4.5,M,DramaWar
+Dr. Horrible's Sing-Along Blog (2008),4.5,M,ComedyDramaMusicalSci-Fi
+Flipped (2010),4.5,M,ComedyDramaRomance
+Emma (2009),4.5,M,ComedyDramaRomance
+North & South (2004),4.5,M,DramaRomance
+How to Train Your Dragon 2 (2014),4.5,M,ActionAdventureAnimation
+Big Hero 6 (2014),4.5,M,ActionAnimationComedy
+The Theory of Everything (2014),4.5,M,DramaRomance
+All About Eve (1950),4.5,M,Drama
+Rushmore (1998),4.5,M,ComedyDrama
+All the President's Men (1976),4.5,M,DramaThriller
+Apollo 13 (1995),4.5,M,AdventureDramaIMAX
+Ed Wood (1994),4.5,M,ComedyDrama
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+Butch Cassidy and the Sundance Kid (1969),4.5,M,ActionWestern
+Star Trek II: The Wrath of Khan (1982),4.5,M,ActionAdventureSci-FiThriller
+All the President's Men (1976),4.5,M,DramaThriller
+Jurassic Park (1993),4.5,M,ActionAdventureSci-FiThriller
+E.T. the Extra-Terrestrial (1982),4.5,M,ChildrenDramaSci-Fi
+Goodfellas (1990),4.5,M,CrimeDrama
+Stand by Me (1986),4.5,M,AdventureDrama
+Sneakers (1992),4.5,M,ActionComedyCrimeDramaSci-Fi
+Boogie Nights (1997),4.5,M,Drama
+American Graffiti (1973),4.5,M,ComedyDrama
+About a Boy (2002),4.5,M,ComedyDramaRomance
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Moneyball (2011),4.5,M,Drama
+Whiplash (2014),4.5,M,Drama
+GoldenEye (1995),4.5,M,ActionAdventureThriller
+Star Trek: Generations (1994),4.5,M,AdventureDramaSci-Fi
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+Indiana Jones and the Last Crusade (1989),4.5,M,ActionAdventure
+Star Trek: First Contact (1996),4.5,M,ActionAdventureSci-FiThriller
+Star Trek II: The Wrath of Khan (1982),4.5,M,ActionAdventureSci-FiThriller
+Chasing Amy (1997),4.5,M,ComedyDramaRomance
+The Devil's Advocate (1997),4.5,M,DramaMysteryThriller
+Good Will Hunting (1997),4.5,M,DramaRomance
+Tron (1982),4.5,M,ActionAdventureSci-Fi
+American History X (1998),4.5,M,CrimeDrama
+Boys Don't Cry (1999),4.5,M,Drama
+Being John Malkovich (1999),4.5,M,ComedyDramaFantasy
+City of God (Cidade de Deus) (2002),4.5,M,ActionAdventureCrimeDramaThriller
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+Inside Man (2006),4.5,M,CrimeDramaThriller
+Lucky Number Slevin (2006),4.5,M,CrimeDramaMystery
+No Country for Old Men (2007),4.5,M,CrimeDrama
+Quantum of Solace (2008),4.5,M,ActionAdventureThriller
+Dr. Horrible's Sing-Along Blog (2008),4.5,M,ComedyDramaMusicalSci-Fi
+Inglourious Basterds (2009),4.5,M,ActionDramaWar
+Black Swan (2010),4.5,M,DramaThriller
+Moonrise Kingdom (2012),4.5,M,ComedyDramaRomance
+Skyfall (2012),4.5,M,ActionAdventureThrillerIMAX
+Star Trek Into Darkness (2013),4.5,M,ActionAdventureSci-FiIMAX
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Schindler's List (1993),4.5,M,DramaWar
+Ghost (1990),4.5,M,ComedyDramaFantasyRomanceThriller
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Requiem for a Dream (2000),4.5,M,Drama
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Whisper of the Heart (Mimi wo sumaseba) (1995),4.5,M,AnimationDramaRomance
+Pirates of the Caribbean: Dead Man's Chest (2006),4.5,M,ActionAdventureFantasy
+Spider-Man 3 (2007),4.5,M,ActionAdventureSci-FiThrillerIMAX
+Brave (2012),4.5,M,ActionAdventureAnimationChildren
+Zootopia (2016),4.5,M,ActionAdventureAnimationChildrenComedy
+True Lies (1994),4.5,M,ActionAdventureComedyRomanceThriller
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Die Hard (1988),4.5,M,ActionCrimeThriller
+Dirty Dancing (1987),4.5,M,DramaMusicalRomance
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Dead Poets Society (1989),4.5,M,Drama
+Miracle on 34th Street (1947),4.5,M,ComedyDrama
+Being John Malkovich (1999),4.5,M,ComedyDramaFantasy
+Almost Famous (2000),4.5,M,Drama
+Remember the Titans (2000),4.5,M,Drama
+Gosford Park (2001),4.5,M,ComedyDramaMystery
+Chicago (2002),4.5,M,ComedyCrimeDramaMusical
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Hero (Ying xiong) (2002),4.5,M,ActionAdventureDrama
+Saved! (2004),4.5,M,ComedyDrama
+House of Flying Daggers (Shi mian mai fu) (2004),4.5,M,ActionDramaRomance
+Mr. & Mrs. Smith (2005),4.5,M,ActionAdventureComedyRomance
+Pride & Prejudice (2005),4.5,M,DramaRomance
+Inside Man (2006),4.5,M,CrimeDramaThriller
+Little Miss Sunshine (2006),4.5,M,AdventureComedyDrama
+Juno (2007),4.5,M,ComedyDramaRomance
+Moon (2009),4.5,M,DramaMysterySci-FiThriller
+Scott Pilgrim vs. the World (2010),4.5,M,ActionComedyFantasyMusicalRomance
+Moonrise Kingdom (2012),4.5,M,ComedyDramaRomance
+Edge of Tomorrow (2014),4.5,M,ActionSci-FiIMAX
+Guardians of the Galaxy (2014),4.5,M,ActionAdventureSci-Fi
+Kingsman: The Secret Service (2015),4.5,M,ActionAdventureComedyCrime
+Mad Max: Fury Road (2015),4.5,M,ActionAdventureSci-FiThriller
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+Dead Poets Society (1989),4.5,M,Drama
+Run Lola Run (Lola rennt) (1998),4.5,M,ActionCrime
+Easy Rider (1969),4.5,M,AdventureDrama
+Chocolat (2000),4.5,M,DramaRomance
+Big Fish (2003),4.5,M,DramaFantasyRomance
+Don't Move (Non ti muovere) (2004),4.5,M,Drama
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Into the Wild (2007),4.5,M,ActionAdventureDrama
+Dallas Buyers Club (2013),4.5,M,Drama
+The Martian (2015),4.5,M,AdventureDramaSci-Fi
+Bliss (2012),4.5,M,Drama
+Die Hard: With a Vengeance (1995),4.5,M,ActionCrimeThriller
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Jurassic Park (1993),4.5,M,ActionAdventureSci-FiThriller
+Mrs. Doubtfire (1993),4.5,M,ComedyDrama
+Independence Day (a.k.a. ID4) (1996),4.5,M,ActionAdventureSci-FiThriller
+Die Hard (1988),4.5,M,ActionCrimeThriller
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Army of Darkness (1993),4.5,M,ActionAdventureComedyFantasyHorror
+Indiana Jones and the Last Crusade (1989),4.5,M,ActionAdventure
+Jaws (1975),4.5,M,ActionHorror
+Titanic (1997),4.5,M,DramaRomance
+Armageddon (1998),4.5,M,ActionRomanceSci-FiThriller
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Blade (1998),4.5,M,ActionHorrorThriller
+Ghostbusters (a.k.a. Ghost Busters) (1984),4.5,M,ActionComedySci-Fi
+RoboCop (1987),4.5,M,ActionCrimeDramaSci-FiThriller
+Gladiator (2000),4.5,M,ActionAdventureDrama
+Empire of the Sun (1987),4.5,M,ActionAdventureDramaWar
+K-PAX (2001),4.5,M,DramaFantasyMysterySci-Fi
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Johnny English (2003),4.5,M,ActionComedyThriller
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Hero (Ying xiong) (2002),4.5,M,ActionAdventureDrama
+The Butterfly Effect (2004),4.5,M,DramaSci-FiThriller
+Hellboy (2004),4.5,M,ActionAdventureFantasyHorror
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+King Arthur (2004),4.5,M,ActionAdventureDramaWar
+Battlestar Galactica (2003),4.5,M,DramaSci-FiWar
+Kung Fu Hustle (Gong fu) (2004),4.5,M,ActionComedy
+Sin City (2005),4.5,M,ActionCrimeFilm-NoirMysteryThriller
+District 13 (Banlieue 13) (2004),4.5,M,ActionCrimeSci-Fi
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Get Smart (2008),4.5,M,ActionComedy
+Sukiyaki Western Django (2008),4.5,M,ActionWestern
+Bolt (2008),4.5,M,ActionAdventureAnimationChildrenComedy
+Star Trek (2009),4.5,M,ActionAdventureSci-FiIMAX
+Sherlock Holmes (2009),4.5,M,ActionCrimeMysteryThriller
+Kick-Ass (2010),4.5,M,ActionComedy
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Knight and Day (2010),4.5,M,ActionComedyRomance
+Scott Pilgrim vs. the World (2010),4.5,M,ActionComedyFantasyMusicalRomance
+Source Code (2011),4.5,M,ActionDramaMysterySci-FiThriller
+The Man from Nowhere (2010),4.5,M,ActionCrimeThriller
+Mission: Impossible - Ghost Protocol (2011),4.5,M,ActionAdventureThrillerIMAX
+The Raid: Redemption (2011),4.5,M,ActionCrime
+Dredd (2012),4.5,M,ActionSci-Fi
+Cloud Atlas (2012),4.5,M,DramaSci-FiIMAX
+This Is 40 (2012),4.5,M,Drama
+Hansel & Gretel: Witch Hunters (2013),4.5,M,ActionFantasyHorrorIMAX
+Man of Tai Chi (2013),4.5,M,ActionIMAX
+Edge of Tomorrow (2014),4.5,M,ActionSci-FiIMAX
+Guardians of the Galaxy (2014),4.5,M,ActionAdventureSci-Fi
+John Wick (2014),4.5,M,ActionThriller
+Kingsman: The Secret Service (2015),4.5,M,ActionAdventureComedyCrime
+Tomorrowland (2015),4.5,M,ActionAdventureChildrenMysterySci-Fi
+American History X (1998),4.5,M,CrimeDrama
+Argo (2012),4.5,M,DramaThriller
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Lean on Me (1989),4.5,M,Drama
+Kung Pow: Enter the Fist (2002),4.5,M,ActionComedy
+Reefer Madness: The Movie Musical (2005),4.5,M,ComedyDramaMusical
+(500) Days of Summer (2009),4.5,M,ComedyDramaRomance
+Big Trouble in Little China (1986),4.5,M,ActionAdventureComedyFantasy
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Secondhand Lions (2003),4.5,M,ChildrenComedyDrama
+Kung Fu Panda (2008),4.5,M,ActionAnimationChildrenComedyIMAX
+Terminator 2: Judgment Day (1991),4.5,M,ActionSci-Fi
+Star Wars: Episode I - The Phantom Menace (1999),4.5,M,ActionAdventureSci-Fi
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Pirates of the Caribbean: The Curse of the Black Pearl (2003),4.5,M,ActionAdventureComedyFantasy
+Gattaca (1997),4.5,M,DramaSci-FiThriller
+American Beauty (1999),4.5,M,DramaRomance
+Catch Me If You Can (2002),4.5,M,CrimeDrama
+Chicago (2002),4.5,M,ComedyCrimeDramaMusical
+Deep Impact (1998),4.5,M,DramaSci-FiThriller
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.5,M,ActionAdventure
+Up (2009),4.5,M,AdventureAnimationChildrenDrama
+Guardians of the Galaxy (2014),4.5,M,ActionAdventureSci-Fi
+Ex Machina (2015),4.5,M,DramaSci-FiThriller
+The Imitation Game (2014),4.5,M,DramaThrillerWar
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Die Hard (1988),4.5,M,ActionCrimeThriller
+Good Will Hunting (1997),4.5,M,DramaRomance
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+Life Is Beautiful (La Vita è bella) (1997),4.5,M,ComedyDramaRomanceWar
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Casino Royale (2006),4.5,M,ActionAdventureThriller
+Breach (2007),4.5,M,DramaThriller
+Taken (2008),4.5,M,ActionCrimeDramaThriller
+Skyfall (2012),4.5,M,ActionAdventureThrillerIMAX
+The Martian (2015),4.5,M,AdventureDramaSci-Fi
+Star Trek Beyond (2016),4.5,M,ActionAdventureSci-Fi
+Spectre (2015),4.5,M,ActionAdventureCrime
+Citizen Kane (1941),4.5,M,DramaMystery
+Three Kings (1999),4.5,M,ActionAdventureComedyDramaWar
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Die Hard: With a Vengeance (1995),4.5,M,ActionCrimeThriller
+High Fidelity (2000),4.5,M,ComedyDramaRomance
+25th Hour (2002),4.5,M,CrimeDrama
+Garden State (2004),4.5,M,ComedyDramaRomance
+Something New (2006),4.5,M,ComedyDramaRomance
+GoldenEye (1995),4.5,M,ActionAdventureThriller
+Apollo 13 (1995),4.5,M,AdventureDramaIMAX
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4.5,M,ActionCrimeDramaThriller
+Trainspotting (1996),4.5,M,ComedyCrimeDrama
+Starship Troopers (1997),4.5,M,ActionSci-Fi
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Sin City (2005),4.5,M,ActionCrimeFilm-NoirMysteryThriller
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+Thank You for Smoking (2006),4.5,M,ComedyDrama
+Cloverfield (2008),4.5,M,ActionMysterySci-FiThriller
+In Bruges (2008),4.5,M,ComedyCrimeDramaThriller
+Watchmen (2009),4.5,M,ActionDramaMysterySci-FiThrillerIMAX
+Drive (2011),4.5,M,CrimeDramaFilm-NoirThriller
+Schindler's List (1993),4.5,M,DramaWar
+Searching for Bobby Fischer (1993),4.5,M,Drama
+Sleepless in Seattle (1993),4.5,M,ComedyDramaRomance
+Terminator 2: Judgment Day (1991),4.5,M,ActionSci-Fi
+Some Kind of Wonderful (1987),4.5,M,DramaRomance
+Field of Dreams (1989),4.5,M,ChildrenDramaFantasy
+Gattaca (1997),4.5,M,DramaSci-FiThriller
+Pretty in Pink (1986),4.5,M,ComedyDramaRomance
+Rounders (1998),4.5,M,Drama
+Shakespeare in Love (1998),4.5,M,ComedyDramaRomance
+Big (1988),4.5,M,ComedyDramaFantasyRomance
+Double Jeopardy (1999),4.5,M,ActionCrimeDramaThriller
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+RoboCop (1987),4.5,M,ActionCrimeDramaSci-FiThriller
+Misery (1990),4.5,M,DramaHorrorThriller
+Traffic (2000),4.5,M,CrimeDramaThriller
+Manhunter (1986),4.5,M,ActionCrimeDramaHorrorThriller
+About a Boy (2002),4.5,M,ComedyDramaRomance
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Sin City (2005),4.5,M,ActionCrimeFilm-NoirMysteryThriller
+Crash (2004),4.5,M,CrimeDrama
+Transformers (2007),4.5,M,ActionSci-FiThrillerIMAX
+Eastern Promises (2007),4.5,M,CrimeDramaThriller
+Temple Grandin (2010),4.5,M,Drama
+Silver Linings Playbook (2012),4.5,M,ComedyDrama
+Whiplash (2014),4.5,M,Drama
+Spy (2015),4.5,M,ActionComedyCrime
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Talladega Nights: The Ballad of Ricky Bobby (2006),4.5,M,ActionComedy
+Land of the Lost (2009),4.5,M,ActionAdventureComedySci-Fi
+2 Guns (2013),4.5,M,ActionComedyCrime
+The Interview (2014),4.5,M,ActionComedy
+12 Angry Men (1957),4.5,M,Drama
+Watership Down (1978),4.5,M,AdventureAnimationChildrenDramaFantasy
+In the Mood For Love (Fa yeung nin wa) (2000),4.5,M,DramaRomance
+Funny Games U.S. (2007),4.5,M,DramaThriller
+The Lego Movie (2014),4.5,M,ActionAdventureAnimationChildrenComedyFantasy
+Frank (2014),4.5,M,ComedyDramaMystery
+Kung Fury (2015),4.5,M,ActionComedyFantasySci-Fi
+Silence (2016),4.5,M,DramaThriller
+Schindler's List (1993),4.5,M,DramaWar
+E.T. the Extra-Terrestrial (1982),4.5,M,ChildrenDramaSci-Fi
+Contact (1997),4.5,M,DramaSci-Fi
+Cast Away (2000),4.5,M,Drama
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+Love Actually (2003),4.5,M,ComedyDramaRomance
+Anna and the King (1999),4.5,M,DramaRomance
+Kick-Ass (2010),4.5,M,ActionComedy
+Casino (1995),4.5,M,CrimeDrama
+Braveheart (1995),4.5,M,ActionDramaWar
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4.5,M,ActionAdventure
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+Good Will Hunting (1997),4.5,M,DramaRomance
+Jackie Brown (1997),4.5,M,CrimeDramaThriller
+Pi (1998),4.5,M,DramaSci-FiThriller
+Blade (1998),4.5,M,ActionHorrorThriller
+Total Recall (1990),4.5,M,ActionAdventureSci-FiThriller
+Mad Max (1979),4.5,M,ActionAdventureSci-Fi
+X-Men (2000),4.5,M,ActionAdventureSci-Fi
+Unbreakable (2000),4.5,M,DramaSci-Fi
+K-PAX (2001),4.5,M,DramaFantasyMysterySci-Fi
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+Secretary (2002),4.5,M,ComedyDramaRomance
+City of God (Cidade de Deus) (2002),4.5,M,ActionAdventureCrimeDramaThriller
+X2: X-Men United (2003),4.5,M,ActionAdventureSci-FiThriller
+28 Days Later (2002),4.5,M,ActionHorrorSci-Fi
+Avalon (2001),4.5,M,DramaFantasySci-Fi
+Master and Commander: The Far Side of the World (2003),4.5,M,AdventureDramaWar
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+Dune (2000),4.5,M,DramaFantasySci-Fi
+To End All Wars (2001),4.5,M,ActionDramaWar
+The Machinist (2004),4.5,M,DramaMysteryThriller
+Million Dollar Baby (2004),4.5,M,Drama
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+Inside Man (2006),4.5,M,CrimeDramaThriller
+Mission: Impossible III (2006),4.5,M,ActionAdventureThriller
+X-Men: The Last Stand (2006),4.5,M,ActionSci-FiThriller
+Pirates of the Caribbean: Dead Man's Chest (2006),4.5,M,ActionAdventureFantasy
+Casino Royale (2006),4.5,M,ActionAdventureThriller
+Next (2007),4.5,M,ActionSci-FiThriller
+Live Free or Die Hard (2007),4.5,M,ActionAdventureCrimeThriller
+I Am Legend (2007),4.5,M,ActionHorrorSci-FiThrillerIMAX
+Forrest Gump (1994),4.5,M,ComedyDramaRomanceWar
+Life Is Beautiful (La Vita è bella) (1997),4.5,M,ComedyDramaRomanceWar
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Requiem for a Dream (2000),4.5,M,Drama
+Cast Away (2000),4.5,M,Drama
+Spider-Man (2002),4.5,M,ActionAdventureSci-FiThriller
+V for Vendetta (2006),4.5,M,ActionSci-FiThrillerIMAX
+Inception (2010),4.5,M,ActionCrimeDramaMysterySci-FiThrillerIMAX
+Intouchables (2011),4.5,M,ComedyDrama
+Whiplash (2014),4.5,M,Drama
+Casino Royale (2006),4.5,M,ActionAdventureThriller
+Iron Man (2008),4.5,M,ActionAdventureSci-Fi
+Star Trek (2009),4.5,M,ActionAdventureSci-FiIMAX
+Skyfall (2012),4.5,M,ActionAdventureThrillerIMAX
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Iron Man 3 (2013),4.5,M,ActionSci-FiThrillerIMAX
+Gravity (2013),4.5,M,ActionSci-FiIMAX
+Star Wars: Episode VII - The Force Awakens (2015),4.5,M,ActionAdventureFantasySci-FiIMAX
+Taxi Driver (1976),4.5,M,CrimeDramaThriller
+Donnie Brasco (1997),4.5,M,CrimeDrama
+Private Parts (1997),4.5,M,ComedyDrama
+American Beauty (1999),4.5,M,DramaRomance
+Do the Right Thing (1989),4.5,M,Drama
+Man on Fire (2004),4.5,M,ActionCrimeDramaMysteryThriller
+No Country for Old Men (2007),4.5,M,CrimeDrama
+Gran Torino (2008),4.5,M,CrimeDrama
+Crimson Tide (1995),4.5,M,DramaThrillerWar
+Star Wars: Episode IV - A New Hope (1977),4.5,M,ActionAdventureSci-Fi
+True Lies (1994),4.5,M,ActionAdventureComedyRomanceThriller
+Tombstone (1993),4.5,M,ActionDramaWestern
+Star Wars: Episode V - The Empire Strikes Back (1980),4.5,M,ActionAdventureSci-Fi
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),4.5,M,ActionComedySci-Fi
+Star Wars: Episode III - Revenge of the Sith (2005),4.5,M,ActionAdventureSci-Fi
+Underworld: Evolution (2006),4.5,M,ActionFantasyHorror
+Meet the Robinsons (2007),4.5,M,ActionAdventureAnimationChildrenComedySci-Fi
+Harry Potter and the Order of the Phoenix (2007),4.5,M,AdventureDramaFantasyIMAX
+Rush Hour 3 (2007),4.5,M,ActionComedyCrimeThriller
+Underworld: Rise of the Lycans (2009),4.5,M,ActionFantasyHorrorThriller
+Rango (2011),4.5,M,ActionAdventureAnimationChildrenComedyWestern
+Olympus Has Fallen (2013),4.5,M,ActionThriller
+Iron Man 3 (2013),4.5,M,ActionSci-FiThrillerIMAX
+Ender's Game (2013),4.5,M,ActionAdventureSci-FiIMAX
+The Lego Movie (2014),4.5,M,ActionAdventureAnimationChildrenComedyFantasy
+X-Men: Days of Future Past (2014),4.5,M,ActionAdventureSci-Fi
+Mission: Impossible - Rogue Nation (2015),4.5,M,ActionAdventureThriller
+Ant-Man (2015),4.5,M,ActionAdventureSci-Fi
+Avengers: Infinity War - Part I (2018),4.5,M,ActionAdventureSci-Fi
+Thor: Ragnarok (2017),4.5,M,ActionAdventureSci-Fi
+X-Men: Apocalypse (2016),4.5,M,ActionAdventureFantasySci-Fi
+Rogue One: A Star Wars Story (2016),4.5,M,ActionAdventureFantasySci-Fi
+Valerian and the City of a Thousand Planets (2017),4.5,M,ActionAdventureSci-Fi
+Heat (1995),4.5,M,ActionCrimeThriller
+Before Sunrise (1995),4.5,M,DramaRomance
+Blade Runner (1982),4.5,M,ActionSci-FiThriller
+Terminator 2: Judgment Day (1991),4.5,M,ActionSci-Fi
+Escape from New York (1981),4.5,M,ActionAdventureSci-FiThriller
+Army of Darkness (1993),4.5,M,ActionAdventureComedyFantasyHorror
+Batman Returns (1992),4.5,M,ActionCrime
+Good Will Hunting (1997),4.5,M,DramaRomance
+On the Waterfront (1954),4.5,M,CrimeDrama
+Run Lola Run (Lola rennt) (1998),4.5,M,ActionCrime
+Ghostbusters (a.k.a. Ghost Busters) (1984),4.5,M,ActionComedySci-Fi
+Key Largo (1948),4.5,M,CrimeDramaFilm-NoirThriller
+On the Beach (1959),4.5,M,Drama
+Solaris (Solyaris) (1972),4.5,M,DramaMysterySci-Fi
+Badlands (1973),4.5,M,CrimeDramaThriller
+Mulholland Drive (2001),4.5,M,CrimeDramaFilm-NoirMysteryThriller
+Barton Fink (1991),4.5,M,DramaThriller
+Dawn of the Dead (1978),4.5,M,ActionDramaHorror
+Pierrot le fou (1965),4.5,M,CrimeDrama
+Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei) (1997),4.5,M,ActionAnimationMysterySci-Fi
+Dragon Ball Z: The History of Trunks (Doragon bôru Z: Zetsubô e no hankô!! Nokosareta chô senshi - Gohan to Torankusu) (1993),4.5,M,ActionAdventureAnimation
+Mulholland Dr. (1999),4.5,M,DramaMysteryRomance
+Heavenly Creatures (1994),4.5,M,CrimeDrama
+Interview with the Vampire: The Vampire Chronicles (1994),4.5,M,DramaHorror
+Pulp Fiction (1994),4.5,M,ComedyCrimeDramaThriller
+My Fair Lady (1964),4.5,M,ComedyDramaMusicalRomance
+Star Wars: Episode VI - Return of the Jedi (1983),4.5,M,ActionAdventureSci-Fi
+Suicide Kings (1997),4.5,M,ComedyCrimeDramaMysteryThriller
+Edward Scissorhands (1990),4.5,M,DramaFantasyRomance
+Life Is Beautiful (La Vita è bella) (1997),4.5,M,ComedyDramaRomanceWar
+Ghostbusters (a.k.a. Ghost Busters) (1984),4.5,M,ActionComedySci-Fi
+American Beauty (1999),4.5,M,DramaRomance
+Fight Club (1999),4.5,M,ActionCrimeDramaThriller
+Being John Malkovich (1999),4.5,M,ComedyDramaFantasy
+Talk to Her (Hable con Ella) (2002),4.5,M,DramaRomance
+My Neighbor Totoro (Tonari no Totoro) (1988),4.5,M,AnimationChildrenDramaFantasy
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986),4.5,M,ActionAdventureAnimationChildrenFantasySci-Fi
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Battle Royale (Batoru rowaiaru) (2000),4.5,M,ActionDramaHorrorThriller
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+3 Women (Three Women) (1977),4.5,M,Drama
+Kiki's Delivery Service (Majo no takkyûbin) (1989),4.5,M,AdventureAnimationChildrenDramaFantasy
+Little Miss Sunshine (2006),4.5,M,AdventureComedyDrama
+Casino (1995),4.5,M,CrimeDrama
+Hackers (1995),4.5,M,ActionAdventureCrimeThriller
+Aliens (1986),4.5,M,ActionAdventureHorrorSci-Fi
+Goodfellas (1990),4.5,M,CrimeDrama
+Donnie Brasco (1997),4.5,M,CrimeDrama
+The Devil's Advocate (1997),4.5,M,DramaMysteryThriller
+Good Will Hunting (1997),4.5,M,DramaRomance
+Jackie Brown (1997),4.5,M,CrimeDramaThriller
+Suicide Kings (1997),4.5,M,ComedyCrimeDramaMysteryThriller
+Pi (1998),4.5,M,DramaSci-FiThriller
+Rocky (1976),4.5,M,Drama
+Rain Man (1988),4.5,M,Drama
+Saving Private Ryan (1998),4.5,M,ActionDramaWar
+1984 (Nineteen Eighty-Four) (1984),4.5,M,DramaSci-Fi
+eXistenZ (1999),4.5,M,ActionSci-FiThriller
+Boiler Room (2000),4.5,M,CrimeDramaThriller
+High Fidelity (2000),4.5,M,ComedyDramaRomance
+Frequency (2000),4.5,M,DramaThriller
+Unbreakable (2000),4.5,M,DramaSci-Fi
+Traffic (2000),4.5,M,CrimeDramaThriller
+Antitrust (2001),4.5,M,CrimeDramaThriller
+Enemy at the Gates (2001),4.5,M,DramaWar
+Swordfish (2001),4.5,M,ActionCrimeDrama
+A.I. Artificial Intelligence (2001),4.5,M,AdventureDramaSci-Fi
+Training Day (2001),4.5,M,CrimeDramaThriller
+Donnie Darko (2001),4.5,M,DramaMysterySci-FiThriller
+Resident Evil (2002),4.5,M,ActionHorrorSci-FiThriller
+Blade II (2002),4.5,M,ActionHorrorThriller
+Changing Lanes (2002),4.5,M,DramaThriller
+Frailty (2001),4.5,M,CrimeDramaThriller
+Star Wars: Episode II - Attack of the Clones (2002),4.5,M,ActionAdventureSci-FiIMAX
+Minority Report (2002),4.5,M,ActionCrimeMysterySci-FiThriller
+One Hour Photo (2002),4.5,M,DramaThriller
+Empire (2002),4.5,M,CrimeDrama
+Confessions of a Dangerous Mind (2002),4.5,M,ComedyCrimeDramaThriller
+Poolhall Junkies (2002),4.5,M,ComedyDramaThriller
+Bruce Almighty (2003),4.5,M,ComedyDramaFantasyRomance
+Shaolin Soccer (Siu lam juk kau) (2001),4.5,M,ActionComedy
+Matchstick Men (2003),4.5,M,ComedyCrimeDrama
+Underworld (2003),4.5,M,ActionFantasyHorror
+Eternal Sunshine of the Spotless Mind (2004),4.5,M,DramaRomanceSci-Fi
+Man on Fire (2004),4.5,M,ActionCrimeDramaMysteryThriller
+Gladiator (1992),4.5,M,ActionDrama
+Finding Neverland (2004),4.5,M,Drama
+National Treasure (2004),4.5,M,ActionAdventureDramaMysteryThriller
+Ocean's Twelve (2004),4.5,M,ActionComedyCrimeThriller
+Mr. & Mrs. Smith (2005),4.5,M,ActionAdventureComedyRomance
+War of the Worlds (2005),4.5,M,ActionAdventureSci-FiThriller
+Aeon Flux (2005),4.5,M,ActionSci-Fi
+Jarhead (2005),4.5,M,ActionDramaWar
+Hot Fuzz (2007),4.5,M,ActionComedyCrimeMystery
+Casino (1995),4.5,M,CrimeDrama
+Braveheart (1995),4.5,M,ActionDramaWar
+Batman (1989),4.5,M,ActionCrimeThriller
+Fargo (1996),4.5,M,ComedyCrimeDramaThriller
+2001: A Space Odyssey (1968),4.5,M,AdventureDramaSci-Fi
+E.T. the Extra-Terrestrial (1982),4.5,M,ChildrenDramaSci-Fi
+Army of Darkness (1993),4.5,M,ActionAdventureComedyFantasyHorror
+Full Metal Jacket (1987),4.5,M,DramaWar
+Cool Hand Luke (1967),4.5,M,Drama
+Indiana Jones and the Last Crusade (1989),4.5,M,ActionAdventure
+My Life as a Dog (Mitt liv som hund) (1985),4.5,M,ComedyDrama
+Sling Blade (1996),4.5,M,Drama
+First Blood (Rambo: First Blood) (1982),4.5,M,ActionAdventureDramaThriller
+Mo' Better Blues (1990),4.5,M,DramaMusical
+Mystery Train (1989),4.5,M,ComedyDrama
+Assault on Precinct 13 (1976),4.5,M,ActionThriller
+Big Trouble in Little China (1986),4.5,M,ActionAdventureComedyFantasy
+Billy Elliot (2000),4.5,M,Drama
+Unbreakable (2000),4.5,M,DramaSci-Fi
+Scarface (1983),4.5,M,ActionCrimeDrama
+Training Day (2001),4.5,M,CrimeDramaThriller
+Black Hawk Down (2001),4.5,M,ActionDramaWar
+48 Hrs. (1982),4.5,M,ActionComedyCrimeDrama
+And Your Mother Too (Y tu mamá también) (2001),4.5,M,DramaRomance
+Spider-Man (2002),4.5,M,ActionAdventureSci-FiThriller
+Irreversible (Irréversible) (2002),4.5,M,CrimeDramaMysteryThriller
+Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),4.5,M,ActionAnimationSci-FiThriller
+Barton Fink (1991),4.5,M,DramaThriller
+Shaolin Soccer (Siu lam juk kau) (2001),4.5,M,ActionComedy
+Kill Bill: Vol. 1 (2003),4.5,M,ActionCrimeThriller
+Ichi the Killer (Koroshiya 1) (2001),4.5,M,ActionComedyCrimeDramaHorrorThriller
+Kill Bill: Vol. 2 (2004),4.5,M,ActionDramaThriller
+Enter the Dragon (1973),4.5,M,ActionCrime
+Collateral (2004),4.5,M,ActionCrimeDramaThriller
+The Machinist (2004),4.5,M,DramaMysteryThriller
+Dead or Alive 2: Tôbôsha (2000),4.5,M,ActionCrimeThriller
+Ong-Bak: The Thai Warrior (Ong Bak) (2003),4.5,M,ActionThriller
+Sin City (2005),4.5,M,ActionCrimeFilm-NoirMysteryThriller
+Miracles - Mr. Canton and Lady Rose (1989),4.5,M,ActionComedyCrimeDrama
+Police Story 2 (Ging chaat goo si juk jaap) (1988),4.5,M,ActionComedyCrimeThriller
+Brick (2005),4.5,M,CrimeDramaFilm-NoirMystery
+Wheels on Meals (Kuai can che) (1984),4.5,M,ActionComedyCrimeRomance
+Tropic Thunder (2008),4.5,M,ActionAdventureComedyWar
+Thirst (Bakjwi) (2009),4.5,M,DramaHorror
+Mary and Max (2009),4.5,M,AnimationComedyDrama
+Avatar (2009),4.5,M,ActionAdventureSci-FiIMAX
+Triangle (2009),4.5,M,DramaHorrorMysteryThriller
+Shutter Island (2010),4.5,M,DramaMysteryThriller
+Four Lions (2010),4.5,M,ComedyDrama
+Harry Potter and the Deathly Hallows: Part 2 (2011),4.5,M,ActionAdventureDramaFantasyMysteryIMAX
+Cold Fish (Tsumetai nettaigyo) (2010),4.5,M,DramaThriller
+Mission: Impossible - Ghost Protocol (2011),4.5,M,ActionAdventureThrillerIMAX
+Silver Linings Playbook (2012),4.5,M,ComedyDrama
+Django Unchained (2012),4.5,M,ActionDramaWestern
+Shaolin Temple (Shao Lin si) (1976),4.5,M,ActionAdventureDrama
+Pacific Rim (2013),4.5,M,ActionAdventureSci-FiIMAX
+Ninja: Shadow of a Tear (2013),4.5,M,ActionCrimeThriller
+Captain America: The Winter Soldier (2014),4.5,M,ActionAdventureSci-FiIMAX
+22 Jump Street (2014),4.5,M,ActionComedyCrime
+Guardians of the Galaxy (2014),4.5,M,ActionAdventureSci-Fi
+Predestination (2014),4.5,M,ActionMysterySci-FiThriller
+Nightcrawler (2014),4.5,M,CrimeDramaThriller
+Dead Snow 2: Red vs. Dead (2014) ,4.5,M,ActionComedyHorror
+Inherent Vice (2014),4.5,M,ComedyCrimeDramaMysteryRomance
+Kingsman: The Secret Service (2015),4.5,M,ActionAdventureComedyCrime
+Star Wars: Episode VII - The Force Awakens (2015),4.5,M,ActionAdventureFantasySci-FiIMAX
+Dope (2015),4.5,M,ComedyDrama
+Furious 7 (2015),4.5,M,ActionCrimeThriller
+The Revenant (2015),4.5,M,AdventureDrama
+Sicario (2015),4.5,M,CrimeDramaMystery
+Sympathy for the Underdog (1971),4.5,M,ActionCrimeDrama

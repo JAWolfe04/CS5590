@@ -1,0 +1,8 @@
+[cloudera@quickstart ~]$ solrctl instancedir --generate /tmp/books
+Error: subdirectory /tmp/books already exists
+[cloudera@quickstart ~]$ gedit /tmp/books/conf/schema.xml
+[cloudera@quickstart ~]$ solrctl instancedir --create books /tmp/books
+Uploading configs from /tmp/books/conf to quickstart.cloudera:2181/solr. This may take up to a minute.
+[cloudera@quickstart ~]$ solrctl collection --create books
+[cloudera@quickstart ~]$ 
+

@@ -1,0 +1,30 @@
+// Start Cassandra in the command line with admin permission
+cd C:\Users\Jonathan\Desktop\UMKC\CS 5590\apache-cassandra-3.11.6\bin
+cassandra.bat -f
+
+// Start Cassandra shell in the command line with admin permission using python
+cd C:\Users\Jonathan\Desktop\UMKC\CS 5590\apache-cassandra-3.11.6\bin
+C:\Python27\python cqlsh.py
+
+// Create Keyspace with single replication and SimpleStrategy
+create keyspace test with replication={'class':'SimpleStrategy', 'replication_factor':1};
+use test;
+
+// Create the employee Table
+CREATE TABLE employee(employee_id  int PRIMARY KEY, department text, lastname text, years_with_company int, hiredate date, jobtitle text, salary varint, managerid int);
+
+// Copy employee info into the employee Table
+copy employee(employee_id, department, lastname, years_with_company, hiredate, jobtitle, salary, managerid) from 'C:\Users\Jonathan\Desktop\UMKC\CS 5590\ICP\CS5590-ICP-7\Sources\employee\employee_entries.csv' WITH DELIMITER='|' AND Header=TRUE;
+
+// Run the required queries using ALLOW FILTERING when using where
+Select employee_id, lastname, jobtitle, hiredate from employee;
+Select lastname, salary from employee where jobtitle='clerk' ALLOW FILTERING;
+Select lastname, jobtitle, salary from employee where hiredate='2000-02-18' ALLOW FILTERING;
+Select lastname, salary from employee;
+Select lastname, salary, managerid from employee where salary=45000 ALLOW FILTERING;
+
+// Bonus
+// Create a custom index to replicate the functionality of LIKE in SQL
+CREATE CUSTOM INDEX  fn_prefix ON employee (lastname) USING 'org.apache.cassandra.index.sasi.SASIIndex';
+
+SELECT lastname FROM employee WHERE lastname LIKE 'G%';

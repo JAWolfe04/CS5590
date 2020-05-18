@@ -1,0 +1,8 @@
+[cloudera@quickstart ~]$ solrctl instancedir --generate /tmp/films
+Error: subdirectory /tmp/films already exists
+[cloudera@quickstart ~]$ gedit /tmp/films/conf/schema.xml
+[cloudera@quickstart ~]$ solrctl instancedir --create films /tmp/films
+Uploading configs from /tmp/films/conf to quickstart.cloudera:2181/solr. This may take up to a minute.
+[cloudera@quickstart ~]$ solrctl collection --create films
+[cloudera@quickstart ~]$ 
+
